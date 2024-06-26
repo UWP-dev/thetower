@@ -1,0 +1,22 @@
+/**** Admin side add css custom ****/
+.dropdown-item .form-check {
+    display: flex;
+    align-items: center;
+}
+@media (min-width: 1024px){
+	input[type=checkbox]:checked::before {
+		content: "\f147" !important;
+		margin: -3px 0 0 -4px !important;
+		color: #1e8cbe !important;
+		float: left;
+		display: inline-block;
+		vertical-align: middle;
+		width: 16px !important;
+		font: normal 21px/1 dashicons;
+		speak: none;
+		-webkit-font-smoothing: antialiased;
+	}
+	[dir="rtl"] input[type=checkbox]:checked::before {
+		margin: -.1875rem -.25rem 0 0 !important;
+	}
+}

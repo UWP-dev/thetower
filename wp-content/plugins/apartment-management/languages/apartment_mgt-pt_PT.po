@@ -1,0 +1,5467 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apartment Management System\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-03 12:24+0000\n"
+"PO-Revision-Date: 2022-01-04 06:51+0000\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese (Portugal)\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: apartment_mgt"
+
+#: admin/ducuments/add-document.php:985 admin/member/add_member.php:936
+#: admin/parking/assign-sloat.php:1066 admin/residential-unit/add_unit.php:247
+#: admin/residential-unit/index.php:1003
+#: admin/visitor-manage/visitor-checkin.php:575 template/member/member.php:652
+#: template/parking-manager/parking-manager.php:1089
+#: template/resident_unit/add_unit.php:218
+#: template/resident_unit/resident_unit.php:156
+msgid " Unit"
+msgstr " Unidade"
+
+#: amgt-function.php:34
+msgid " Unit "
+msgstr " Unidade"
+
+#: template/resident_unit/resident_unit.php:131
+msgid " Unit List"
+msgstr " Lista de Unidade"
+
+#: fronted_template.php:105
+msgid " View Document"
+msgstr " Ver Documento"
+
+#: admin/message/view_message.php:119 admin/message/view_message.php:122
+#: template/message/view_message.php:146 template/message/view_message.php:149
+msgid " || "
+msgstr " ||"
+
+#: amgt-function.php:1456
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(filtrado do total de _MAX_ entradas)"
+
+#: admin/accounts/add-charges-all-member.php:534
+msgid "/ per"
+msgstr "/ por"
+
+#: amgt-function.php:1471
+msgid ": activate to sort column ascending"
+msgstr ": ative para classificar a coluna em ordem crescente"
+
+#: amgt-function.php:1472
+msgid ": activate to sort column descending"
+msgstr ": ative para classificar a coluna em ordem decrescente"
+
+#: translation_string.php:86
+msgid "A/C Holder Name "
+msgstr "Nome do titular do A / C"
+
+#: admin/admin.php:58
+msgid "Access Right"
+msgstr "Direito de Acesso"
+
+#: admin/general-settings.php:481
+msgid "Account Holder Name"
+msgstr "nome do titular da conta"
+
+#: translation_string.php:87
+#| msgid "Account No"
+msgid "Account No "
+msgstr "Não da conta"
+
+#: admin/general-settings.php:489
+msgid "Account Number"
+msgstr "Número da conta"
+
+#: template/profile/profile.php:237
+msgid "Account Settings "
+msgstr "Configurações de Conta"
+
+#: admin/general-settings.php:497
+msgid "Account Type"
+msgstr "tipo de conta"
+
+#: amgt-function.php:37 amgt-function.php:74 amgt-function.php:107
+#: translation_string.php:50 admin/access_right/Accountant.php:370
+#: admin/access_right/Gatekeeper.php:370 admin/access_right/index.php:47
+#: admin/access_right/Member.php:370 admin/access_right/Staff_Member.php:370
+msgid "Accountant"
+msgstr "Contador"
+
+#: admin/access_right/Accountant.php:216
+msgid "Accountant Access Right"
+msgstr "Direito de acesso de contador"
+
+#: admin/member/index.php:293 template/accountant/accountant.php:166
+msgid "Accountant deleted successfully"
+msgstr "Contador excluído com sucesso"
+
+#: template/accountant/accountant.php:143
+msgid "Accountant inserted successfully"
+msgstr "Contador inserido com sucesso"
+
+#: admin/member/index.php:349
+msgid "Accountant inserted successfully."
+msgstr "Contador inserido com sucesso."
+
+#: admin/accountant/index.php:132 admin/member/index.php:571
+#: template/accountant/accountant.php:178
+msgid "Accountant List"
+msgstr "Lista de Contadores"
+
+#: admin/member/index.php:341 template/accountant/accountant.php:155
+msgid "Accountant updated successfully."
+msgstr "Contador atualizado com sucesso."
+
+#: amgt-function.php:46 admin/admin.php:44 admin/admin.php:44
+#: admin/access_right/Accountant.php:775 admin/access_right/Gatekeeper.php:774
+#: admin/access_right/Member.php:775 admin/access_right/Staff_Member.php:775
+msgid "Accounts"
+msgstr "Contas"
+
+#: admin/accountant/index.php:178 admin/accountant/index.php:188
+#: admin/accounts/expense-list.php:29 admin/accounts/expense-list.php:38
+#: admin/accounts/index.php:982 admin/accounts/index.php:1000
+#: admin/accounts/recuring_charg_list.php:46
+#: admin/accounts/recuring_charg_list.php:59
+#: admin/assets-inventory/index.php:205 admin/assets-inventory/index.php:216
+#: admin/assets-inventory/inventory-list.php:29
+#: admin/assets-inventory/inventory-list.php:37
+#: admin/committee-member/index.php:61 admin/committee-member/index.php:73
+#: admin/complaint/index.php:161 admin/complaint/index.php:174
+#: admin/ducuments/index.php:179 admin/ducuments/index.php:190
+#: admin/facility/facility-booking-list.php:41
+#: admin/facility/facility-booking-list.php:56 admin/facility/index.php:436
+#: admin/facility/index.php:446 admin/gatekeeper/index.php:172
+#: admin/gatekeeper/index.php:182 admin/member/accountant_list.php:48
+#: admin/member/accountant_list.php:58 admin/member/gatekeeper_list.php:48
+#: admin/member/gatekeeper_list.php:58 admin/member/member_list.php:97
+#: admin/member/member_list.php:109 admin/member/staff_list.php:48
+#: admin/member/staff_list.php:58 admin/member-corner/index.php:125
+#: admin/member-corner/index.php:134 admin/notice-events/event_list.php:31
+#: admin/notice-events/event_list.php:41 admin/notice-events/index.php:319
+#: admin/notice-events/index.php:329 admin/parking/assigned-sloat-list.php:42
+#: admin/parking/assigned-sloat-list.php:55 admin/parking/index.php:237
+#: admin/parking/index.php:245 admin/residential-unit/index.php:247
+#: admin/residential-unit/index.php:255 admin/service/index.php:132
+#: admin/service/index.php:143 admin/staff-member/index.php:173
+#: admin/staff-member/index.php:184 admin/tax/index.php:122
+#: admin/tax/index.php:129 admin/visitor-manage/staff-checkin-list.php:35
+#: admin/visitor-manage/staff-checkin-list.php:45
+#: admin/visitor-manage/visitor-checkin-list.php:137
+#: admin/visitor-manage/visitor-checkin-list.php:149
+#: template/accountant/accountant.php:242
+#: template/accountant/accountant.php:258
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:259
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:272
+#: template/assets-inventory-tracker/inventory_list.php:30
+#: template/assets-inventory-tracker/inventory_list.php:40
+#: template/committee-member/committee-member.php:92
+#: template/committee-member/committee-member.php:108
+#: template/complaint/complaint.php:194 template/complaint/complaint.php:207
+#: template/documents/documents.php:230 template/documents/documents.php:240
+#: template/facility/facility-booking-list.php:41
+#: template/facility/facility-booking-list.php:57
+#: template/facility/facility.php:382 template/facility/facility.php:396
+#: template/gatekeeper/gatekeeper.php:237
+#: template/gatekeeper/gatekeeper.php:253 template/member/member.php:360
+#: template/member/member.php:372 template/notice-event/event_list.php:70
+#: template/notice-event/event_list.php:80
+#: template/notice-event/notice-event.php:362
+#: template/notice-event/notice-event.php:372
+#: template/parking-manager/assigned-sloat-list.php:79
+#: template/parking-manager/assigned-sloat-list.php:94
+#: template/parking-manager/parking-manager.php:272
+#: template/parking-manager/parking-manager.php:282
+#: template/resident_unit/resident_unit.php:190
+#: template/resident_unit/resident_unit.php:198
+#: template/services/services.php:197 template/services/services.php:214
+#: template/visitor-manage/staff_checkinlist.php:33
+#: template/visitor-manage/staff_checkinlist.php:45
+#: template/visitor-manage/visitor-manage.php:410
+#: template/visitor-manage/visitor-manage.php:423
+msgid "Action"
+msgstr "Açao"
+
+#: admin/report/complaint.php:30 template/report/complaint.php:11
+msgid "Activated"
+msgstr "ativado"
+
+#: admin/member/accountant_list.php:111 admin/member/gatekeeper_list.php:121
+#: admin/member/member_list.php:151 admin/member/staff_list.php:111
+msgid "Active"
+msgstr "Ativo"
+
+#: admin/facility/facility-booking-list.php:33
+#: admin/facility/facility-booking-list.php:48
+#: admin/notification-templates/index.php:670
+#: admin/notification-templates/index.php:726
+#: template/facility/facility-booking-list.php:33
+#: template/facility/facility-booking-list.php:49
+msgid "Activity Name"
+msgstr "Nome da Atividade"
+
+#: admin/access_right/Accountant.php:224 admin/access_right/Gatekeeper.php:224
+#: admin/access_right/Member.php:224 admin/access_right/Staff_Member.php:224
+msgid "Add"
+msgstr "Adicionar"
+
+#: admin/accountant/add_accountant.php:254 admin/accountant/index.php:143
+#: admin/member/add_accountant.php:66 admin/member/add_accountant.php:267
+#: admin/member/index.php:588 template/accountant/accountant.php:194
+#: template/accountant/add_accountant.php:250
+msgid "Add Accountant"
+msgstr "Adicionar contador"
+
+#: translation_string.php:68
+msgid "Add Activity"
+msgstr "Adicionar atividade"
+
+#: translation_string.php:67
+msgid "Add Activity For Facility Booking"
+msgstr "Adicionar atividade para reserva de instalações"
+
+#: admin/assets-inventory/add-assets.php:175
+#: admin/assets-inventory/index.php:152
+#: template/assets-inventory-tracker/add_asset.php:172
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:198
+msgid "Add Asset"
+msgstr "Adicionar Ativo"
+
+#: translation_string.php:79
+msgid "Add Assets Category"
+msgstr "Adicionar categoria de ativos"
+
+#: admin/ducuments/add-document.php:161 admin/ducuments/add-document.php:420
+#: admin/ducuments/add-document.php:873 admin/member/add_member.php:149
+#: admin/member/add_member.php:822 admin/parking/assign-sloat.php:258
+#: admin/parking/assign-sloat.php:468 admin/parking/assign-sloat.php:951
+#: admin/residential-unit/index.php:405 admin/residential-unit/index.php:888
+#: template/member/add_member.php:159 template/member/member.php:540
+#: template/parking-manager/assign_sloat.php:229
+#: template/parking-manager/parking-manager.php:491
+#: template/parking-manager/parking-manager.php:978
+msgid "Add Building"
+msgstr "Adicionar edifício"
+
+#: translation_string.php:5
+msgid "Add Building Category"
+msgstr "Adicionar categoria de construção"
+
+#: translation_string.php:65
+msgid "Add Category"
+msgstr "Adicionar categoria"
+
+#: admin/accounts/index.php:908
+msgid "Add Charges"
+msgstr "Adicionar Encargos"
+
+#: admin/notification-templates/index.php:956
+msgid "Add Charges Email Template"
+msgstr "Adicionar modelo de e-mail de cobrança"
+
+#: admin/accounts/add-charges-all-member.php:588
+#: admin/accounts/add-charges-all-member.php:603
+msgid "Add Charges Entry"
+msgstr "Adicionar entrada de cobrança"
+
+#: admin/notification-templates/index.php:938
+msgid "Add Charges Template"
+msgstr "Adicionar modelo de cobrança"
+
+#: translation_string.php:74
+msgid "Add Charges Types"
+msgstr "Adicionar tipos de cobrança"
+
+#: admin/residential-unit/index.php:212
+msgid "Add Commercial Unit"
+msgstr "Adicionar Unidade Comercial"
+
+#: admin/notification-templates/index.php:546
+msgid "Add Complain For Admin Email Template"
+msgstr "Adicionar Reclamação para Modelo de Email de Admin"
+
+#: admin/complaint/index.php:119 template/complaint/complaint.php:152
+#| msgid "Add Complain"
+msgid "Add Complaint"
+msgstr "Adicionar Reclamação"
+
+#: admin/notification-templates/index.php:491
+#| msgid "Add Complain Email Template"
+msgid "Add Complaint Email Template"
+msgstr "Adicionar modelo de email de reclamação"
+
+#: admin/notification-templates/index.php:528
+#| msgid "Add Complain For Admin"
+msgid "Add Complaint For Admin"
+msgstr "Adicionar reclamação para administrador"
+
+#: admin/notification-templates/index.php:473
+#| msgid "Add Complain Template"
+msgid "Add Complaint Template"
+msgstr "Adicionar modelo de reclamação"
+
+#: admin/visitor-manage/visitor-checkin.php:231
+#: admin/visitor-manage/visitor-checkin.php:461
+msgid "Add Compound"
+msgstr "Adicionar Composto"
+
+#: translation_string.php:8
+msgid "Add Designation"
+msgstr "Adicionar Designação"
+
+#: admin/ducuments/add-document.php:326 admin/ducuments/index.php:142
+#: template/documents/add_documents.php:272
+#: template/documents/documents.php:194
+msgid "Add Document"
+msgstr "Adicionar Documento"
+
+#: admin/notice-events/index.php:284 template/notice-event/notice-event.php:325
+msgid "Add Event"
+msgstr "Adicionar Evento"
+
+#: admin/notification-templates/index.php:438
+msgid "Add Event Email Template"
+msgstr "Adicionar modelo de e-mail de evento"
+
+#: admin/notification-templates/index.php:420
+msgid "Add Event Template"
+msgstr "Adicionar modelo de evento"
+
+#: admin/accounts/add-expense.php:167 admin/accounts/index.php:929
+msgid "Add Expense"
+msgstr "Adicionar Despesa"
+
+#: translation_string.php:76
+msgid "Add Expense Types"
+msgstr "Adicionar Tipos de Despesa"
+
+#: admin/facility/add_facility.php:108 admin/facility/index.php:381
+#: template/facility/add_facility.php:108 template/facility/facility.php:319
+msgid "Add Facility"
+msgstr "Adicionar instalação"
+
+#: admin/gatekeeper/add_gatekeeper.php:124 admin/member/add_gatekeeper.php:164
+msgid "Add Gate"
+msgstr "Adicionar portão"
+
+#: admin/gatekeeper/add_gatekeeper.php:228 admin/gatekeeper/index.php:136
+#: admin/member/add_gatekeeper.php:58 admin/member/add_gatekeeper.php:288
+#: admin/member/index.php:591 template/gatekeeper/gatekeeper.php:190
+#: template/gatekeeper/gatekeeper.php:666
+msgid "Add Gatekeeper"
+msgstr "Adicionar Gatekeeper"
+
+#: admin/member/add_member.php:468
+msgid "Add GST Number"
+msgstr "Adicionar número GST"
+
+#: amgt-function.php:694
+msgid "Add Image"
+msgstr "Adicionar imagem"
+
+#: admin/accounts/index.php:1172
+msgid "Add Income"
+msgstr "Adicionar renda"
+
+#: admin/assets-inventory/add-inventory.php:97
+#: admin/assets-inventory/index.php:167
+#: template/assets-inventory-tracker/add_inventory.php:97
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:220
+msgid "Add Inventory"
+msgstr "Adicionar inventário"
+
+#: translation_string.php:80
+msgid "Add Inventory Unit Category"
+msgstr "Adicionar categoria de unidade de estoque"
+
+#: admin/ducuments/add-document.php:253 admin/ducuments/add-document.php:391
+#: admin/ducuments/add-document.php:858 admin/member/add_member.php:108
+#: admin/member/add_member.php:811 admin/member/index.php:587
+#: admin/parking/assign-sloat.php:355 admin/parking/assign-sloat.php:434
+#: admin/parking/assign-sloat.php:935 admin/residential-unit/index.php:296
+#: admin/residential-unit/index.php:369 admin/residential-unit/index.php:871
+#: template/member/add_member.php:801 template/member/member.php:310
+#: template/parking-manager/assign_sloat.php:324
+#: template/parking-manager/parking-manager.php:450
+#: template/parking-manager/parking-manager.php:961
+msgid "Add Member"
+msgstr "Adicionar membro"
+
+#: admin/ducuments/add-document.php:317 admin/member/add_member.php:744
+#: admin/member/add_member.php:796 template/documents/add_documents.php:263
+#: template/member/add_member.php:734 template/member/add_member.php:786
+msgid "Add More Document"
+msgstr "Adicionar mais documentos"
+
+#: admin/visitor-manage/visitor-checkin.php:442
+#: template/visitor-manage/visitor_checkin.php:399
+msgid "Add More Entry"
+msgstr "Adicionar mais entrada"
+
+#: admin/accounts/add-charges-all-member.php:788
+msgid "Add More Tax"
+msgstr "Adicionar mais impostos"
+
+#: admin/ducuments/add-document.php:977 admin/member/add_member.php:928
+#: admin/parking/assign-sloat.php:1057 admin/residential-unit/add_unit.php:236
+#: admin/residential-unit/index.php:994
+#: admin/visitor-manage/visitor-checkin.php:566 template/member/member.php:644
+#: template/parking-manager/parking-manager.php:1081
+#: template/resident_unit/add_unit.php:208
+msgid "Add More Unit"
+msgstr "Adicionar mais unidade"
+
+#: amgt-function.php:502 amgt-function.php:540 amgt-function.php:577
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: amgt-function.php:539
+msgid "Add New FAQ"
+msgstr "Adicionar novo FAQ"
+
+#: admin/visitor-manage/index.php:437
+msgid "Add New Gate"
+msgstr "Adicionar Novo Portão"
+
+#: amgt-function.php:576
+msgid "Add New Photo Gallery"
+msgstr "Adicionar nova galeria de fotos"
+
+#: amgt-function.php:501
+msgid "Add New Rules"
+msgstr "Adicionar novas regras"
+
+#: admin/notice-events/index.php:269 template/notice-event/notice-event.php:303
+msgid "Add Notice"
+msgstr "Adicionar Aviso"
+
+#: admin/notification-templates/index.php:387
+msgid "Add Notice Email Template"
+msgstr "Adicionar modelo de email de aviso"
+
+#: admin/notification-templates/index.php:369
+msgid "Add Notice Template"
+msgstr "Adicionar modelo de aviso"
+
+#: admin/accounts/add-charges-all-member.php:463
+#: admin/accounts/add-expense.php:110 admin/assets-inventory/add-assets.php:118
+#: admin/assets-inventory/add-inventory.php:91
+#: admin/complaint/add_complaint.php:231 admin/ducuments/add-document.php:667
+#: admin/ducuments/add-document.php:915 admin/ducuments/add-document.php:936
+#: admin/facility/booking-facility.php:136 admin/member/add_member.php:323
+#: admin/member/add_member.php:361 admin/member/add_member.php:406
+#: admin/member/add_member.php:454 admin/member/add_member.php:862
+#: admin/member/add_member.php:883 admin/member/add_staff_member.php:155
+#: admin/parking/assign-sloat.php:742 admin/parking/assign-sloat.php:994
+#: admin/parking/assign-sloat.php:1016 admin/residential-unit/add_unit.php:94
+#: admin/residential-unit/add_unit.php:139 admin/residential-unit/index.php:677
+#: admin/residential-unit/index.php:929 admin/residential-unit/index.php:950
+#: admin/staff-member/add_staff_member.php:117
+#: admin/visitor-manage/visitor-checkin.php:203
+#: admin/visitor-manage/visitor-checkin.php:504
+#: admin/visitor-manage/visitor-checkin.php:525
+#: template/assets-inventory-tracker/add_asset.php:122
+#: template/assets-inventory-tracker/add_inventory.php:92
+#: template/complaint/add_complain.php:254
+#: template/facility/booking-facility.php:135
+#: template/member/add_member.php:368 template/member/add_member.php:413
+#: template/member/add_member.php:458 template/member/member.php:581
+#: template/member/member.php:602
+#: template/parking-manager/parking-manager.php:766
+#: template/parking-manager/parking-manager.php:1020
+#: template/parking-manager/parking-manager.php:1040
+#: template/resident_unit/add_unit.php:76
+#: template/resident_unit/add_unit.php:120
+#: template/visitor-manage/visitor_checkin.php:143
+msgid "Add Or Remove"
+msgstr "Adicionar ou remover"
+
+#: admin/notification-templates/index.php:319
+#: admin/notification-templates/index.php:337
+msgid "Add Other User in system Template"
+msgstr "Adicionar outro usuário no modelo do sistema"
+
+#: translation_string.php:73
+msgid "Add Payment"
+msgstr "Adicionar Pagamento"
+
+#: admin/residential-unit/index.php:208
+msgid "Add Residential Unit"
+msgstr "Adicionar unidade residencial"
+
+#: admin/member-corner/add_rule.php:40 admin/member-corner/index.php:92
+msgid "Add Rule"
+msgstr "Adicionar regra"
+
+#: admin/service/add_service.php:112 admin/service/index.php:94
+#: template/services/add_services.php:103 template/services/services.php:147
+msgid "Add Service"
+msgstr "Adicionar serviço"
+
+#: admin/parking/add-sloat.php:87 admin/parking/index.php:204
+#: template/parking-manager/add_sloat.php:85
+#: template/parking-manager/parking-manager.php:217
+msgid "Add Slot"
+msgstr "Adicionar Slot"
+
+#: translation_string.php:10
+msgid "Add Staff Category"
+msgstr "Adicionar categoria de equipe"
+
+#: admin/member/add_staff_member.php:67 admin/member/add_staff_member.php:305
+#: admin/member/index.php:590 admin/staff-member/add_staff_member.php:239
+#: admin/staff-member/index.php:136
+msgid "Add Staff Member"
+msgstr "Adicionar membro da equipe"
+
+#: admin/tax/add_tax.php:49 admin/tax/index.php:91
+msgid "Add Tax"
+msgstr "Adicionar imposto"
+
+#: translation_string.php:78
+msgid "Add Types"
+msgstr "Adicionar Tipos"
+
+#: translation_string.php:6
+msgid "Add Unit Category"
+msgstr "Adicionar categoria de unidade"
+
+#: admin/member/index.php:585
+msgid "Add User"
+msgstr "Adicionar usuário"
+
+#: translation_string.php:60
+msgid "Add visit Reason"
+msgstr "Adicionar motivo da visita"
+
+#: admin/accountant/add_accountant.php:157
+#: admin/gatekeeper/add_gatekeeper.php:147 admin/member/add_accountant.php:169
+#: admin/member/add_gatekeeper.php:194 admin/member/add_staff_member.php:212
+#: admin/member/view_user.php:277 admin/service/add_service.php:103
+#: admin/service/index.php:131 admin/service/index.php:142
+#: admin/staff-member/add_staff_member.php:159
+#: template/accountant/add_accountant.php:157
+#: template/gatekeeper/gatekeeper.php:574 template/member/view_member.php:320
+#: template/services/add_services.php:93 template/services/services.php:193
+#: template/services/services.php:210
+msgid "Address"
+msgstr "Endereço"
+
+#: translation_string.php:53
+msgid "Administrator"
+msgstr "Administrador"
+
+#: amgt-function.php:97
+msgid "All"
+msgstr "Todo"
+
+#: admin/message/composemail.php:51
+msgid "All Accountants"
+msgstr "Todos os contadores"
+
+#: admin/message/composemail.php:54
+msgid "All Committee Member"
+msgstr "Todos os membros do Comitê"
+
+#: amgt-function.php:537
+msgid "All FAQ"
+msgstr "Todas as perguntas frequentes"
+
+#: admin/message/composemail.php:53
+msgid "All Gatekeeper"
+msgstr "All Gatekeeper"
+
+#: admin/accounts/add-charges-all-member.php:163
+msgid "All Member"
+msgstr "Todos os membros"
+
+#: admin/message/composemail.php:50
+msgid "All Members"
+msgstr "Todos os membros"
+
+#: admin/message/composemail.php:52
+msgid "All Staff Member"
+msgstr "Todo membro da equipe"
+
+#: admin/admin.php:26
+msgid "All User"
+msgstr "Todo usuário"
+
+#: template/message/composemail.php:66
+msgid "All Users"
+msgstr "Todos os usuários"
+
+#: admin/parking/assigned-sloat-list.php:85
+#: template/parking-manager/assigned-sloat-list.php:168
+msgid "Allotted"
+msgstr "Distribuído"
+
+#: admin/facility/add_facility.php:100 template/facility/add_facility.php:101
+msgid "Allow booking for multiple days"
+msgstr "Permitir reserva para vários dias"
+
+#: admin/facility/index.php:128 admin/facility/index.php:168
+#: admin/facility/index.php:225 template/facility/facility.php:147
+#: template/facility/facility.php:203
+msgid "Already booking this facility."
+msgstr "Já reservamos esta facilidade."
+
+#: admin/accounts/add-expense.php:138 admin/accounts/expense-list.php:27
+#: admin/accounts/expense-list.php:36
+#: admin/report/download_expense_report.php:78
+#: admin/report/download_expense_report.php:87
+#: admin/report/download_income_expense_report.php:77
+#: admin/report/download_income_expense_report.php:85
+msgid "Amount"
+msgstr "Quantia"
+
+#: admin/accounts/add-charges-all-member.php:631
+#: admin/accounts/add-charges-all-member.php:647
+#: admin/accounts/recuring_charg_list.php:42
+#: admin/accounts/recuring_charg_list.php:55
+msgid "Amount After Discount"
+msgstr "Quantidade após o desconto"
+
+#: admin/facility/add_facility.php:63 template/facility/add_facility.php:66
+msgid "Amount Charge"
+msgstr "Cobrança de valor"
+
+#: admin/notice-events/add_notice.php:86 admin/notice-events/index.php:349
+#: template/notice-event/add_notice.php:84
+#: template/notice-event/notice-event.php:443
+msgid "Announcement"
+msgstr "Anúncio"
+
+#: admin/general-settings.php:140
+msgid "Apartment Address"
+msgstr "Endereço do apartamento"
+
+#: admin/general-settings.php:206
+msgid "Apartment Logo"
+msgstr "Logotipo do apartamento"
+
+#: admin/admin.php:7
+msgid "Apartment Management"
+msgstr "Gestão de apartamentos"
+
+#. Name of the plugin
+msgid "Apartment Management System"
+msgstr "Sistema de gestão de apartamentos"
+
+#. Description of the plugin
+msgid ""
+"Apartment Management System for wordpress plugin is ideal way to manage "
+"complete housing society or neighborhood maintenance tasks. It has different "
+"user roles like Admin, Resident members, Gatekeeper and Accountant Users."
+msgstr ""
+"O plugin de sistema de gerenciamento de apartamento para wordpress é a "
+"maneira ideal de gerenciar tarefas de manutenção de bairro ou sociedade de "
+"habitação completas. Tem diferentes funções de usuário, como Admin, Membros "
+"residentes, Gatekeeper e Usuários Contadores."
+
+#: admin/general-settings.php:111
+msgid "Apartment Name"
+msgstr "Nome do apartamento"
+
+#: admin/notification-templates/index.php:508
+#: admin/notification-templates/index.php:564
+msgid "Apartment Number"
+msgstr "Número do apartamento"
+
+#: admin/general-settings.php:119
+msgid "Apartment Type"
+msgstr "Tipo de apartamento"
+
+#: admin/facility/facility-booking-list.php:121
+#: admin/notice-events/event_list.php:63 admin/notice-events/index.php:362
+#: admin/visitor-manage/visitor-checkin-list.php:199
+#: template/visitor-manage/visitor-manage.php:541
+msgid "Approve"
+msgstr "Aprovar"
+
+#: admin/facility/facility-booking-list.php:113
+#: admin/notice-events/index.php:358
+#: admin/visitor-manage/visitor-checkin-list.php:101
+#: admin/visitor-manage/visitor-checkin-list.php:166
+#: template/facility/facility-booking-list.php:157
+#: template/visitor-manage/visitor-manage.php:498
+msgid "Approved"
+msgstr "Aprovado"
+
+#: admin/notification-templates/index.php:749
+msgid "Approved Facility Template"
+msgstr "Modelo de instalação aprovado"
+
+#: admin/report/expense.php:2 admin/report/payment.php:2
+#: template/report/expense.php:2 template/report/payment.php:2
+msgid "April"
+msgstr "abril"
+
+#: admin/notification-templates/index.php:1054
+msgid "Aproved Visitor Request Email Template"
+msgstr "Modelo de e-mail de solicitação de visitante aprovado"
+
+#: admin/notification-templates/index.php:1036
+msgid "Aproved Visitor Request Template"
+msgstr "Modelo de solicitação de visitante aprovado"
+
+#: translation_string.php:4
+msgid "Are you sure want to delete this record?"
+msgstr "Tem certeza que deseja excluir este registro?"
+
+#: admin/message/view_message.php:93 template/message/view_message.php:118
+msgid "Are you sure you want to delete this record?"
+msgstr "Tem certeza que deseja excluir este registro?"
+
+#: admin/notification-templates/index.php:621
+msgid "Asign Slot Link"
+msgstr "Atribuir link de slot"
+
+#: admin/assets-inventory/add-assets.php:95
+#: admin/assets-inventory/index.php:202 admin/assets-inventory/index.php:213
+#: template/assets-inventory-tracker/add_asset.php:100
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:255
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:268
+msgid "Asset Category"
+msgstr "Categoria de Ativo"
+
+#: admin/assets-inventory/add-assets.php:166
+#: admin/assets-inventory/index.php:204 admin/assets-inventory/index.php:215
+#: template/assets-inventory-tracker/add_asset.php:164
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:257
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:270
+msgid "Asset Cost"
+msgstr "Custo do Ativo"
+
+#: admin/assets-inventory/index.php:203 admin/assets-inventory/index.php:214
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:256
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:269
+msgid "Asset Date"
+msgstr "Data do Ativo"
+
+#: admin/assets-inventory/index.php:93
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:119
+msgid "Asset inserted successfully"
+msgstr "Ativo inserido com sucesso"
+
+#: admin/assets-inventory/index.php:141
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:183
+msgid "Asset List"
+msgstr "Lista de Ativos"
+
+#: admin/assets-inventory/add-assets.php:78
+#: admin/assets-inventory/index.php:201 admin/assets-inventory/index.php:212
+#: template/assets-inventory-tracker/add_asset.php:84
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:254
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:267
+msgid "Asset Name"
+msgstr "Nome do Ativo"
+
+#: admin/assets-inventory/add-assets.php:70
+#: admin/assets-inventory/index.php:199 admin/assets-inventory/index.php:210
+#: template/assets-inventory-tracker/add_asset.php:76
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:252
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:265
+msgid "Asset No"
+msgstr "Ativo Não"
+
+#: admin/assets-inventory/index.php:100
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:130
+msgid "Asset updated successfully."
+msgstr "Ativo atualizado com sucesso."
+
+#: admin/admin.php:48
+msgid "Asset/ Inventory Tracker"
+msgstr "Rastreador de ativos / estoque"
+
+#: amgt-function.php:49 admin/access_right/Accountant.php:865
+#: admin/access_right/Gatekeeper.php:864 admin/access_right/Member.php:865
+#: admin/access_right/Staff_Member.php:865
+msgid "Assets / Inventory Tracker"
+msgstr "Rastreador de ativos / estoque"
+
+#: admin/gatekeeper/add_gatekeeper.php:88 admin/member/add_gatekeeper.php:126
+#: template/gatekeeper/gatekeeper.php:510
+msgid "Assign Gate"
+msgstr "Atribuir portão"
+
+#: admin/notification-templates/index.php:584
+msgid "Assign Parking Slot Template"
+msgstr "Atribuir modelo de vaga de estacionamento"
+
+#: admin/parking/assign-sloat.php:395 admin/parking/index.php:217
+#: template/parking-manager/assign_sloat.php:357
+#: template/parking-manager/parking-manager.php:236
+msgid "Assign Slot"
+msgstr "Atribuir Slot"
+
+#: admin/notification-templates/index.php:602
+msgid "Assign Slot Email Template"
+msgstr "Atribuir modelo de email de slot"
+
+#: admin/gatekeeper/index.php:169 admin/gatekeeper/index.php:179
+#: admin/member/gatekeeper_list.php:47 admin/member/gatekeeper_list.php:57
+#: template/gatekeeper/gatekeeper.php:231
+#: template/gatekeeper/gatekeeper.php:247
+msgid "Assigned Gate"
+msgstr "Portão Atribuído"
+
+#: admin/parking/index.php:207 template/parking-manager/parking-manager.php:223
+msgid "Assigned Slot List"
+msgstr "Lista de Slots Atribuídos"
+
+#: admin/report/expense.php:3 admin/report/payment.php:3
+#: template/report/expense.php:3 template/report/payment.php:3
+msgid "August"
+msgstr "agosto"
+
+#: admin/general-settings.php:336
+msgid "Australian Dollar"
+msgstr "Dólar australiano"
+
+#: admin/facility/index.php:489 template/facility/facility.php:428
+msgid "Available"
+msgstr "Disponível"
+
+#: admin/accountant/add_accountant.php:119 admin/accountant/index.php:175
+#: admin/accountant/index.php:185 admin/member/accountant_list.php:47
+#: admin/member/accountant_list.php:57 admin/member/add_accountant.php:130
+#: admin/member/add_staff_member.php:160 admin/member/staff_list.php:47
+#: admin/member/staff_list.php:57 admin/staff-member/add_staff_member.php:120
+#: admin/staff-member/index.php:169 admin/staff-member/index.php:180
+#: template/accountant/accountant.php:236
+#: template/accountant/accountant.php:252
+#: template/accountant/add_accountant.php:119
+#: template/staff-members/staff-members.php:80
+#: template/staff-members/staff-members.php:90
+msgid "Badge ID"
+msgstr "ID do crachá"
+
+#: admin/general-settings.php:469
+msgid "Bank Details"
+msgstr "Detalhes bancários"
+
+#: admin/general-settings.php:473
+msgid "Bank Name"
+msgstr "Nome do banco"
+
+#: translation_string.php:72
+msgid "Bank Transfer"
+msgstr "Transferência bancária"
+
+#: admin/accounts/add-expense.php:126
+msgid "Bill Date"
+msgstr "Data da conta"
+
+#: translation_string.php:26
+msgid "Billing Period"
+msgstr "Período de pagamento"
+
+#: admin/facility/index.php:395 template/facility/facility.php:341
+msgid "Book Facility"
+msgstr "Livro Facilidade"
+
+#: admin/facility/booking-facility.php:113
+#: template/facility/booking-facility.php:113
+msgid "Book For Activity"
+msgstr "Livro para atividades"
+
+#: admin/facility/index.php:485 template/facility/facility.php:426
+msgid "Booked"
+msgstr "Reservado"
+
+#: admin/notification-templates/index.php:669
+#: admin/notification-templates/index.php:725
+msgid "Booked User Name"
+msgstr "Nome de usuário contratado"
+
+#: admin/facility/index.php:385
+msgid "Booking  Facility  List"
+msgstr "Lista de facilidades de reserva"
+
+#: template/facility/facility.php:327
+msgid "Booking  Facility List"
+msgstr "Lista de facilidades de reserva"
+
+#: admin/facility/booking-facility.php:170
+#: admin/facility/facility-booking-list.php:38
+#: admin/facility/facility-booking-list.php:53
+#: template/facility/booking-facility.php:169
+#: template/facility/facility-booking-list.php:38
+#: template/facility/facility-booking-list.php:54
+msgid "Booking Date"
+msgstr "Data de Reserva"
+
+#: admin/facility/booking-facility.php:214
+#: template/facility/booking-facility.php:223
+msgid "Booking Facility On Behalf Of"
+msgstr "Serviço de reserva em nome de"
+
+#: admin/notification-templates/index.php:671
+#: admin/notification-templates/index.php:727
+msgid "Booking For From Date"
+msgstr "Reserva para a partir da data"
+
+#: admin/notification-templates/index.php:673
+#: admin/notification-templates/index.php:729
+msgid "Booking For From Time"
+msgstr "Reserva para a partir do momento"
+
+#: admin/notification-templates/index.php:672
+#: admin/notification-templates/index.php:728
+msgid "Booking For To Date"
+msgstr "Reserva para até a data"
+
+#: admin/notification-templates/index.php:674
+#: admin/notification-templates/index.php:730
+msgid "Booking For To Time"
+msgstr "Reserva por tempo"
+
+#: admin/general-settings.php:340
+msgid "Brazilian Real"
+msgstr "real brasileiro"
+
+#: admin/accounts/add-charges-all-member.php:190
+#: admin/accounts/add-charges-all-member.php:340
+#: admin/accounts/add-charges-all-member.php:397
+#: admin/ducuments/add-document.php:137 admin/ducuments/add-document.php:402
+#: admin/ducuments/add-document.php:899 admin/member/add_member.php:121
+#: admin/member/add_member.php:847 admin/parking/assign-sloat.php:235
+#: admin/parking/assign-sloat.php:445 admin/parking/assign-sloat.php:979
+#: admin/residential-unit/add_unit.php:57 admin/residential-unit/index.php:380
+#: admin/residential-unit/index.php:914 template/documents/add_documents.php:70
+#: template/member/add_member.php:136 template/member/member.php:566
+#: template/parking-manager/assign_sloat.php:206
+#: template/parking-manager/parking-manager.php:467
+#: template/parking-manager/parking-manager.php:1005
+#: template/resident_unit/add_unit.php:39
+msgid "Building"
+msgstr "Prédio"
+
+#: admin/parking/assigned-sloat-list.php:36
+#: admin/parking/assigned-sloat-list.php:49
+#: template/parking-manager/assigned-sloat-list.php:72
+#: template/parking-manager/assigned-sloat-list.php:87
+msgid "Building Block"
+msgstr "Bloco de Construção"
+
+#: admin/report/unit_by_building.php:35 template/report/unit_by_building.php:14
+msgid "Building By Unit"
+msgstr "Edifício por unidade"
+
+#: admin/accounts/add-charges-all-member.php:167
+msgid "Building Member"
+msgstr "Membro Construtor"
+
+#: fronted_template.php:863 admin/accounts/index.php:972
+#: admin/accounts/index.php:989 admin/committee-member/index.php:57
+#: admin/committee-member/index.php:69 admin/member/member_list.php:93
+#: admin/member/member_list.php:105 admin/member/view_user.php:194
+#: admin/notification-templates/index.php:163
+#: admin/report/member_by_building.php:26
+#: admin/report/member_by_building.php:39 admin/report/unit_by_building.php:26
+#: admin/report/unit_by_building.php:41 admin/residential-unit/index.php:245
+#: admin/residential-unit/index.php:253 template/member/member.php:356
+#: template/member/member.php:368 template/member/view_member.php:220
+#: template/report/member_by_building.php:5
+#: template/report/member_by_building.php:18
+#: template/report/unit_by_building.php:5
+#: template/report/unit_by_building.php:20
+#: template/resident_unit/resident_unit.php:188
+#: template/resident_unit/resident_unit.php:196
+msgid "Building Name"
+msgstr "nome do edifício"
+
+#: admin/general-settings.php:398
+msgid "Building Units settings"
+msgstr "Configurações de unidades de construção"
+
+#: fronted_template.php:528
+msgid "Buildings"
+msgstr "Edifícios"
+
+#: fronted_template.php:795
+msgid "Buildings Units"
+msgstr "Unidades de edifícios"
+
+#: admin/facility/add_facility.php:85 template/facility/add_facility.php:87
+msgid "By Date"
+msgstr "Por data"
+
+#: admin/facility/add_facility.php:81 template/facility/add_facility.php:83
+msgid "By Hour"
+msgstr "Por hora"
+
+#: fronted_template.php:776 admin/dasboard.php:333
+msgid "Calendar"
+msgstr "Calendário"
+
+#: admin/general-settings.php:344
+msgid "Canadian Dollar"
+msgstr "Dólar canadense"
+
+#: amgt-function.php:122 admin/ducuments/add-document.php:528
+#: admin/member/add_member.php:283 admin/parking/assign-sloat.php:603
+#: admin/residential-unit/index.php:539 template/member/add_member.php:296
+#: template/parking-manager/parking-manager.php:628
+msgid "Care Taker"
+msgstr "Cuidador"
+
+#: translation_string.php:70
+msgid "Cash"
+msgstr "Dinheiro"
+
+#: admin/complaint/add_complaint.php:209 admin/member-corner/index.php:122
+#: admin/member-corner/index.php:131 template/complaint/add_complain.php:227
+msgid "Category"
+msgstr "Categoria"
+
+#: translation_string.php:66
+msgid "Category Name"
+msgstr "Nome da Categoria"
+
+#: translation_string.php:32
+msgid "Category:"
+msgstr "Categoria:"
+
+#: admin/accounts/index.php:975 admin/accounts/index.php:993
+#: admin/accounts/recuring_charg_list.php:40
+#: admin/accounts/recuring_charg_list.php:53
+msgid "Charge Calculate By"
+msgstr "Cobrança Calculada por"
+
+#: admin/accounts/add-charges-all-member.php:475
+msgid "Charge Calculate By "
+msgstr "Cobrança Calculada por"
+
+#: admin/accounts/add-charges-all-member.php:132
+msgid "Charge End Date"
+msgstr "Data de término da cobrança"
+
+#: admin/facility/add_facility.php:75 template/facility/add_facility.php:77
+msgid "Charge Per"
+msgstr "Cobrar por"
+
+#: admin/facility/index.php:433 admin/facility/index.php:443
+#: template/facility/facility.php:377 template/facility/facility.php:391
+msgid "charge Per"
+msgstr "cobrar por"
+
+#: admin/accounts/add-charges-all-member.php:95
+#: admin/accounts/recuring_charg_list.php:39
+#: admin/accounts/recuring_charg_list.php:52
+msgid "Charge Period"
+msgstr "Período de Carga"
+
+#: admin/accounts/index.php:831
+msgid "Charge Save successfully"
+msgstr "Carga Salvar com sucesso"
+
+#: admin/accounts/add-charges-all-member.php:125
+msgid "Charge Start Date"
+msgstr "Data de início da cobrança"
+
+#: admin/accounts/index.php:974 admin/accounts/index.php:992
+msgid "Charge Type"
+msgstr "Tipo de Carga"
+
+#: admin/accounts/index.php:838
+msgid "Charge updated successfully."
+msgstr "Cobrança atualizada com sucesso."
+
+#: admin/accounts/add-charges-all-member.php:441
+msgid "Charges"
+msgstr "Cobranças"
+
+#: admin/accounts/add-charges-all-member.php:564
+msgid "Charges Amount"
+msgstr "Montante das Cobranças"
+
+#: admin/accounts/add-charges-all-member.php:567
+msgid "Charges Entry Label"
+msgstr "Etiqueta de entrada de encargos"
+
+#: admin/accounts/index.php:895
+msgid "Charges List"
+msgstr "Lista de Encargos"
+
+#: translation_string.php:75
+msgid "Charges Name"
+msgstr "Nome das Cobranças"
+
+#: admin/accounts/add-charges-all-member.php:505
+#: admin/accounts/add-charges-all-member.php:529
+#: admin/accounts/add-charges-all-member.php:562
+msgid "Charges Payment"
+msgstr "Pagamento de Encargos"
+
+#: admin/accounts/recuring_charg_list.php:38
+#: admin/accounts/recuring_charg_list.php:51
+msgid "Charges type"
+msgstr "Tipo de cobrança"
+
+#: template/visitor-manage/staff_checkin.php:119
+#: template/visitor-manage/visitor_checkin.php:249
+msgid "Check In Date"
+msgstr "Data de check-in"
+
+#: admin/visitor-manage/staff-checkin.php:137
+msgid "Check in Date and Time"
+msgstr "Data e hora do check-in"
+
+#: template/visitor-manage/staff_checkin.php:124
+#: template/visitor-manage/visitor_checkin.php:254
+msgid "Check In Time"
+msgstr "Verificar em tempo"
+
+#: admin/visitor-manage/staff-checkin-list.php:74
+#: admin/visitor-manage/visitor-checkin-list.php:209
+#: template/visitor-manage/staff_checkinlist.php:89
+#: template/visitor-manage/visitor-manage.php:563
+msgid "Check Out"
+msgstr "Verificação de saída"
+
+#: admin/visitor-manage/staff-checkin-list.php:32
+#: admin/visitor-manage/staff-checkin-list.php:42
+#: admin/visitor-manage/visitor-checkin-list.php:133
+#: admin/visitor-manage/visitor-checkin-list.php:145
+#: template/visitor-manage/staff_checkinlist.php:29
+#: template/visitor-manage/staff_checkinlist.php:41
+#: template/visitor-manage/visitor-manage.php:405
+#: template/visitor-manage/visitor-manage.php:418
+msgid "Checked In Date"
+msgstr "Data de check-in"
+
+#: admin/visitor-manage/staff-checkin-list.php:43
+#: admin/visitor-manage/visitor-checkin-list.php:134
+#: admin/visitor-manage/visitor-checkin-list.php:146
+#: template/visitor-manage/visitor-manage.php:406
+#: template/visitor-manage/visitor-manage.php:419
+msgid "Checked In On Time"
+msgstr "Check-in dentro do prazo"
+
+#: admin/visitor-manage/staff-checkin-list.php:33
+#: template/visitor-manage/staff_checkinlist.php:30
+#: template/visitor-manage/staff_checkinlist.php:42
+msgid "Checked in On Time"
+msgstr "Check-in pontual"
+
+#: admin/visitor-manage/index.php:254
+#: template/visitor-manage/visitor-manage.php:268
+msgid "Checked Out successfully"
+msgstr "Check-out realizado com sucesso"
+
+#: admin/visitor-manage/staff-checkin-list.php:34
+#: admin/visitor-manage/staff-checkin-list.php:44
+#: admin/visitor-manage/visitor-checkin-list.php:135
+#: admin/visitor-manage/visitor-checkin-list.php:147
+#: template/visitor-manage/staff_checkinlist.php:31
+#: template/visitor-manage/staff_checkinlist.php:43
+#: template/visitor-manage/visitor-manage.php:407
+#: template/visitor-manage/visitor-manage.php:420
+msgid "Checked Out Time"
+msgstr "Horário de check-out"
+
+#: admin/visitor-manage/staff-checkin.php:158
+#: admin/visitor-manage/visitor-checkin.php:448
+#: admin/visitor-manage/visitor-checkin.php:448
+#: template/visitor-manage/staff_checkin.php:141
+#: template/visitor-manage/staff_checkin.php:141
+#: template/visitor-manage/visitor_checkin.php:406
+#: template/visitor-manage/visitor_checkin.php:406
+msgid "Checkin"
+msgstr "Check-in"
+
+#: translation_string.php:42 translation_string.php:44
+msgid "Checkout"
+msgstr "Confira"
+
+#: translation_string.php:71
+msgid "Cheque"
+msgstr "Verifica"
+
+#: admin/visitor-manage/staff-checkin.php:67
+#: admin/visitor-manage/visitor-checkin.php:140
+#: template/visitor-manage/staff_checkin.php:49
+#: template/visitor-manage/visitor_checkin.php:83
+msgid "Choose Gate"
+msgstr "Escolha o portão"
+
+#: admin/general-settings.php:148 admin/accountant/add_accountant.php:166
+#: admin/ducuments/add-document.php:689 admin/gatekeeper/add_gatekeeper.php:154
+#: admin/member/add_accountant.php:178 admin/member/add_gatekeeper.php:203
+#: admin/member/add_member.php:486 admin/member/add_staff_member.php:221
+#: admin/member/view_user.php:287 admin/parking/assign-sloat.php:763
+#: admin/residential-unit/index.php:699
+#: admin/staff-member/add_staff_member.php:166
+#: template/accountant/add_accountant.php:166
+#: template/gatekeeper/gatekeeper.php:583 template/member/add_member.php:480
+#: template/member/view_member.php:332
+#: template/parking-manager/parking-manager.php:788
+msgid "City"
+msgstr "Cidade"
+
+#: admin/ducuments/add-document.php:863 admin/ducuments/add-document.php:990
+#: admin/member/add_member.php:941 admin/parking/assign-sloat.php:940
+#: admin/parking/assign-sloat.php:1073 admin/residential-unit/index.php:876
+#: admin/residential-unit/index.php:1010
+#: admin/visitor-manage/visitor-checkin.php:582 template/member/member.php:659
+#: template/parking-manager/parking-manager.php:966
+#: template/parking-manager/parking-manager.php:1094
+msgid "Close"
+msgstr "Fechar"
+
+#: admin/complaint/add_complaint.php:256 admin/complaint/add_complaint.php:304
+#: admin/complaint/index.php:240 template/complaint/add_complain.php:279
+#: template/complaint/add_complain.php:321 template/complaint/complaint.php:320
+msgid "Closed"
+msgstr "Fechadas"
+
+#: admin/parking/add-sloat.php:79 admin/parking/index.php:236
+#: admin/parking/index.php:244 template/parking-manager/add_sloat.php:77
+#: template/parking-manager/parking-manager.php:270
+#: template/parking-manager/parking-manager.php:280
+msgid "Comment"
+msgstr "Comente"
+
+#: admin/general-settings.php:124
+msgid "Commercial"
+msgstr "Comercial"
+
+#: admin/admin.php:23
+msgid "Commercial Unit "
+msgstr "Unidade Comercial"
+
+#: admin/residential-unit/index.php:180
+msgid "Commercial Unit List"
+msgstr "Lista de Unidade Comercial"
+
+#: admin/ducuments/add-document.php:640 admin/parking/assign-sloat.php:715
+#: admin/residential-unit/index.php:650 template/member/add_member.php:432
+#: template/parking-manager/parking-manager.php:739
+msgid "Commitee Member"
+msgstr "Membro do Comitê"
+
+#: fronted_template.php:485 admin/dasboard.php:187
+msgid "Committee"
+msgstr "Comitê"
+
+#: amgt-function.php:36 amgt-function.php:101
+#: admin/access_right/Accountant.php:325 admin/access_right/Gatekeeper.php:325
+#: admin/access_right/Member.php:325 admin/access_right/Staff_Member.php:325
+#: admin/member/add_member.php:426
+msgid "Committee Member"
+msgstr "Membro do Comitê"
+
+#: admin/committee-member/index.php:20
+#: template/committee-member/committee-member.php:48
+msgid "Committee Member List"
+msgstr "Lista de Membros do Comitê"
+
+#: admin/admin.php:28
+msgid "Committee Members"
+msgstr "Membros do Comitê"
+
+#: amgt-function.php:42 fronted_template.php:677 admin/admin.php:34
+#: admin/admin.php:34 admin/dasboard.php:291
+#: admin/access_right/Accountant.php:595 admin/access_right/Gatekeeper.php:594
+#: admin/access_right/Member.php:595 admin/access_right/Staff_Member.php:595
+#: admin/complaint/add_complaint.php:130 admin/complaint/index.php:190
+#: template/complaint/add_complain.php:131 template/complaint/complaint.php:280
+msgid "Complaint"
+msgstr "Reclamação"
+
+#: admin/complaint/add_complaint.php:271
+#: template/complaint/add_complain.php:290
+#| msgid "Complain Date"
+msgid "Complaint Date"
+msgstr "Data da Reclamação"
+
+#: admin/complaint/index.php:95 template/complaint/complaint.php:116
+#| msgid "Complain deleted successfully"
+msgid "Complaint deleted successfully"
+msgstr "Reclamação excluída com sucesso"
+
+#: admin/notification-templates/index.php:507
+#: admin/notification-templates/index.php:563
+#| msgid "Complain Description"
+msgid "Complaint Description"
+msgstr "Descrição da reclamação"
+
+#: translation_string.php:29
+msgid "Complaint Details"
+msgstr "Detalhes da reclamação"
+
+#: admin/notification-templates/index.php:509
+#: admin/notification-templates/index.php:565
+#: admin/notification-templates/index.php:566
+#| msgid "Complain From"
+msgid "Complaint From"
+msgstr "Reclamar de"
+
+#: admin/complaint/index.php:78 template/complaint/complaint.php:96
+#| msgid "Complain inserted successfully"
+msgid "Complaint inserted successfully"
+msgstr "Reclamação inserida com sucesso"
+
+#: admin/notification-templates/index.php:510
+#: admin/notification-templates/index.php:567
+#| msgid "Complain Link"
+msgid "Complaint Link"
+msgstr "Link de reclamação"
+
+#: admin/complaint/index.php:108 template/complaint/complaint.php:138
+#| msgid "Complain List"
+msgid "Complaint List"
+msgstr "Lista de reclamações"
+
+#: admin/notification-templates/index.php:503
+#: admin/notification-templates/index.php:559
+#| msgid "Complain Nature"
+msgid "Complaint Nature"
+msgstr "Reclamar natureza"
+
+#: admin/notification-templates/index.php:506
+#: admin/notification-templates/index.php:562 admin/report/index.php:33
+#: template/report/report.php:37
+msgid "Complaint Status"
+msgstr "Status da reclamação"
+
+#: fronted_template.php:745 admin/dasboard.php:304
+#| msgid "Complain Title"
+msgid "Complaint Title"
+msgstr "Título da reclamação"
+
+#: admin/complaint/index.php:85 template/complaint/complaint.php:106
+#| msgid "Complain updated successfully."
+msgid "Complaint updated successfully."
+msgstr "Reclamação atualizada com sucesso."
+
+#: admin/message/index.php:50 admin/message/index.php:60
+#: template/message/message.php:82 template/message/message.php:93
+msgid "Compose"
+msgstr "Compor"
+
+#: admin/complaint/add_complaint.php:164
+#: admin/visitor-manage/visitor-checkin.php:208
+#: admin/visitor-manage/visitor-checkin.php:489
+#: template/visitor-manage/visitor_checkin.php:163
+msgid "Compound"
+msgstr "Composto"
+
+#: admin/dasboard.php:363
+msgid "Compound Name"
+msgstr "Nome do Composto"
+
+#: translation_string.php:36
+msgid "COMPOUND: "
+msgstr "COMPOSTO:"
+
+#: admin/dasboard.php:210
+msgid "Compounds"
+msgstr "Compostos"
+
+#: admin/dasboard.php:346
+msgid "Compounds Units"
+msgstr "Unidades de Compostos"
+
+#: template/profile/profile.php:306 template/profile/profile.php:308
+msgid "Confirm Password"
+msgstr "Confirme sua senha"
+
+#: template/profile/profile.php:195
+msgid "Confirm password does not match."
+msgstr "A senha de confirmação não corresponde."
+
+#: admin/service/add_service.php:74 admin/service/index.php:128
+#: admin/service/index.php:139 template/services/add_services.php:60
+#: template/services/services.php:190 template/services/services.php:207
+msgid "Contact Number"
+msgstr "Número de contato"
+
+#: admin/general-settings.php:460
+msgid "Corporate ID"
+msgstr "Identidade Corporativa"
+
+#: admin/ducuments/add-document.php:680 admin/member/add_member.php:477
+#: admin/parking/assign-sloat.php:754 admin/residential-unit/index.php:689
+#: template/member/add_member.php:470
+#: template/parking-manager/parking-manager.php:779
+msgid "Correspondence Address"
+msgstr "Endereço correspondente"
+
+#: admin/report/complaint.php:29 template/report/complaint.php:9
+msgid "Count"
+msgstr "Contar"
+
+#: admin/general-settings.php:166 admin/accountant/add_accountant.php:180
+#: admin/ducuments/add-document.php:703 admin/gatekeeper/add_gatekeeper.php:166
+#: admin/member/add_accountant.php:192 admin/member/add_gatekeeper.php:217
+#: admin/member/add_member.php:500 admin/member/add_staff_member.php:235
+#: admin/member/view_user.php:311 admin/parking/assign-sloat.php:777
+#: admin/residential-unit/index.php:713
+#: admin/staff-member/add_staff_member.php:178
+#: template/accountant/add_accountant.php:180
+#: template/gatekeeper/gatekeeper.php:597 template/member/add_member.php:494
+#: template/member/view_member.php:360
+#: template/parking-manager/parking-manager.php:802
+msgid "Country"
+msgstr "País"
+
+#: admin/complaint/index.php:155 admin/complaint/index.php:168
+#: template/complaint/complaint.php:188 template/complaint/complaint.php:201
+msgid "Created By"
+msgstr "Criado por"
+
+#: translation_string.php:33
+msgid "Created By:"
+msgstr "Criado por:"
+
+#: admin/accounts/recuring_charg_list.php:45
+#: admin/accounts/recuring_charg_list.php:58
+msgid "Created Date"
+msgstr "Data de criação"
+
+#: template/profile/profile.php:287 template/profile/profile.php:289
+msgid "Current Password"
+msgstr "senha atual"
+
+#: admin/general-settings.php:346
+msgid "Czech Koruna"
+msgstr "Coroa Tcheca"
+
+#: admin/general-settings.php:348
+msgid "Danish Krone"
+msgstr "Coroa dinamarquesa"
+
+#: amgt-function.php:378 fronted_template.php:322 admin/admin.php:12
+#: admin/admin.php:12
+msgid "Dashboard"
+msgstr "Painel"
+
+#: admin/complaint/add_complaint.php:317 admin/complaint/index.php:156
+#: admin/complaint/index.php:169 admin/facility/index.php:467
+#: admin/message/inbox.php:40
+#: admin/report/download_income_expense_report.php:76
+#: admin/report/download_income_expense_report.php:84
+#: template/complaint/add_complain.php:334 template/complaint/complaint.php:189
+#: template/complaint/complaint.php:202 template/facility/facility.php:416
+#: template/message/inbox.php:37
+msgid "Date"
+msgstr "Encontro"
+
+#: admin/general-settings.php:275
+msgid "Date Format"
+msgstr "Formato de data"
+
+#: admin/member/view_user.php:134 template/member/view_member.php:148
+msgid "Date Of Birth"
+msgstr "Data de nascimento"
+
+#: admin/accountant/add_accountant.php:110 admin/ducuments/add-document.php:501
+#: admin/gatekeeper/add_gatekeeper.php:81 admin/member/add_accountant.php:121
+#: admin/member/add_gatekeeper.php:114 admin/member/add_member.php:257
+#: admin/member/add_staff_member.php:123 admin/parking/assign-sloat.php:578
+#: admin/residential-unit/index.php:514
+#: admin/staff-member/add_staff_member.php:87
+#: template/accountant/add_accountant.php:110
+#: template/gatekeeper/gatekeeper.php:501 template/member/add_member.php:270
+#: template/parking-manager/parking-manager.php:602
+msgid "Date of birth"
+msgstr "Data de nascimento"
+
+#: admin/report/complaint.php:31 template/report/complaint.php:13
+msgid "Deactivated"
+msgstr "Desativado"
+
+#: admin/report/expense.php:4 admin/report/payment.php:4
+#: template/report/expense.php:4 template/report/payment.php:4
+msgid "December"
+msgstr "dezembro"
+
+#: admin/access_right/Accountant.php:226 admin/access_right/Gatekeeper.php:226
+#: admin/access_right/Member.php:226 admin/access_right/Staff_Member.php:226
+#: admin/accountant/index.php:218 admin/accounts/add-charges-all-member.php:514
+#: admin/accounts/add-charges-all-member.php:571
+#: admin/accounts/add-charges-all-member.php:697
+#: admin/accounts/add-charges-all-member.php:733
+#: admin/accounts/add-charges-all-member.php:775
+#: admin/accounts/add-charges-all-member.php:912
+#: admin/accounts/add-charges-all-member.php:944
+#: admin/accounts/expense-list.php:57 admin/accounts/index.php:1167
+#: admin/accounts/recuring_charg_list.php:132
+#: admin/assets-inventory/index.php:237
+#: admin/assets-inventory/inventory-list.php:56 admin/complaint/index.php:267
+#: admin/ducuments/add-document.php:303 admin/ducuments/add-document.php:966
+#: admin/ducuments/index.php:214 admin/facility/facility-booking-list.php:128
+#: admin/facility/index.php:497 admin/gatekeeper/index.php:210
+#: admin/member/accountant_list.php:117 admin/member/add_member.php:916
+#: admin/member/gatekeeper_list.php:127 admin/member/member_list.php:157
+#: admin/member/staff_list.php:117 admin/member-corner/index.php:157
+#: admin/message/view_message.php:93 admin/message/view_message.php:126
+#: admin/notice-events/event_list.php:69 admin/notice-events/index.php:368
+#: admin/parking/assign-sloat.php:1046 admin/parking/assigned-sloat-list.php:90
+#: admin/parking/index.php:265 admin/residential-unit/add_unit.php:225
+#: admin/residential-unit/index.php:306 admin/residential-unit/index.php:983
+#: admin/service/index.php:164 admin/staff-member/index.php:216
+#: admin/tax/index.php:147 admin/visitor-manage/index.php:392
+#: admin/visitor-manage/index.php:424 admin/visitor-manage/index.php:518
+#: admin/visitor-manage/staff-checkin-list.php:71
+#: admin/visitor-manage/visitor-checkin-list.php:206
+#: admin/visitor-manage/visitor-checkin.php:84
+#: admin/visitor-manage/visitor-checkin.php:356
+#: admin/visitor-manage/visitor-checkin.php:555
+#: template/accountant/accountant.php:359
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:318
+#: template/assets-inventory-tracker/inventory_list.php:83
+#: template/complaint/complaint.php:359
+#: template/documents/add_documents.php:249
+#: template/documents/documents.php:323
+#: template/facility/facility-booking-list.php:172
+#: template/facility/facility.php:443 template/gatekeeper/gatekeeper.php:360
+#: template/member/member.php:504 template/member/member.php:632
+#: template/message/view_message.php:118 template/message/view_message.php:157
+#: template/notice-event/event_list.php:162
+#: template/notice-event/notice-event.php:467
+#: template/parking-manager/assigned-sloat-list.php:182
+#: template/parking-manager/parking-manager.php:359
+#: template/parking-manager/parking-manager.php:1071
+#: template/resident_unit/add_unit.php:197
+#: template/resident_unit/resident_unit.php:320
+#: template/resident_unit/resident_unit.php:369
+#: template/resident_unit/resident_unit.php:418
+#: template/services/services.php:301
+#: template/visitor-manage/staff_checkinlist.php:84
+#: template/visitor-manage/visitor-manage.php:553
+#: template/visitor-manage/visitor_checkin.php:46
+#: template/visitor-manage/visitor_checkin.php:313
+msgid "Delete"
+msgstr "Excluir"
+
+#: fronted_template.php:63 fronted_template.php:649 fronted_template.php:751
+#: admin/dasboard.php:267 admin/dasboard.php:310
+#: admin/accounts/add-charges-all-member.php:853
+#: admin/accounts/add-expense.php:159 admin/complaint/add_complaint.php:338
+#: admin/complaint/index.php:159 admin/complaint/index.php:172
+#: admin/ducuments/add-document.php:276 admin/ducuments/add-document.php:298
+#: admin/ducuments/index.php:178 admin/ducuments/index.php:189
+#: admin/member-corner/add_rule.php:34 admin/member-corner/index.php:124
+#: admin/member-corner/index.php:133 admin/message/inbox.php:37
+#: admin/message/sendbox.php:36 admin/notice-events/add_event.php:90
+#: admin/notice-events/add_notice.php:113 admin/notice-events/index.php:318
+#: admin/notice-events/index.php:328 admin/parking/assign-sloat.php:387
+#: admin/visitor-manage/staff-checkin.php:150
+#: admin/visitor-manage/visitor-checkin.php:306
+#: template/complaint/add_complain.php:355 template/complaint/complaint.php:192
+#: template/complaint/complaint.php:205
+#: template/documents/add_documents.php:243
+#: template/documents/documents.php:229 template/documents/documents.php:239
+#: template/message/inbox.php:36 template/message/sendbox.php:40
+#: template/notice-event/add_event.php:85
+#: template/notice-event/add_notice.php:107
+#: template/notice-event/notice-event.php:361
+#: template/notice-event/notice-event.php:371
+#: template/parking-manager/assign_sloat.php:349
+#: template/visitor-manage/staff_checkin.php:133
+#: template/visitor-manage/visitor_checkin.php:263
+msgid "Description"
+msgstr "Descrição"
+
+#: admin/dasboard.php:31
+msgid "Description:"
+msgstr "Descrição:"
+
+#: admin/committee-member/index.php:56 admin/committee-member/index.php:68
+#: template/committee-member/committee-member.php:86
+#: template/committee-member/committee-member.php:102
+msgid "Designation"
+msgstr "Designação"
+
+#: translation_string.php:9
+msgid "Designation Name"
+msgstr "Nome de Designação"
+
+#: admin/report/complaint.php:33 template/report/complaint.php:16
+msgid "Device BY Activated/Deactivated Status"
+msgstr "Status de Dispositivo BY Ativado / Desativado"
+
+#: admin/accounts/add-charges-all-member.php:614
+#: admin/accounts/recuring_charg_list.php:41
+#: admin/accounts/recuring_charg_list.php:54
+msgid "Discount Amount"
+msgstr "Valor do Desconto"
+
+#: translation_string.php:18 translation_string.php:19
+msgid "Discount Amount :"
+msgstr "Valor do desconto:"
+
+#: admin/accountant/index.php:218 admin/accounts/expense-list.php:56
+#: admin/accounts/index.php:1166 admin/accounts/recuring_charg_list.php:131
+#: admin/assets-inventory/index.php:236
+#: admin/assets-inventory/inventory-list.php:55 admin/complaint/index.php:266
+#: admin/ducuments/index.php:213 admin/facility/facility-booking-list.php:127
+#: admin/facility/index.php:496 admin/gatekeeper/index.php:209
+#: admin/member/accountant_list.php:116 admin/member/gatekeeper_list.php:126
+#: admin/member/member_list.php:156 admin/member/staff_list.php:116
+#: admin/member-corner/index.php:156 admin/notice-events/event_list.php:68
+#: admin/notice-events/index.php:367 admin/parking/assigned-sloat-list.php:89
+#: admin/parking/index.php:264 admin/residential-unit/index.php:305
+#: admin/service/index.php:163 admin/staff-member/index.php:215
+#: admin/tax/index.php:146 admin/visitor-manage/staff-checkin-list.php:70
+#: admin/visitor-manage/visitor-checkin-list.php:205
+#: template/accountant/accountant.php:359
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:317
+#: template/assets-inventory-tracker/inventory_list.php:82
+#: template/complaint/complaint.php:358 template/documents/documents.php:322
+#: template/facility/facility-booking-list.php:171
+#: template/facility/facility.php:442 template/gatekeeper/gatekeeper.php:359
+#: template/member/member.php:503 template/notice-event/event_list.php:161
+#: template/notice-event/notice-event.php:466
+#: template/parking-manager/assigned-sloat-list.php:181
+#: template/parking-manager/parking-manager.php:358
+#: template/resident_unit/resident_unit.php:319
+#: template/resident_unit/resident_unit.php:368
+#: template/resident_unit/resident_unit.php:417
+#: template/services/services.php:300
+#: template/visitor-manage/staff_checkinlist.php:83
+#: template/visitor-manage/visitor-manage.php:552
+msgid "Do you really want to delete this record?"
+msgstr "Tem certeza que quer deletar este registro?"
+
+#: admin/complaint/add_complaint.php:350 admin/complaint/add_complaint.php:369
+#: admin/notice-events/add_event.php:131 admin/notice-events/add_notice.php:98
+#: template/complaint/add_complain.php:367
+#: template/complaint/add_complain.php:386
+#: template/notice-event/add_event.php:121
+#: template/notice-event/add_notice.php:94
+msgid "Document"
+msgstr "Documento"
+
+#: admin/ducuments/index.php:117 template/documents/documents.php:158
+msgid "Document deleted successfully"
+msgstr "Documento excluído com sucesso"
+
+#: admin/ducuments/index.php:100 template/documents/documents.php:136
+msgid "Document inserted successfully"
+msgstr "Documento inserido com sucesso"
+
+#: admin/ducuments/index.php:131 admin/member/view_user.php:412
+#: template/documents/documents.php:179 template/member/view_member.php:468
+msgid "Document List"
+msgstr "Lista de Documentos"
+
+#: translation_string.php:46
+msgid "Document Submitted Date"
+msgstr "Data de Envio do Documento"
+
+#: translation_string.php:47
+msgid "Document Title"
+msgstr "Título do documento"
+
+#: admin/ducuments/index.php:107 template/documents/documents.php:147
+msgid "Document updated successfully."
+msgstr "Documento atualizado com sucesso."
+
+#: amgt-function.php:48 fronted_template.php:64 admin/admin.php:46
+#: admin/admin.php:46 admin/access_right/Accountant.php:820
+#: admin/access_right/Gatekeeper.php:819 admin/access_right/Member.php:820
+#: admin/access_right/Staff_Member.php:820
+msgid "Documents"
+msgstr "Documentos"
+
+#: admin/dasboard.php:32
+msgid "Documents:"
+msgstr "Documentos:"
+
+#: admin/setupform/index.php:51
+msgid "Domain"
+msgstr "Domínio"
+
+#: admin/member/add_member.php:698 template/member/add_member.php:688
+msgid "Download"
+msgstr "Download"
+
+#: admin/report/index.php:41
+msgid "Download Expense Report"
+msgstr "Baixar Relatório de Despesas"
+
+#: admin/report/index.php:37
+msgid "Download Income Report"
+msgstr "Baixar Relatório de Renda"
+
+#: admin/report/download_expense_report.php:38
+#: admin/report/download_income_expense_report.php:38
+msgid "Download Report"
+msgstr "Baixar relatório"
+
+#: admin/accounts/index.php:977 admin/accounts/index.php:995
+msgid "Due Amount"
+msgstr "Valor devido"
+
+#: translation_string.php:21
+msgid "Due Amount :"
+msgstr "Valor devido:"
+
+#: admin/access_right/Accountant.php:225 admin/access_right/Gatekeeper.php:225
+#: admin/access_right/Member.php:225 admin/access_right/Staff_Member.php:225
+#: admin/accountant/index.php:217 admin/accounts/expense-list.php:55
+#: admin/accounts/recuring_charg_list.php:130
+#: admin/assets-inventory/index.php:233
+#: admin/assets-inventory/inventory-list.php:52 admin/complaint/index.php:264
+#: admin/ducuments/index.php:210 admin/facility/facility-booking-list.php:125
+#: admin/facility/index.php:494 admin/gatekeeper/index.php:207
+#: admin/member/accountant_list.php:114 admin/member/gatekeeper_list.php:124
+#: admin/member/member_list.php:154 admin/member/staff_list.php:114
+#: admin/member-corner/index.php:154 admin/notice-events/event_list.php:66
+#: admin/notice-events/index.php:365 admin/parking/assigned-sloat-list.php:87
+#: admin/parking/index.php:262 admin/residential-unit/index.php:303
+#: admin/service/index.php:161 admin/staff-member/index.php:213
+#: admin/tax/index.php:144 admin/visitor-manage/staff-checkin-list.php:68
+#: admin/visitor-manage/visitor-checkin-list.php:203
+#: template/accountant/accountant.php:353
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:311
+#: template/assets-inventory-tracker/inventory_list.php:77
+#: template/complaint/complaint.php:352 template/documents/documents.php:316
+#: template/facility/facility-booking-list.php:165
+#: template/facility/facility.php:435 template/gatekeeper/gatekeeper.php:353
+#: template/member/member.php:497 template/notice-event/event_list.php:154
+#: template/notice-event/notice-event.php:459
+#: template/parking-manager/assigned-sloat-list.php:174
+#: template/parking-manager/parking-manager.php:351
+#: template/resident_unit/resident_unit.php:313
+#: template/resident_unit/resident_unit.php:362
+#: template/resident_unit/resident_unit.php:411
+#: template/services/services.php:294
+#: template/visitor-manage/staff_checkinlist.php:76
+#: template/visitor-manage/visitor-manage.php:546
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/accountant/index.php:137 template/accountant/accountant.php:186
+msgid "Edit Accountant"
+msgstr "Editar contador"
+
+#: admin/assets-inventory/index.php:146
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:191
+msgid "Edit Asset"
+msgstr "Editar Ativo"
+
+#: admin/facility/index.php:390 template/facility/facility.php:336
+msgid "Edit Booked Facility"
+msgstr "Editar Instalação Reservada"
+
+#: admin/accounts/index.php:901
+msgid "Edit Charges"
+msgstr "Editar taxas"
+
+#: admin/residential-unit/index.php:195
+#: template/resident_unit/resident_unit.php:145
+msgid "Edit Commercial Unit"
+msgstr "Editar Unidade Comercial"
+
+#: admin/complaint/index.php:113 template/complaint/complaint.php:145
+#| msgid "Edit Complain"
+msgid "Edit Complaint"
+msgstr "Editar reclamar"
+
+#: admin/ducuments/index.php:136 template/documents/documents.php:186
+msgid "Edit Document"
+msgstr "Editar Documento"
+
+#: admin/notice-events/index.php:278 template/notice-event/notice-event.php:318
+msgid "Edit Event"
+msgstr "Editar Evento"
+
+#: admin/accounts/index.php:921
+msgid "Edit Expense"
+msgstr "Editar Despesa"
+
+#: admin/facility/index.php:375 template/facility/facility.php:314
+msgid "Edit Facility"
+msgstr "Editar instalação"
+
+#: amgt-function.php:541
+msgid "Edit FAQ"
+msgstr "Editar FAQ"
+
+#: admin/gatekeeper/index.php:130 template/gatekeeper/gatekeeper.php:182
+msgid "Edit Gatekeeper"
+msgstr "Editar Gatekeeper"
+
+#: admin/assets-inventory/index.php:161
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:213
+msgid "Edit Inventory"
+msgstr "Editar estoque"
+
+#: template/member/member.php:302
+msgid "Edit Member"
+msgstr "Editar Membro"
+
+#: admin/notice-events/index.php:263 template/notice-event/notice-event.php:296
+msgid "Edit Notice"
+msgstr "Editar Aviso"
+
+#: amgt-function.php:578
+msgid "Edit Photo Gallery"
+msgstr "Editar galeria de fotos"
+
+#: admin/residential-unit/index.php:191
+#: template/resident_unit/resident_unit.php:141
+msgid "Edit Residential Unit"
+msgstr "Editar Unidade Residencial"
+
+#: admin/member-corner/index.php:86
+msgid "Edit Rule"
+msgstr "Editar regra"
+
+#: amgt-function.php:503
+msgid "Edit Rules"
+msgstr "Editar regras"
+
+#: admin/service/index.php:88 template/services/services.php:139
+msgid "Edit Service"
+msgstr "Editar serviço"
+
+#: admin/parking/index.php:212
+msgid "Edit Sloat Assigned"
+msgstr "Editar Sloat Atribuído"
+
+#: admin/parking/index.php:199 template/parking-manager/parking-manager.php:212
+msgid "Edit Slot"
+msgstr "Editar Slot"
+
+#: template/parking-manager/parking-manager.php:231
+msgid "Edit Slot Assigned"
+msgstr "Editar Slot Atribuído"
+
+#: admin/visitor-manage/index.php:321
+#: template/visitor-manage/visitor-manage.php:362
+msgid "Edit Staff Checkin"
+msgstr "Editar check-in da equipe"
+
+#: admin/staff-member/index.php:130
+msgid "Edit Staff Member"
+msgstr "Editar membro da equipe"
+
+#: admin/tax/index.php:85
+msgid "Edit Tax"
+msgstr "Editar imposto"
+
+#: admin/visitor-manage/index.php:307
+#: template/visitor-manage/visitor-manage.php:334
+msgid "Edit Visitor Request"
+msgstr "Editar solicitação de visitante"
+
+#: admin/general-settings.php:197 admin/accountant/add_accountant.php:136
+#: admin/accountant/index.php:176 admin/accountant/index.php:186
+#: admin/committee-member/index.php:59 admin/committee-member/index.php:71
+#: admin/ducuments/add-document.php:718 admin/gatekeeper/add_gatekeeper.php:129
+#: admin/gatekeeper/index.php:170 admin/gatekeeper/index.php:180
+#: admin/member/accountant_list.php:45 admin/member/accountant_list.php:55
+#: admin/member/add_accountant.php:147 admin/member/add_gatekeeper.php:172
+#: admin/member/add_member.php:516 admin/member/add_staff_member.php:188
+#: admin/member/gatekeeper_list.php:45 admin/member/gatekeeper_list.php:55
+#: admin/member/member_list.php:95 admin/member/member_list.php:107
+#: admin/member/staff_list.php:45 admin/member/staff_list.php:55
+#: admin/parking/assign-sloat.php:792 admin/residential-unit/index.php:728
+#: admin/service/add_service.php:94 admin/service/index.php:130
+#: admin/service/index.php:141 admin/setupform/index.php:68
+#: admin/staff-member/add_staff_member.php:140 admin/staff-member/index.php:171
+#: admin/staff-member/index.php:182 template/accountant/accountant.php:237
+#: template/accountant/accountant.php:253
+#: template/accountant/add_accountant.php:136
+#: template/committee-member/committee-member.php:88
+#: template/committee-member/committee-member.php:104
+#: template/gatekeeper/gatekeeper.php:232
+#: template/gatekeeper/gatekeeper.php:248
+#: template/gatekeeper/gatekeeper.php:552 template/member/add_member.php:510
+#: template/member/member.php:358 template/member/member.php:370
+#: template/parking-manager/parking-manager.php:818
+#: template/profile/profile.php:352 template/services/add_services.php:82
+#: template/services/services.php:192 template/services/services.php:209
+#: template/staff-members/staff-members.php:82
+#: template/staff-members/staff-members.php:92
+msgid "Email"
+msgstr "O email"
+
+#: translation_string.php:93
+msgid "Email Already in use"
+msgstr "Email já em uso"
+
+#: translation_string.php:92
+msgid "Email is not valid"
+msgstr "E-mail não é válido"
+
+#: admin/notification-templates/index.php:142
+#: admin/notification-templates/index.php:190
+#: admin/notification-templates/index.php:237
+#: admin/notification-templates/index.php:284
+#: admin/notification-templates/index.php:329
+#: admin/notification-templates/index.php:379
+#: admin/notification-templates/index.php:430
+#: admin/notification-templates/index.php:483
+#: admin/notification-templates/index.php:538
+#: admin/notification-templates/index.php:594
+#: admin/notification-templates/index.php:648
+#: admin/notification-templates/index.php:704
+#: admin/notification-templates/index.php:759
+#: admin/notification-templates/index.php:805
+#: admin/notification-templates/index.php:853
+#: admin/notification-templates/index.php:899
+#: admin/notification-templates/index.php:948
+#: admin/notification-templates/index.php:994
+#: admin/notification-templates/index.php:1046
+msgid "Email Subject"
+msgstr "Assunto do email"
+
+#: template/message/view_message.php:87
+msgid "Employee"
+msgstr "Empregado"
+
+#: admin/general-settings.php:255 admin/general-settings.php:267
+#: admin/general-settings.php:298 admin/general-settings.php:314
+#: admin/general-settings.php:423
+msgid "Enable"
+msgstr "Habilitar"
+
+#: admin/general-settings.php:419
+msgid "Enable Charges"
+msgstr "Habilitar cobranças"
+
+#: admin/general-settings.php:251
+msgid "Enable Notifications"
+msgstr "Ativar notificações"
+
+#: admin/general-settings.php:310
+msgid "Enable Sandbox"
+msgstr "Habilitar Sandbox"
+
+#: fronted_template.php:60 admin/accounts/add-charges-all-member.php:128
+#: admin/facility/booking-facility.php:156
+#: admin/facility/facility-booking-list.php:35
+#: admin/facility/facility-booking-list.php:50
+#: admin/notice-events/add_event.php:117 admin/notice-events/event_list.php:28
+#: admin/notice-events/event_list.php:38
+#: admin/notification-templates/index.php:616
+#: admin/report/download_expense_report.php:33
+#: admin/report/download_income_expense_report.php:33
+#: admin/visitor-manage/visitor-checkin-list.php:90
+#: template/facility/booking-facility.php:155
+#: template/facility/facility-booking-list.php:35
+#: template/facility/facility-booking-list.php:51
+#: template/notice-event/add_event.php:106
+#: template/notice-event/event_list.php:68
+#: template/notice-event/event_list.php:78
+msgid "End Date"
+msgstr "Data final"
+
+#: admin/dasboard.php:28
+msgid "End Date:"
+msgstr "Data final:"
+
+#: fronted_template.php:62 admin/facility/booking-facility.php:190
+#: admin/facility/facility-booking-list.php:37
+#: admin/facility/facility-booking-list.php:52
+#: admin/notice-events/add_event.php:122 admin/notice-events/event_list.php:30
+#: admin/notice-events/event_list.php:40
+#: template/facility/booking-facility.php:187
+#: template/facility/facility-booking-list.php:37
+#: template/facility/facility-booking-list.php:53
+#: template/notice-event/add_event.php:111
+#: template/notice-event/event_list.php:69
+#: template/notice-event/event_list.php:79
+msgid "End Time"
+msgstr "Fim do tempo"
+
+#: admin/dasboard.php:30
+msgid "End Time:"
+msgstr "Fim do tempo:"
+
+#: admin/general-settings.php:150
+msgid "Enter City Name"
+msgstr "Digite o nome da cidade"
+
+#: template/profile/profile.php:206
+msgid "Enter correct current password."
+msgstr "Digite a senha atual correta."
+
+#: template/profile/profile.php:217
+msgid "Enter New password."
+msgstr "Insira a nova senha."
+
+#: admin/general-settings.php:159
+msgid "Enter State Name"
+msgstr "Digite o nome do estado"
+
+#: translation_string.php:16
+msgid "Entry"
+msgstr "Entrada"
+
+#: admin/setupform/index.php:60
+msgid "Envato License key"
+msgstr "Chave de licença Envato"
+
+#: admin/general-settings.php:350
+msgid "Euro"
+msgstr "Euro"
+
+#: admin/notice-events/index.php:234
+msgid "Event Approved successfully."
+msgstr "Evento aprovado com sucesso."
+
+#: admin/notice-events/index.php:244
+msgid "Event deleted successfully"
+msgstr "Evento excluído com sucesso"
+
+#: admin/notification-templates/index.php:455
+msgid "Event Description"
+msgstr "Descrição do Evento"
+
+#: translation_string.php:64
+msgid "Event Detail"
+msgstr "Detalhe do Evento"
+
+#: fronted_template.php:238
+msgid "Event Details"
+msgstr "detalhes do evento"
+
+#: admin/notification-templates/index.php:452
+msgid "Event End Date"
+msgstr "Data Final do Evento"
+
+#: admin/notification-templates/index.php:454
+msgid "Event End Time"
+msgstr "Horário de término do evento"
+
+#: admin/notice-events/index.php:219
+msgid "Event inserted successfully"
+msgstr "Evento inserido com sucesso"
+
+#: template/notice-event/notice-event.php:258
+msgid "Event inserted successfully but display After Admin Approved"
+msgstr ""
+"Evento inserido com sucesso, mas exibido após aprovação do administrador"
+
+#: admin/notification-templates/index.php:456
+msgid "Event Link"
+msgstr "Link do Evento"
+
+#: admin/notice-events/index.php:273 template/notice-event/notice-event.php:310
+msgid "Event List"
+msgstr "Lista de evento"
+
+#: admin/notification-templates/index.php:451
+msgid "Event Start Date"
+msgstr "Data de Início do Evento"
+
+#: admin/notification-templates/index.php:453
+msgid "Event Start Time"
+msgstr "Horário de início do evento"
+
+#: fronted_template.php:58 admin/notice-events/add_event.php:81
+#: admin/notice-events/event_list.php:26 admin/notice-events/event_list.php:36
+#: admin/notification-templates/index.php:450
+#: template/notice-event/add_event.php:75
+#: template/notice-event/event_list.php:65
+#: template/notice-event/event_list.php:75
+msgid "Event Title"
+msgstr "Título do evento"
+
+#: admin/dasboard.php:26
+msgid "Event Title:"
+msgstr "Título do evento:"
+
+#: admin/notice-events/index.php:226 template/notice-event/notice-event.php:269
+msgid "Event updated successfully."
+msgstr "Evento atualizado com sucesso."
+
+#: admin/report/expense.php:12 admin/report/expense.php:30
+#: admin/report/index.php:30 template/report/expense.php:12
+#: template/report/expense.php:30 template/report/report.php:32
+msgid "Expense"
+msgstr "Despesa"
+
+#: admin/accounts/index.php:915
+msgid "Expense List"
+msgstr "Lista de Despesas"
+
+#: admin/report/expense.php:19 template/report/expense.php:19
+msgid "Expense Report By Month"
+msgstr "Relatório de despesas por mês"
+
+#: admin/accounts/index.php:865
+msgid "Expense Save successfully"
+msgstr "Economia de despesas com sucesso"
+
+#: admin/accounts/add-expense.php:88
+msgid "Expense Type"
+msgstr "Tipo de despesa"
+
+#: admin/accounts/expense-list.php:25 admin/accounts/expense-list.php:34
+#: admin/report/download_expense_report.php:76
+#: admin/report/download_expense_report.php:85
+msgid "Expense type"
+msgstr "Tipo de despesa"
+
+#: admin/accounts/index.php:872
+msgid "Expense updated successfully."
+msgstr "Despesa atualizada com sucesso."
+
+#: amgt-function.php:45 admin/admin.php:40 admin/admin.php:40
+#: admin/access_right/Accountant.php:730 admin/access_right/Gatekeeper.php:729
+#: admin/access_right/Member.php:730 admin/access_right/Staff_Member.php:730
+msgid "Facility"
+msgstr "Instalação"
+
+#: admin/notification-templates/index.php:767
+msgid "Facility Approved Email Template"
+msgstr "Modelo de e-mail aprovado pela instalação"
+
+#: admin/facility/index.php:353
+msgid "Facility Booking Approved successfully"
+msgstr "Reserva de instalação aprovada com sucesso"
+
+#: admin/notification-templates/index.php:656
+#: admin/notification-templates/index.php:712
+msgid "Facility Booking Email Template"
+msgstr "Modelo de e-mail de reserva de instalações"
+
+#: admin/facility/index.php:337 template/facility/facility.php:273
+msgid "Facility Booking successfully"
+msgstr "Reserva de instalações com sucesso"
+
+#: admin/notification-templates/index.php:694
+msgid "Facility Booking Template For Admin"
+msgstr "Modelo de reserva de instalações para administrador"
+
+#: admin/notification-templates/index.php:638
+msgid "Facility Booking Template For Member"
+msgstr "Modelo de reserva de instalações para membros"
+
+#: admin/facility/index.php:345 template/facility/facility.php:284
+msgid "Facility Booking Updated successfully"
+msgstr "Reserva de instalação atualizada com sucesso"
+
+#: admin/facility/index.php:432 admin/facility/index.php:442
+#: admin/notification-templates/index.php:675
+#: admin/notification-templates/index.php:731
+#: template/facility/facility.php:376 template/facility/facility.php:390
+msgid "Facility Charge"
+msgstr "Taxa de instalação"
+
+#: admin/facility/index.php:329 template/facility/facility.php:262
+msgid "Facility deleted successfully"
+msgstr "Instalação excluída com sucesso"
+
+#: admin/facility/index.php:311 template/facility/facility.php:240
+msgid "Facility inserted successfully"
+msgstr "Instalação inserida com sucesso"
+
+#: admin/notification-templates/index.php:676
+#: admin/notification-templates/index.php:732
+msgid "Facility Link"
+msgstr "Link da instalação"
+
+#: admin/facility/index.php:369 template/facility/facility.php:305
+msgid "Facility List"
+msgstr "Lista de Instalações"
+
+#: admin/assets-inventory/index.php:200 admin/assets-inventory/index.php:211
+#: admin/facility/add_facility.php:51
+#: admin/facility/facility-booking-list.php:32
+#: admin/facility/facility-booking-list.php:47 admin/facility/index.php:431
+#: admin/facility/index.php:441 admin/notification-templates/index.php:668
+#: admin/notification-templates/index.php:724
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:253
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:266
+#: template/facility/add_facility.php:55
+#: template/facility/facility-booking-list.php:32
+#: template/facility/facility-booking-list.php:48
+#: template/facility/facility.php:375 template/facility/facility.php:389
+msgid "Facility Name"
+msgstr "Nome da Instalação"
+
+#: admin/facility/index.php:320 template/facility/facility.php:251
+msgid "Facility updated successfully."
+msgstr "Instalação atualizada com sucesso."
+
+#: amgt-function.php:52 amgt-function.php:534
+#: admin/access_right/Accountant.php:1000 admin/access_right/Gatekeeper.php:999
+#: admin/access_right/Member.php:1000 admin/access_right/Staff_Member.php:1000
+msgid "FAQ"
+msgstr "Perguntas frequentes"
+
+#: template/faq/faq.php:47
+msgid "FAQ List"
+msgstr "Lista de FAQ"
+
+#: admin/report/expense.php:2 admin/report/payment.php:2
+#: template/report/expense.php:2 template/report/payment.php:2
+msgid "February"
+msgstr "fevereiro"
+
+#: admin/accountant/add_accountant.php:96 admin/ducuments/add-document.php:494
+#: admin/gatekeeper/add_gatekeeper.php:71 admin/member/add_accountant.php:109
+#: admin/member/add_gatekeeper.php:102 admin/member/add_member.php:250
+#: admin/member/add_staff_member.php:111 admin/member/view_user.php:153
+#: admin/parking/assign-sloat.php:571 admin/residential-unit/index.php:507
+#: admin/staff-member/add_staff_member.php:77
+#: template/accountant/add_accountant.php:96
+#: template/gatekeeper/gatekeeper.php:489 template/member/add_member.php:263
+#: template/member/view_member.php:171
+#: template/parking-manager/parking-manager.php:595
+msgid "Female"
+msgstr "Fêmea"
+
+#: amgt-function.php:1465
+msgid "First"
+msgstr "Primeiro"
+
+#: admin/accountant/add_accountant.php:65 admin/ducuments/add-document.php:462
+#: admin/gatekeeper/add_gatekeeper.php:45 admin/member/add_accountant.php:78
+#: admin/member/add_gatekeeper.php:70 admin/member/add_member.php:218
+#: admin/member/add_staff_member.php:79 admin/parking/assign-sloat.php:539
+#: admin/residential-unit/index.php:475
+#: admin/staff-member/add_staff_member.php:51
+#: template/accountant/add_accountant.php:65
+#: template/gatekeeper/gatekeeper.php:457 template/member/add_member.php:231
+#: template/parking-manager/parking-manager.php:563
+msgid "First Name"
+msgstr "Primeiro nome"
+
+#: admin/accounts/add-charges-all-member.php:479
+#: admin/accounts/recuring_charg_list.php:74
+msgid "Fix Charge"
+msgstr "Corrigir Carga"
+
+#: admin/accounts/recuring_charg_list.php:100
+msgid "Fix Charges"
+msgstr "Corrigir Encargos"
+
+#: admin/visitor-manage/index.php:353
+msgid "For Entry"
+msgstr "Para entrada"
+
+#: admin/visitor-manage/index.php:356
+msgid "For Exit"
+msgstr "Para Sair"
+
+#: admin/parking/assign-sloat.php:228
+#: template/parking-manager/assign_sloat.php:199
+msgid "Four Wheeler"
+msgstr "Quatro rodas"
+
+#: translation_string.php:84
+msgid "From"
+msgstr "A partir de"
+
+#: translation_string.php:27
+msgid "From ("
+msgstr "A partir de ("
+
+#: admin/message/view_message.php:81
+msgid "From :"
+msgstr "A partir de :"
+
+#: admin/accounts/index.php:980 admin/accounts/index.php:998
+#: admin/parking/assign-sloat.php:368 admin/parking/assigned-sloat-list.php:39
+#: admin/parking/assigned-sloat-list.php:52
+#: template/parking-manager/assigned-sloat-list.php:75
+#: template/parking-manager/assigned-sloat-list.php:90
+#: template/parking-manager/assign_sloat.php:330
+msgid "From Date"
+msgstr "Da data"
+
+#: translation_string.php:54 admin/message/view_message.php:73
+#: template/message/view_message.php:82 template/message/view_message.php:102
+msgid "From: "
+msgstr "A partir de:"
+
+#: fronted_template.php:1297 fronted_template.php:1314 admin/dasboard.php:588
+#: admin/dasboard.php:605 admin/accounts/index.php:1106
+#: admin/accounts/index.php:1123
+msgid "Fully Paid"
+msgstr "Totalmente pago"
+
+#: amgt-function.php:54 admin/access_right/Accountant.php:1090
+#: admin/access_right/Gatekeeper.php:1089 admin/access_right/Member.php:1090
+#: admin/access_right/Staff_Member.php:1090 template/gallery/gallery.php:48
+msgid "Gallery"
+msgstr "Galeria"
+
+#: translation_string.php:43
+msgid "Gate"
+msgstr "Portão"
+
+#: admin/visitor-manage/index.php:280
+msgid "Gate inserted successfully"
+msgstr "Portão inserido com sucesso"
+
+#: admin/member/view_user.php:245 admin/visitor-manage/index.php:349
+#: admin/visitor-manage/index.php:377 admin/visitor-manage/index.php:411
+#: admin/visitor-manage/index.php:507
+#: admin/visitor-manage/staff-checkin-list.php:31
+#: admin/visitor-manage/staff-checkin-list.php:41
+#: admin/visitor-manage/visitor-checkin-list.php:132
+#: admin/visitor-manage/visitor-checkin-list.php:144
+#: template/member/view_member.php:281
+#: template/visitor-manage/staff_checkinlist.php:28
+#: template/visitor-manage/staff_checkinlist.php:40
+#: template/visitor-manage/visitor-manage.php:404
+#: template/visitor-manage/visitor-manage.php:417
+msgid "Gate Name"
+msgstr "Nome do portão"
+
+#: admin/visitor-manage/index.php:285
+msgid "Gate updated successfully."
+msgstr "Portão atualizado com sucesso."
+
+#: translation_string.php:35
+msgid "GATE: "
+msgstr "PORTÃO:"
+
+#: amgt-function.php:39 amgt-function.php:84 amgt-function.php:105
+#: translation_string.php:52 admin/access_right/Accountant.php:460
+#: admin/access_right/Gatekeeper.php:460 admin/access_right/index.php:50
+#: admin/access_right/Member.php:460 admin/access_right/Staff_Member.php:460
+msgid "Gatekeeper"
+msgstr "Gatekeeper"
+
+#: fronted_template.php:1041
+msgid "Gatekeeper "
+msgstr "Gatekeeper"
+
+#: admin/access_right/Gatekeeper.php:216
+msgid "Gatekeeper Access Right"
+msgstr "Direito de acesso do gatekeeper"
+
+#: admin/member/index.php:301 template/gatekeeper/gatekeeper.php:162
+msgid "Gatekeeper deleted successfully"
+msgstr "Gatekeeper excluído com sucesso"
+
+#: template/gatekeeper/gatekeeper.php:141
+msgid "Gatekeeper inserted successfully"
+msgstr "Gatekeeper inserido com sucesso"
+
+#: admin/member/index.php:317
+msgid "Gatekeeper inserted successfully."
+msgstr "Gatekeeper inserido com sucesso."
+
+#: admin/gatekeeper/index.php:125 admin/member/index.php:575
+#: template/gatekeeper/gatekeeper.php:175
+msgid "Gatekeeper List"
+msgstr "Lista de Gatekeeper"
+
+#: fronted_template.php:1117
+msgid "Gatekeeper Name"
+msgstr "Nome do Gatekeeper"
+
+#: admin/member/index.php:309 template/gatekeeper/gatekeeper.php:152
+msgid "Gatekeeper updated successfully."
+msgstr "Gatekeeper atualizado com sucesso."
+
+#: admin/accountant/add_accountant.php:89 admin/ducuments/add-document.php:487
+#: admin/gatekeeper/add_gatekeeper.php:64 admin/member/add_accountant.php:102
+#: admin/member/add_gatekeeper.php:95 admin/member/add_member.php:243
+#: admin/member/add_staff_member.php:104 admin/member/view_user.php:143
+#: admin/parking/assign-sloat.php:564 admin/residential-unit/index.php:500
+#: admin/staff-member/add_staff_member.php:70
+#: template/accountant/add_accountant.php:89
+#: template/gatekeeper/gatekeeper.php:482 template/member/add_member.php:256
+#: template/member/view_member.php:159
+#: template/parking-manager/parking-manager.php:588
+msgid "Gender"
+msgstr "Gênero"
+
+#: admin/member/view_user.php:97 template/member/view_member.php:104
+msgid "General Information"
+msgstr "Informações gerais"
+
+#: admin/admin.php:56
+msgid "General Setting"
+msgstr "Configuração geral"
+
+#: admin/general-settings.php:105
+msgid "General Settings"
+msgstr "Configurações Gerais"
+
+#: admin/notification-templates/index.php:813
+msgid "Generate Invoice Email Template"
+msgstr "Gerar modelo de e-mail de fatura"
+
+#: admin/notification-templates/index.php:795
+msgid "Generate Invoice Template"
+msgstr "Gerar modelo de fatura"
+
+#: admin/visitor-manage/visitor-checkin-list.php:106
+msgid "Go"
+msgstr "Vai"
+
+#: translation_string.php:23
+msgid "Grand Total :"
+msgstr "Total geral :"
+
+#: admin/message/view_message.php:77 template/message/view_message.php:96
+msgid "Group"
+msgstr "Grupo"
+
+#: admin/general-settings.php:444
+msgid "GST Number / Vat Number / Tax number"
+msgstr "Número GST / Número do IVA / Número do imposto"
+
+#: admin/parking/add-sloat.php:72 admin/parking/assigned-sloat-list.php:69
+#: admin/parking/index.php:259 template/parking-manager/add_sloat.php:70
+#: template/parking-manager/assigned-sloat-list.php:162
+#: template/parking-manager/parking-manager.php:344
+msgid "Guest"
+msgstr "Convidado"
+
+#: amgt-function.php:133
+msgid "Half Yearly"
+msgstr "Semestralmente"
+
+#: fronted_template.php:320
+msgid "Home"
+msgstr "Casa"
+
+#: admin/general-settings.php:352
+msgid "Hong Kong Dollar"
+msgstr "Dólar de Hong Kong"
+
+#: admin/facility/index.php:463 template/facility/facility.php:414
+msgid "Hour"
+msgstr "Hora"
+
+#. Author URI of the plugin
+msgid "http://codecanyon.net/user/dasinfomedia"
+msgstr "http://codecanyon.net/user/dasinfomedia"
+
+#. URI of the plugin
+msgid "http://www.mobilewebs.net/mojoomla/extend/wordpress/apartment/"
+msgstr "http://www.mobilewebs.net/mojoomla/extend/wordpress/apartment/"
+
+#: admin/general-settings.php:354
+msgid "Hungarian Forint"
+msgstr "Forint Húngaro"
+
+#: amgt-function.php:435
+msgid "I Half"
+msgstr "Eu meio"
+
+#: admin/report/download_expense_report.php:75
+#: admin/report/download_expense_report.php:84
+#: admin/report/download_income_expense_report.php:74
+#: admin/report/download_income_expense_report.php:82
+msgid "Id"
+msgstr "Eu iria"
+
+#: admin/visitor-manage/visitor-checkin.php:84
+#: admin/visitor-manage/visitor-checkin.php:336
+#: admin/visitor-manage/visitor-checkin.php:384
+#: admin/visitor-manage/visitor-checkin.php:421
+#: template/visitor-manage/visitor_checkin.php:46
+#: template/visitor-manage/visitor_checkin.php:293
+#: template/visitor-manage/visitor_checkin.php:341
+#: template/visitor-manage/visitor_checkin.php:378
+msgid "ID Number"
+msgstr "Número de identidade"
+
+#: admin/general-settings.php:505
+msgid "IFSC Code"
+msgstr "Código IFSC"
+
+#: amgt-function.php:437
+msgid "II Half"
+msgstr "II Metade"
+
+#: admin/accountant/add_accountant.php:214
+#: admin/gatekeeper/add_gatekeeper.php:192 admin/member/add_accountant.php:227
+#: admin/member/add_gatekeeper.php:251 admin/member/add_staff_member.php:269
+#: admin/staff-member/add_staff_member.php:204
+#: template/accountant/add_accountant.php:212
+#: template/gatekeeper/gatekeeper.php:629
+msgid "Image"
+msgstr "Imagem"
+
+#: amgt-function.php:650 amgt-function.php:679
+msgid "Image URL"
+msgstr "imagem URL"
+
+#: admin/message/index.php:56 admin/message/index.php:70
+#: template/message/message.php:89 template/message/message.php:105
+msgid "Inbox"
+msgstr "Caixa de entrada"
+
+#: admin/general-settings.php:342
+msgid "Indian Rupee"
+msgstr "Rupia indiana"
+
+#: admin/complaint/add_complaint.php:161
+#: template/complaint/add_complain.php:163
+msgid "Individual"
+msgstr "Individual"
+
+#: admin/assets-inventory/index.php:119
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:152
+msgid "Inventory inserted successfully"
+msgstr "Inventário inserido com sucesso"
+
+#: admin/assets-inventory/index.php:156
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:206
+msgid "Inventory List"
+msgstr "Lista de inventário"
+
+#: admin/assets-inventory/add-inventory.php:53
+#: template/assets-inventory-tracker/add_inventory.php:54
+msgid "Inventory Name"
+msgstr "Nome do Estoque"
+
+#: admin/assets-inventory/index.php:126
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:162
+msgid "Inventory updated successfully."
+msgstr "Estoque atualizado com sucesso."
+
+#: admin/dasboard.php:500
+msgid "Invoice"
+msgstr "Fatura"
+
+#: fronted_template.php:1156
+msgid "Invoice "
+msgstr "Fatura"
+
+#: admin/accounts/index.php:891
+msgid "Invoice List"
+msgstr "Lista de faturas"
+
+#: fronted_template.php:1163 admin/dasboard.php:507
+#: admin/notification-templates/index.php:873
+msgid "Invoice No"
+msgstr "Fatura nº"
+
+#: admin/accounts/index.php:970 admin/accounts/index.php:987
+msgid "Invoice Number"
+msgstr "Número da Fatura"
+
+#: admin/general-settings.php:436
+msgid "Invoice Prefix"
+msgstr "Prefixo da fatura"
+
+#: admin/general-settings.php:432
+msgid "Invoice Setting"
+msgstr "Configuração de fatura"
+
+#: admin/facility/index.php:434 admin/facility/index.php:444
+#: template/facility/facility.php:378 template/facility/facility.php:392
+msgid "Is Multiple Days"
+msgstr "São Vários Dias"
+
+#: admin/general-settings.php:356
+msgid "Israeli New Sheqel"
+msgstr "Novo Shekel Israelita"
+
+#: admin/report/expense.php:2 admin/report/payment.php:2
+#: template/report/expense.php:2 template/report/payment.php:2
+msgid "January"
+msgstr "Janeiro"
+
+#: admin/general-settings.php:358
+msgid "Japanese Yen"
+msgstr "Yen japonês"
+
+#: admin/report/expense.php:3 admin/report/payment.php:3
+#: template/report/expense.php:3 template/report/payment.php:3
+msgid "July"
+msgstr "julho"
+
+#: admin/report/expense.php:3 admin/report/payment.php:3
+#: template/report/expense.php:3 template/report/payment.php:3
+msgid "June"
+msgstr "Junho"
+
+#: admin/general-settings.php:360
+msgid "Kenyan shilling"
+msgstr "Xelim queniano"
+
+#: amgt-function.php:1466
+msgid "Last"
+msgstr "Último"
+
+#: admin/accountant/add_accountant.php:81 admin/ducuments/add-document.php:478
+#: admin/gatekeeper/add_gatekeeper.php:57 admin/member/add_accountant.php:94
+#: admin/member/add_gatekeeper.php:86 admin/member/add_member.php:234
+#: admin/member/add_staff_member.php:95 admin/member/view_user.php:124
+#: admin/parking/assign-sloat.php:555 admin/residential-unit/index.php:491
+#: admin/staff-member/add_staff_member.php:63
+#: template/accountant/add_accountant.php:81
+#: template/gatekeeper/gatekeeper.php:473 template/member/add_member.php:247
+#: template/member/view_member.php:136
+#: template/parking-manager/parking-manager.php:579
+msgid "Last Name"
+msgstr "Sobrenome"
+
+#: admin/ducuments/add-document.php:829 admin/ducuments/add-document.php:836
+#: admin/ducuments/add-document.php:848 admin/member/add_member.php:638
+#: admin/member/add_member.php:645 admin/member/add_member.php:657
+#: admin/member/view_user.php:489 admin/parking/assign-sloat.php:906
+#: admin/parking/assign-sloat.php:913 admin/parking/assign-sloat.php:925
+#: admin/residential-unit/index.php:842 admin/residential-unit/index.php:849
+#: admin/residential-unit/index.php:861 template/member/add_member.php:628
+#: template/member/add_member.php:635 template/member/add_member.php:647
+#: template/member/view_member.php:545
+#: template/parking-manager/parking-manager.php:932
+#: template/parking-manager/parking-manager.php:939
+#: template/parking-manager/parking-manager.php:951
+msgid "Lease Agreement"
+msgstr "Contrato de locação"
+
+#: admin/admin.php:10
+msgid "Licence Settings"
+msgstr "Configurações de licença"
+
+#: amgt-function.php:1460
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: amgt-function.php:364
+msgid "Log In"
+msgstr "Conecte-se"
+
+#: fronted_template.php:279
+msgid "Log Out"
+msgstr "Sair"
+
+#: amgt-function.php:353
+msgid ""
+"Login failed: You have entered an incorrect Username or password, please try "
+"again."
+msgstr ""
+"Falha no login: você digitou um nome de usuário ou senha incorretos, tente "
+"novamente."
+
+#: admin/notification-templates/index.php:164
+#: admin/notification-templates/index.php:258
+msgid "Login Link"
+msgstr "Link de login"
+
+#: admin/general-settings.php:235
+msgid "Login Page"
+msgstr "Página de login"
+
+#: admin/notification-templates/index.php:210
+#: admin/notification-templates/index.php:352
+msgid "Login Page Link"
+msgstr "Link da página de login"
+
+#: amgt-function.php:381
+msgid "Logout"
+msgstr "Sair"
+
+#: admin/admin.php:50
+msgid "Mail Templates"
+msgstr "Modelos de Correio"
+
+#: admin/accounts/add-charges-all-member.php:444
+msgid "Maintenance Charges"
+msgstr "Encargos de manutenção"
+
+#: admin/complaint/add_complaint.php:140 admin/complaint/index.php:202
+#: template/complaint/add_complain.php:141 template/complaint/complaint.php:292
+msgid "Maintenance Request"
+msgstr "Pedido de manutenção"
+
+#: admin/general-settings.php:362
+msgid "Malaysian Ringgit"
+msgstr "Ringgit da Malásia"
+
+#: admin/accountant/add_accountant.php:93 admin/ducuments/add-document.php:491
+#: admin/gatekeeper/add_gatekeeper.php:68 admin/member/add_accountant.php:106
+#: admin/member/add_gatekeeper.php:99 admin/member/add_member.php:247
+#: admin/member/add_staff_member.php:108 admin/member/view_user.php:149
+#: admin/parking/assign-sloat.php:568 admin/residential-unit/index.php:504
+#: admin/staff-member/add_staff_member.php:74
+#: template/accountant/add_accountant.php:93
+#: template/gatekeeper/gatekeeper.php:486 template/member/add_member.php:260
+#: template/member/view_member.php:167
+#: template/parking-manager/parking-manager.php:592
+msgid "Male"
+msgstr "Masculino"
+
+#: admin/visitor-manage/index.php:299
+msgid "Manage Gates"
+msgstr "Gerenciar portões"
+
+#: admin/report/expense.php:2 admin/report/payment.php:2
+#: template/report/expense.php:2 template/report/payment.php:2
+msgid "March"
+msgstr "Março"
+
+#: admin/notice-events/add_event.php:163 admin/notice-events/add_notice.php:148
+#: template/notice-event/add_event.php:165
+#: template/notice-event/add_notice.php:142
+msgid "Max. 160 Character"
+msgstr "Máx. 160 caracteres"
+
+#: admin/report/expense.php:3 admin/report/payment.php:3
+#: template/report/expense.php:3 template/report/payment.php:3
+msgid "May"
+msgstr "Maio"
+
+#: admin/accounts/add-charges-all-member.php:483
+#: admin/accounts/recuring_charg_list.php:78
+msgid "Measurement Charge"
+msgstr "Taxa de medição"
+
+#: admin/accounts/recuring_charg_list.php:104
+msgid "Measurement Charges"
+msgstr "Encargos de medição"
+
+#: amgt-function.php:35 amgt-function.php:69 amgt-function.php:103
+#: translation_string.php:49 admin/access_right/Accountant.php:279
+#: admin/access_right/Gatekeeper.php:279 admin/access_right/index.php:41
+#: admin/access_right/Member.php:279 admin/access_right/Staff_Member.php:279
+#: admin/accounts/add-charges-all-member.php:272
+#: admin/complaint/add_complaint.php:173 admin/ducuments/add-document.php:222
+#: admin/parking/add-sloat.php:69 admin/parking/assign-sloat.php:323
+#: admin/parking/assigned-sloat-list.php:69 admin/parking/index.php:259
+#: template/complaint/add_complain.php:191
+#: template/documents/add_documents.php:167
+#: template/documents/add_documents.php:180
+#: template/parking-manager/add_sloat.php:67
+#: template/parking-manager/assigned-sloat-list.php:162
+#: template/parking-manager/assign_sloat.php:292
+#: template/parking-manager/parking-manager.php:344
+msgid "Member"
+msgstr "Membro"
+
+#: admin/access_right/Member.php:216
+msgid "Member Access Right"
+msgstr "Direito de acesso de membro"
+
+#: admin/member/index.php:277 admin/member/member_list.php:52
+msgid "Member Active Successfully"
+msgstr "Membro ativo com sucesso"
+
+#: admin/notification-templates/index.php:198
+msgid "Member Approved by Admin Template"
+msgstr "Membro aprovado pelo modelo de administrador"
+
+#: admin/notification-templates/index.php:180
+msgid "Member Approved by Admin Template "
+msgstr "Membro aprovado pelo modelo de administrador"
+
+#: admin/notification-templates/index.php:245
+msgid "Member Become committee Template"
+msgstr "Membro se torna modelo de comitê"
+
+#: admin/notification-templates/index.php:227
+msgid "Member Become from committee member"
+msgstr "Membro Torne-se membro do comitê"
+
+#: admin/member/index.php:269
+msgid "Member Deleted Successfully"
+msgstr "Membro excluído com sucesso"
+
+#: template/member/member.php:281
+msgid "Member deleted successfully"
+msgstr "Membro excluído com sucesso"
+
+#: admin/ducuments/add-document.php:797 admin/ducuments/add-document.php:804
+#: admin/ducuments/add-document.php:816 admin/member/add_member.php:606
+#: admin/member/add_member.php:613 admin/member/add_member.php:625
+#: admin/member/view_user.php:471 admin/parking/assign-sloat.php:874
+#: admin/parking/assign-sloat.php:881 admin/parking/assign-sloat.php:893
+#: admin/residential-unit/index.php:810 admin/residential-unit/index.php:817
+#: admin/residential-unit/index.php:829 template/member/add_member.php:596
+#: template/member/add_member.php:603 template/member/add_member.php:615
+#: template/member/view_member.php:527
+#: template/parking-manager/parking-manager.php:900
+#: template/parking-manager/parking-manager.php:907
+#: template/parking-manager/parking-manager.php:919
+msgid "Member ID Proof-1"
+msgstr "Prova 1 de identificação de membro"
+
+#: admin/ducuments/add-document.php:757 admin/member/add_member.php:559
+#: admin/parking/assign-sloat.php:832 admin/residential-unit/index.php:768
+#: template/member/add_member.php:551
+#: template/parking-manager/parking-manager.php:859
+msgid "Member Image"
+msgstr "Imagem de membro"
+
+#: admin/report/member_by_building.php:33
+#: template/report/member_by_building.php:12
+#| msgid "Member By Building"
+msgid "Member in Building"
+msgstr "Membro por edifício"
+
+#: admin/member/member_list.php:35 template/member/member.php:260
+msgid "Member inserted successfully"
+msgstr "Membro inserido com sucesso"
+
+#: admin/member/index.php:365
+msgid "Member inserted successfully."
+msgstr "Membro inserido com sucesso."
+
+#: admin/member/index.php:569 template/member/member.php:295
+msgid "Member List"
+msgstr "Lista de membros"
+
+#: fronted_template.php:1164 admin/dasboard.php:508
+#: admin/accounts/index.php:971 admin/accounts/index.php:988
+#: admin/facility/facility-booking-list.php:31
+#: admin/facility/facility-booking-list.php:46
+#: admin/parking/assigned-sloat-list.php:37
+#: admin/parking/assigned-sloat-list.php:50
+#: admin/report/download_income_expense_report.php:75
+#: admin/report/download_income_expense_report.php:83
+#: template/facility/facility-booking-list.php:31
+#: template/facility/facility-booking-list.php:47
+#: template/parking-manager/assigned-sloat-list.php:73
+#: template/parking-manager/assigned-sloat-list.php:88
+msgid "Member Name"
+msgstr "Nome do membro"
+
+#: translation_string.php:81
+msgid "Member Registration"
+msgstr "Registro de Membro"
+
+#: admin/notification-templates/index.php:274
+msgid "Member Removed from committee member"
+msgstr "Membro removido do comitê"
+
+#: admin/notification-templates/index.php:292
+msgid "Member Removed from committee Template"
+msgstr "Membro removido do modelo de comitê"
+
+#: admin/ducuments/add-document.php:513 admin/member/add_member.php:262
+#: admin/member/member_list.php:92 admin/member/member_list.php:104
+#: admin/member/view_user.php:174 admin/parking/assign-sloat.php:588
+#: admin/residential-unit/index.php:524 template/member/add_member.php:280
+#: template/member/view_member.php:196
+#: template/parking-manager/parking-manager.php:613
+msgid "Member Type"
+msgstr "Tipo de membro"
+
+#: admin/member/index.php:357 admin/member/member_list.php:42
+#: template/member/member.php:270
+msgid "Member updated successfully."
+msgstr "Membro atualizado com sucesso."
+
+#: fronted_template.php:463 fronted_template.php:489 admin/dasboard.php:170
+#: admin/dasboard.php:191
+msgid "Members"
+msgstr "Membros"
+
+#: admin/access_right/Accountant.php:221 admin/access_right/Gatekeeper.php:221
+#: admin/access_right/Member.php:221 admin/access_right/Staff_Member.php:221
+msgid "Menu"
+msgstr "Cardápio"
+
+#: amgt-function.php:47 fronted_template.php:552 admin/admin.php:52
+#: admin/admin.php:52 admin/dasboard.php:229
+#: admin/access_right/Accountant.php:910 admin/access_right/Gatekeeper.php:909
+#: admin/access_right/Member.php:910 admin/access_right/Staff_Member.php:910
+msgid "Message"
+msgstr "Mensagem"
+
+#: admin/message/composemail.php:72 admin/message/view_message.php:251
+#: template/message/composemail.php:82 template/message/view_message.php:291
+msgid "Message Comment"
+msgstr "Comentário da Mensagem"
+
+#: admin/notification-templates/index.php:919
+msgid "Message Content"
+msgstr "Conteúdo da mensagem"
+
+#: admin/message/index.php:39 template/message/message.php:68
+msgid "Message deleted successfully"
+msgstr "Mensagem excluída com sucesso"
+
+#: admin/message/inbox.php:33 admin/message/sendbox.php:32
+#: template/message/inbox.php:33 template/message/sendbox.php:35
+msgid "Message For"
+msgstr "Mensagem para"
+
+#: admin/notification-templates/index.php:921
+msgid "Message Link"
+msgstr "Link da Mensagem"
+
+#: admin/notification-templates/index.php:889
+#: admin/notification-templates/index.php:907
+msgid "Message Received Template"
+msgstr "Modelo de mensagem recebida"
+
+#: admin/message/index.php:32 template/message/message.php:57
+msgid "Message sent successfully"
+msgstr "mensagem enviada com sucesso"
+
+#: template/message/composemail.php:15
+msgid "Message Sent Successfully!"
+msgstr "Mensagem enviada com sucesso!"
+
+#: admin/message/composemail.php:47 template/message/composemail.php:63
+msgid "Message To"
+msgstr "Mensagem para"
+
+#: admin/general-settings.php:364
+msgid "Mexican Peso"
+msgstr "Peso mexicano"
+
+#: admin/accountant/add_accountant.php:73 admin/ducuments/add-document.php:470
+#: admin/gatekeeper/add_gatekeeper.php:51 admin/member/add_accountant.php:86
+#: admin/member/add_gatekeeper.php:78 admin/member/add_member.php:226
+#: admin/member/add_staff_member.php:87 admin/member/view_user.php:114
+#: admin/parking/assign-sloat.php:547 admin/residential-unit/index.php:483
+#: admin/staff-member/add_staff_member.php:57
+#: template/accountant/add_accountant.php:73
+#: template/gatekeeper/gatekeeper.php:465 template/member/add_member.php:239
+#: template/member/view_member.php:124
+#: template/parking-manager/parking-manager.php:571
+msgid "Middle Name"
+msgstr "Nome do meio"
+
+#: admin/accountant/index.php:177 admin/accountant/index.php:187
+#: admin/committee-member/index.php:60 admin/committee-member/index.php:72
+#: admin/gatekeeper/index.php:171 admin/gatekeeper/index.php:181
+#: admin/member/accountant_list.php:46 admin/member/accountant_list.php:56
+#: admin/member/gatekeeper_list.php:46 admin/member/gatekeeper_list.php:56
+#: admin/member/member_list.php:96 admin/member/member_list.php:108
+#: admin/member/staff_list.php:46 admin/member/staff_list.php:56
+#: admin/member/view_user.php:184 admin/staff-member/index.php:172
+#: admin/staff-member/index.php:183 template/accountant/accountant.php:238
+#: template/accountant/accountant.php:254
+#: template/committee-member/committee-member.php:89
+#: template/committee-member/committee-member.php:105
+#: template/gatekeeper/gatekeeper.php:233
+#: template/gatekeeper/gatekeeper.php:249 template/member/member.php:359
+#: template/member/member.php:371 template/member/view_member.php:208
+#: template/staff-members/staff-members.php:83
+#: template/staff-members/staff-members.php:93
+msgid "Mobile"
+msgstr "Móvel"
+
+#: admin/accountant/add_accountant.php:145 admin/ducuments/add-document.php:727
+#: admin/gatekeeper/add_gatekeeper.php:136 admin/member/add_accountant.php:156
+#: admin/member/add_gatekeeper.php:181 admin/member/add_member.php:525
+#: admin/member/add_staff_member.php:197 admin/parking/assign-sloat.php:801
+#: admin/residential-unit/index.php:737 admin/service/add_service.php:84
+#: admin/service/index.php:129 admin/service/index.php:140
+#: admin/staff-member/add_staff_member.php:147
+#: template/accountant/add_accountant.php:145
+#: template/gatekeeper/gatekeeper.php:561 template/member/add_member.php:519
+#: template/parking-manager/parking-manager.php:827
+#: template/profile/profile.php:339 template/services/add_services.php:71
+#: template/services/services.php:191 template/services/services.php:208
+msgid "Mobile Number"
+msgstr "Número de telemóvel"
+
+#. Author of the plugin
+msgid "Mojoomla"
+msgstr "Mojoomla"
+
+#: admin/report/expense.php:12 admin/report/expense.php:24
+#: admin/report/payment.php:34 admin/report/payment.php:47
+#: template/report/expense.php:12 template/report/expense.php:24
+#: template/report/payment.php:11 template/report/payment.php:24
+msgid "Month"
+msgstr "Mês"
+
+#: amgt-function.php:129 admin/accounts/add-charges-all-member.php:108
+#: admin/accounts/recuring_charg_list.php:87
+msgid "Monthly"
+msgstr "Por mês"
+
+#: admin/tax/add_tax.php:40
+msgid "Must be enter percentage value like 5"
+msgstr "Deve ser inserido um valor percentual como 5"
+
+#: fronted_template.php:274
+msgid "My Profile"
+msgstr "Meu perfil"
+
+#: admin/accountant/index.php:174 admin/accountant/index.php:184
+#: admin/assets-inventory/inventory-list.php:26
+#: admin/assets-inventory/inventory-list.php:34
+#: admin/committee-member/index.php:55 admin/committee-member/index.php:67
+#: admin/gatekeeper/index.php:168 admin/gatekeeper/index.php:178
+#: admin/member/accountant_list.php:44 admin/member/accountant_list.php:54
+#: admin/member/gatekeeper_list.php:44 admin/member/gatekeeper_list.php:54
+#: admin/member/member_list.php:91 admin/member/member_list.php:103
+#: admin/member/staff_list.php:44 admin/member/staff_list.php:54
+#: admin/member/view_user.php:104 admin/staff-member/index.php:168
+#: admin/staff-member/index.php:179
+#: admin/visitor-manage/staff-checkin-list.php:30
+#: admin/visitor-manage/staff-checkin-list.php:40
+#: template/accountant/accountant.php:235
+#: template/accountant/accountant.php:251
+#: template/assets-inventory-tracker/inventory_list.php:26
+#: template/assets-inventory-tracker/inventory_list.php:36
+#: template/committee-member/committee-member.php:85
+#: template/committee-member/committee-member.php:101
+#: template/gatekeeper/gatekeeper.php:230
+#: template/gatekeeper/gatekeeper.php:246 template/member/member.php:354
+#: template/member/member.php:366 template/member/view_member.php:111
+#: template/profile/profile.php:271 template/staff-members/staff-members.php:79
+#: template/staff-members/staff-members.php:89
+#: template/visitor-manage/staff_checkinlist.php:27
+#: template/visitor-manage/staff_checkinlist.php:39
+msgid "Name"
+msgstr "Nome"
+
+#: admin/notification-templates/index.php:556
+#: admin/notification-templates/index.php:777
+#: admin/notification-templates/index.php:1012
+msgid "Name of admin"
+msgstr "Nome do administrador"
+
+#: admin/notification-templates/index.php:161
+#: admin/notification-templates/index.php:209
+#: admin/notification-templates/index.php:257
+#: admin/notification-templates/index.php:303
+#: admin/notification-templates/index.php:348
+#: admin/notification-templates/index.php:398
+#: admin/notification-templates/index.php:449
+#: admin/notification-templates/index.php:502
+#: admin/notification-templates/index.php:558
+#: admin/notification-templates/index.php:613
+#: admin/notification-templates/index.php:667
+#: admin/notification-templates/index.php:723
+#: admin/notification-templates/index.php:779
+#: admin/notification-templates/index.php:824
+#: admin/notification-templates/index.php:872
+#: admin/notification-templates/index.php:967
+#: admin/notification-templates/index.php:1017
+#: admin/notification-templates/index.php:1065
+msgid "Name Of Apartment"
+msgstr "Nome do apartamento"
+
+#: admin/notification-templates/index.php:920
+msgid "Name Of Apartment "
+msgstr "Nome do apartamento"
+
+#: admin/notification-templates/index.php:160
+#: admin/notification-templates/index.php:208
+#: admin/notification-templates/index.php:255
+#: admin/notification-templates/index.php:302
+#: admin/notification-templates/index.php:347
+#: admin/notification-templates/index.php:397
+#: admin/notification-templates/index.php:448
+#: admin/notification-templates/index.php:501
+#: admin/notification-templates/index.php:557
+#: admin/notification-templates/index.php:612
+#: admin/notification-templates/index.php:666
+#: admin/notification-templates/index.php:722
+#: admin/notification-templates/index.php:778
+#: admin/notification-templates/index.php:823
+#: admin/notification-templates/index.php:871
+#: admin/notification-templates/index.php:966
+#: admin/notification-templates/index.php:1013
+#: admin/notification-templates/index.php:1064
+msgid "Name of Member"
+msgstr "Nome do Membro"
+
+#: admin/notification-templates/index.php:917
+msgid "Name of Receiver"
+msgstr "Nome do Destinatário"
+
+#: admin/notification-templates/index.php:918
+msgid "Name Of Sender"
+msgstr "Nome do Remetente"
+
+#: admin/complaint/add_complaint.php:126 admin/complaint/index.php:153
+#: admin/complaint/index.php:166 admin/member-corner/index.php:121
+#: admin/member-corner/index.php:130 template/complaint/add_complain.php:127
+#: template/complaint/complaint.php:186 template/complaint/complaint.php:199
+msgid "Nature"
+msgstr "Natureza"
+
+#: translation_string.php:30
+msgid "Nature:"
+msgstr "Natureza:"
+
+#: template/profile/profile.php:295 template/profile/profile.php:299
+msgid "New Password"
+msgstr "Nova Senha"
+
+#: admin/general-settings.php:368
+msgid "New Zealand Dollar"
+msgstr "Dólar neozelandês"
+
+#: amgt-function.php:1467
+msgid "Next"
+msgstr "Próximo"
+
+#: admin/general-settings.php:370
+msgid "Nigerian Naira"
+msgstr "Naira nigeriana"
+
+#: admin/facility/index.php:477 template/facility/facility.php:422
+msgid "No"
+msgstr "Não"
+
+#: admin/member/view_user.php:444 template/member/view_member.php:500
+msgid "No any Documents yet."
+msgstr "Nenhum documento ainda."
+
+#: admin/gatekeeper/add_gatekeeper.php:117 admin/member/add_gatekeeper.php:157
+#: admin/visitor-manage/staff-checkin.php:96
+#: admin/visitor-manage/visitor-checkin.php:170
+#: template/gatekeeper/gatekeeper.php:541
+#: template/visitor-manage/staff_checkin.php:77
+#: template/visitor-manage/visitor_checkin.php:111
+msgid "No Any Gates."
+msgstr "Não há portas."
+
+#: template/gallery/gallery.php:110
+msgid "No Any Images In This Gallery Yet."
+msgstr "Ainda não há imagens nesta galeria."
+
+#: admin/member/view_user.php:542 template/member/view_member.php:598
+msgid "No any Proof Documents yet."
+msgstr "Nenhum documento de prova ainda."
+
+#: admin/member/view_user.php:397 template/member/view_member.php:451
+msgid "No any Unit Members yet."
+msgstr "Nenhum membro da unidade ainda."
+
+#: fronted_template.php:923
+msgid "No Building Units Found"
+msgstr "Nenhuma unidade de construção encontrada"
+
+#: fronted_template.php:761 admin/dasboard.php:321
+#| msgid "No Complains Found"
+msgid "No Complaints Found"
+msgstr "Nenhuma reclamação encontrada"
+
+#: admin/dasboard.php:400
+msgid "No Compound Units Found"
+msgstr "Nenhuma unidade composta encontrada"
+
+#: amgt-function.php:1453
+msgid "No data available in table"
+msgstr "Sem dados disponíveis na tabela"
+
+#: amgt-function.php:544
+msgid "No FAQ found"
+msgstr "Nenhum FAQ encontrado"
+
+#: amgt-function.php:545
+msgid "No FAQ found in Trash"
+msgstr "Nenhuma FAQ encontrada na Lixeira"
+
+#: fronted_template.php:1137
+msgid "No Gatekeeper Found"
+msgstr "Nenhum porteiro encontrado"
+
+#: fronted_template.php:1336 admin/dasboard.php:625
+msgid "No Invoice Found"
+msgstr "Nenhuma fatura encontrada"
+
+#: amgt-function.php:1463
+msgid "No matching records found"
+msgstr "Nenhum registro correspondente encontrado"
+
+#: fronted_template.php:659 admin/dasboard.php:278
+msgid "No Notice Found"
+msgstr "Nenhum aviso encontrado"
+
+#: amgt-function.php:581
+msgid "No Photo Gallery found"
+msgstr "Nenhuma galeria de fotos encontrada"
+
+#: amgt-function.php:582
+msgid "No Photo Gallery found in Trash"
+msgstr "Nenhuma galeria de fotos encontrada na lixeira"
+
+#: translation_string.php:63
+msgid "No Records Found !"
+msgstr "Sem registros encontrados !"
+
+#: amgt-function.php:506
+msgid "No rules found"
+msgstr "Nenhuma regra encontrada"
+
+#: amgt-function.php:507
+msgid "No rules found in Trash"
+msgstr "Nenhuma regra encontrada na lixeira"
+
+#: admin/dasboard.php:488
+msgid "No Security Found"
+msgstr "Nenhuma segurança encontrada"
+
+#: fronted_template.php:1023 admin/dasboard.php:438
+msgid "No Services Found"
+msgstr "Nenhum serviço encontrado"
+
+#: admin/general-settings.php:366
+msgid "Norwegian Krone"
+msgstr "Coroa norueguesa"
+
+#: admin/notice-events/index.php:358 template/notice-event/notice-event.php:451
+msgid "Not Approved"
+msgstr "Não aprovado"
+
+#: translation_string.php:14
+msgid "Notes"
+msgstr "Notas"
+
+#: fronted_template.php:577 admin/dasboard.php:250
+msgid "Notice"
+msgstr "Aviso prévio"
+
+#: amgt-function.php:41 admin/admin.php:32 admin/admin.php:32
+#: admin/access_right/Accountant.php:550 admin/access_right/Gatekeeper.php:550
+#: admin/access_right/Member.php:550 admin/access_right/Staff_Member.php:550
+msgid "Notice And Event"
+msgstr "Aviso e evento"
+
+#: admin/general-settings.php:263
+msgid "Notice and Event Approved by admin"
+msgstr "Aviso e evento aprovados pelo administrador"
+
+#: admin/notice-events/index.php:210
+msgid "Notice Approved successfully"
+msgstr "Aviso aprovado com sucesso"
+
+#: admin/notification-templates/index.php:505
+#: admin/notification-templates/index.php:561
+msgid "Notice Category"
+msgstr "Categoria de Aviso"
+
+#: admin/notification-templates/index.php:402
+msgid "Notice Content"
+msgstr "Conteúdo do Aviso"
+
+#: admin/notice-events/index.php:202 template/notice-event/notice-event.php:247
+msgid "Notice deleted successfully"
+msgstr "Aviso excluído com sucesso"
+
+#: translation_string.php:56
+msgid "Notice Details"
+msgstr "Detalhes do Aviso"
+
+#: admin/notice-events/index.php:185
+msgid "Notice inserted successfully"
+msgstr "Aviso inserido com sucesso"
+
+#: template/notice-event/notice-event.php:223
+msgid "Notice inserted successfully but display After Admin Approved"
+msgstr "Aviso inserido com sucesso, mas exibir após aprovação do administrador"
+
+#: template/notice-event/notice-event.php:211
+msgid "Notice inserted successfully."
+msgstr "Aviso inserido com sucesso."
+
+#: admin/notification-templates/index.php:403
+msgid "Notice Link"
+msgstr "Link de Aviso"
+
+#: admin/notice-events/index.php:258 template/notice-event/notice-event.php:289
+msgid "Notice List"
+msgstr "Lista de Avisos"
+
+#: fronted_template.php:644 admin/dasboard.php:261
+#: admin/notice-events/add_notice.php:73 admin/notice-events/index.php:314
+#: admin/notice-events/index.php:324 admin/notification-templates/index.php:399
+#: template/notice-event/add_notice.php:72
+#: template/notice-event/notice-event.php:357
+#: template/notice-event/notice-event.php:367
+msgid "Notice Title"
+msgstr "Título do Aviso"
+
+#: translation_string.php:57
+msgid "Notice Title:"
+msgstr "Título do Aviso:"
+
+#: admin/notice-events/add_notice.php:82 admin/notice-events/index.php:316
+#: admin/notice-events/index.php:326 admin/notification-templates/index.php:400
+#: admin/notification-templates/index.php:504
+#: admin/notification-templates/index.php:560
+#: template/notice-event/add_notice.php:80
+#: template/notice-event/notice-event.php:359
+#: template/notice-event/notice-event.php:369
+msgid "Notice Type"
+msgstr "Tipo de Aviso"
+
+#: translation_string.php:59
+msgid "Notice Type:"
+msgstr "Tipo de Aviso:"
+
+#: admin/notice-events/index.php:192 template/notice-event/notice-event.php:236
+msgid "Notice updated successfully."
+msgstr "Aviso atualizado com sucesso."
+
+#: admin/notification-templates/index.php:401
+msgid "Notice Valid Date"
+msgstr "Data Válida do Aviso"
+
+#: admin/notice-events/add_notice.php:121
+#: template/notice-event/add_notice.php:115
+msgid "Notice Valid Until"
+msgstr "Aviso válido até"
+
+#: admin/report/expense.php:4 admin/report/payment.php:4
+#: template/report/expense.php:4 template/report/payment.php:4
+msgid "November"
+msgstr "novembro"
+
+#: admin/report/member_by_building.php:26
+#: admin/report/member_by_building.php:45
+#: template/report/member_by_building.php:5
+#: template/report/member_by_building.php:24
+msgid "Number Of Member"
+msgstr "Número de Sócios"
+
+#: admin/report/index.php:24
+msgid "Number Of Members By Building"
+msgstr "Número de membros por edifício"
+
+#: template/report/report.php:22
+msgid "Number Of Members IN Building"
+msgstr "Número de membros no edifício"
+
+#: admin/report/unit_by_building.php:26 admin/report/unit_by_building.php:47
+#: template/report/unit_by_building.php:5
+#: template/report/unit_by_building.php:26
+msgid "Number Of Unit"
+msgstr "Número da unidade"
+
+#: admin/ducuments/add-document.php:542 admin/ducuments/add-document.php:578
+#: admin/ducuments/add-document.php:608 admin/member/add_member.php:299
+#: admin/member/add_member.php:345 admin/member/add_member.php:384
+#: admin/parking/assign-sloat.php:618 admin/parking/assign-sloat.php:653
+#: admin/parking/assign-sloat.php:683 admin/residential-unit/index.php:553
+#: admin/residential-unit/index.php:588 admin/residential-unit/index.php:618
+#: template/member/add_member.php:312 template/member/add_member.php:353
+#: template/member/add_member.php:391
+#: template/parking-manager/parking-manager.php:642
+#: template/parking-manager/parking-manager.php:677
+#: template/parking-manager/parking-manager.php:707
+msgid "Occupied By"
+msgstr "Ocupado por"
+
+#: admin/ducuments/add-document.php:561 admin/ducuments/add-document.php:591
+#: admin/ducuments/add-document.php:627 admin/member/add_member.php:329
+#: admin/member/add_member.php:367 admin/member/add_member.php:413
+#: admin/parking/assign-sloat.php:637 admin/parking/assign-sloat.php:666
+#: admin/parking/assign-sloat.php:702 admin/residential-unit/index.php:572
+#: admin/residential-unit/index.php:601 admin/residential-unit/index.php:637
+#: template/member/add_member.php:337 template/member/add_member.php:374
+#: template/member/add_member.php:419
+#: template/parking-manager/parking-manager.php:661
+#: template/parking-manager/parking-manager.php:690
+#: template/parking-manager/parking-manager.php:726
+msgid "Occupied Date"
+msgstr "Data de Ocupação"
+
+#: translation_string.php:2
+msgid "Occupied From Date"
+msgstr "Ocupado desde a data"
+
+#: translation_string.php:3
+msgid "Occupied To Date"
+msgstr "Ocupado até a data"
+
+#: admin/report/expense.php:4 admin/report/payment.php:4
+#: template/report/payment.php:4
+msgid "Octomber"
+msgstr "Outubro"
+
+#: admin/general-settings.php:187
+msgid "Official Phone Number"
+msgstr "Número de telefone oficial"
+
+#: admin/complaint/add_complaint.php:257 admin/complaint/add_complaint.php:305
+#: admin/complaint/index.php:244 template/complaint/add_complain.php:280
+#: template/complaint/add_complain.php:322 template/complaint/complaint.php:324
+msgid "On Hold"
+msgstr "Em espera"
+
+#: admin/accounts/add-charges-all-member.php:175
+msgid "One Member"
+msgstr "Um membro"
+
+#: admin/accounts/add-charges-all-member.php:105
+#: admin/accounts/recuring_charg_list.php:83
+msgid "One Time"
+msgstr "Um tempo"
+
+#: admin/complaint/add_complaint.php:255 admin/complaint/add_complaint.php:303
+#: admin/complaint/index.php:236 template/complaint/add_complain.php:278
+#: template/complaint/add_complain.php:320 template/complaint/complaint.php:316
+#: template/notice-event/notice-event.php:451
+msgid "Open"
+msgstr "Abrir"
+
+#: template/profile/profile.php:328
+msgid "Other Information"
+msgstr "Outra informação"
+
+#: admin/access_right/Accountant.php:222 admin/access_right/Gatekeeper.php:222
+#: admin/access_right/Member.php:222 admin/access_right/Staff_Member.php:222
+msgid "OwnData"
+msgstr "OwnData"
+
+#: amgt-function.php:114 admin/ducuments/add-document.php:524
+#: admin/ducuments/add-document.php:553 admin/ducuments/add-document.php:583
+#: admin/ducuments/add-document.php:619 admin/member/add_member.php:279
+#: admin/parking/assign-sloat.php:599 admin/parking/assign-sloat.php:629
+#: admin/parking/assign-sloat.php:658 admin/parking/assign-sloat.php:694
+#: admin/residential-unit/index.php:535 admin/residential-unit/index.php:564
+#: admin/residential-unit/index.php:593 admin/residential-unit/index.php:629
+#: template/member/add_member.php:292
+#: template/parking-manager/parking-manager.php:624
+#: template/parking-manager/parking-manager.php:653
+#: template/parking-manager/parking-manager.php:682
+#: template/parking-manager/parking-manager.php:718
+msgid "Owner"
+msgstr "Proprietário"
+
+#: amgt-function.php:118 admin/ducuments/add-document.php:526
+#: admin/member/add_member.php:281 admin/parking/assign-sloat.php:601
+#: admin/residential-unit/index.php:537 template/member/add_member.php:294
+#: template/parking-manager/parking-manager.php:626
+msgid "Owner Family"
+msgstr "Família do proprietário"
+
+#: translation_string.php:62
+msgid "owner family"
+msgstr "família do dono"
+
+#: admin/accounts/index.php:978 admin/accounts/index.php:996
+msgid "Paid Amount"
+msgstr "Quantidade paga"
+
+#: translation_string.php:22
+msgid "Paid Amount :"
+msgstr "Quantidade paga :"
+
+#: admin/notification-templates/index.php:861
+msgid "Paid Invoice Email Template"
+msgstr "Modelo de e-mail de fatura paga"
+
+#: admin/notification-templates/index.php:843
+msgid "Paid Invoice Template"
+msgstr "Modelo de fatura paga"
+
+#: amgt-function.php:498 amgt-function.php:536 amgt-function.php:573
+msgid "Parent Item:"
+msgstr "Item pai:"
+
+#: amgt-function.php:43 admin/admin.php:36 admin/admin.php:36
+#: admin/access_right/Accountant.php:640 admin/access_right/Gatekeeper.php:639
+#: admin/access_right/Member.php:640 admin/access_right/Staff_Member.php:640
+msgid "Parking Manager"
+msgstr "Gerente de estacionamento"
+
+#: fronted_template.php:1301 fronted_template.php:1318 admin/dasboard.php:592
+#: admin/dasboard.php:609 admin/accounts/index.php:1110
+#: admin/accounts/index.php:1127
+msgid "Partially Paid"
+msgstr "Parcialmente pago"
+
+#: amgt-function.php:362 admin/accountant/add_accountant.php:204
+#: admin/ducuments/add-document.php:749 admin/gatekeeper/add_gatekeeper.php:185
+#: admin/member/add_accountant.php:217 admin/member/add_gatekeeper.php:241
+#: admin/member/add_member.php:549 admin/member/add_staff_member.php:260
+#: admin/notification-templates/index.php:351
+#: admin/parking/assign-sloat.php:823 admin/residential-unit/index.php:759
+#: admin/staff-member/add_staff_member.php:197
+#: template/accountant/add_accountant.php:204
+#: template/gatekeeper/gatekeeper.php:620 template/member/add_member.php:542
+#: template/parking-manager/parking-manager.php:850
+msgid "Password"
+msgstr "Senha"
+
+#: admin/report/index.php:27 admin/report/payment.php:34
+#: admin/report/payment.php:53 template/report/payment.php:11
+#: template/report/payment.php:30 template/report/report.php:27
+msgid "Payment"
+msgstr "Pagamento"
+
+#: translation_string.php:69
+msgid "Payment By"
+msgstr "Pagamento por"
+
+#: admin/accounts/add-expense.php:149 admin/accounts/expense-list.php:28
+#: admin/accounts/expense-list.php:37
+#: admin/report/download_expense_report.php:79
+#: admin/report/download_expense_report.php:88
+msgid "Payment Date"
+msgstr "Data de pagamento"
+
+#: admin/notification-templates/index.php:825
+msgid "Payment Link"
+msgstr "Link de pagamento"
+
+#: translation_string.php:12
+msgid "Payment Method"
+msgstr "Forma de pagamento"
+
+#: admin/report/payment.php:41 template/report/payment.php:18
+msgid "Payment Report By Month"
+msgstr "Relatório de pagamento por mês"
+
+#: fronted_template.php:1166 admin/dasboard.php:510
+#: admin/accounts/index.php:979 admin/accounts/index.php:997
+msgid "Payment Status"
+msgstr "Status do pagamento"
+
+#: admin/accounts/index.php:856
+msgid "Payment Successfully"
+msgstr "Pagamento com sucesso"
+
+#: admin/general-settings.php:323
+msgid "Paypal Email Id"
+msgstr "Id de Email Paypal"
+
+#: admin/general-settings.php:306
+msgid "Paypal Setting"
+msgstr "Configuração Paypal"
+
+#: translation_string.php:25
+msgid "PDF"
+msgstr "PDF"
+
+#: admin/member/view_user.php:266 template/member/view_member.php:309
+msgid "Permanent Contact Information"
+msgstr "Informação de contato permanente"
+
+#: admin/general-settings.php:372
+msgid "Philippine Peso"
+msgstr "Peso filipino"
+
+#: admin/accountant/index.php:173 admin/accountant/index.php:183
+#: admin/committee-member/index.php:54 admin/committee-member/index.php:66
+#: admin/gatekeeper/index.php:167 admin/gatekeeper/index.php:177
+#: admin/member/accountant_list.php:43 admin/member/accountant_list.php:53
+#: admin/member/gatekeeper_list.php:43 admin/member/gatekeeper_list.php:53
+#: admin/member/member_list.php:90 admin/member/member_list.php:102
+#: admin/member/staff_list.php:43 admin/member/staff_list.php:53
+#: admin/staff-member/index.php:167 admin/staff-member/index.php:178
+#: template/accountant/accountant.php:234
+#: template/accountant/accountant.php:250
+#: template/committee-member/committee-member.php:84
+#: template/committee-member/committee-member.php:100
+#: template/gatekeeper/gatekeeper.php:229
+#: template/gatekeeper/gatekeeper.php:245 template/member/member.php:353
+#: template/member/member.php:365 template/staff-members/staff-members.php:78
+#: template/staff-members/staff-members.php:88
+msgid "Photo"
+msgstr "foto"
+
+#: amgt-function.php:572 amgt-function.php:574
+msgid "Photo Gallery"
+msgstr "Galeria de fotos"
+
+#: admin/message/view_message.php:176 template/message/view_message.php:214
+msgid "Please select atleast one users to reply"
+msgstr "Selecione pelo menos um usuário para responder"
+
+#: admin/visitor-manage/index.php:70 admin/visitor-manage/index.php:101
+msgid "Please Select Gate."
+msgstr "Selecione Gate."
+
+#: admin/general-settings.php:374
+msgid "Polish Zloty"
+msgstr "Zloty polonês"
+
+#: amgt-function.php:532
+msgctxt "Post Type General Name"
+msgid "FAQ"
+msgstr "Perguntas frequentes"
+
+#: amgt-function.php:570
+msgctxt "Post Type General Name"
+msgid "Photo Gallery"
+msgstr "Galeria de fotos"
+
+#: amgt-function.php:495
+msgctxt "Post Type General Name"
+msgid "Society Rules"
+msgstr "Regras da Sociedade"
+
+#: amgt-function.php:533
+msgctxt "Post Type Singular Name"
+msgid "FAQ"
+msgstr "Perguntas frequentes"
+
+#: amgt-function.php:571
+msgctxt "Post Type Singular Name"
+msgid "Photo Gallery"
+msgstr "Galeria de fotos"
+
+#: amgt-function.php:496
+msgctxt "Post Type Singular Name"
+msgid "Society Rules"
+msgstr "Regras da Sociedade"
+
+#: admin/general-settings.php:376
+msgid "Pound Sterling"
+msgstr "Libra esterlina"
+
+#: amgt-function.php:1468
+msgid "Previous"
+msgstr "Anterior"
+
+#: translation_string.php:24
+msgid "Print"
+msgstr "Imprimir"
+
+#: admin/visitor-manage/visitor-checkin-list.php:215
+#: template/visitor-manage/visitor-manage.php:558
+msgid "Print Details"
+msgstr "Detalhes de impressão"
+
+#: admin/accounts/index.php:1184
+msgid "Print Payment Receipt"
+msgstr "Imprimir recibo de pagamento"
+
+#: admin/facility/facility-booking-list.php:109
+#: admin/visitor-manage/visitor-checkin-list.php:100
+#: admin/visitor-manage/visitor-checkin-list.php:162
+#: template/facility/facility-booking-list.php:153
+#: template/visitor-manage/visitor-manage.php:494
+msgid "Processing"
+msgstr "Em processamento"
+
+#: amgt-function.php:1461
+msgid "Processing..."
+msgstr "Em processamento..."
+
+#: amgt-function.php:51 admin/access_right/Accountant.php:955
+#: admin/access_right/Gatekeeper.php:954 admin/access_right/Member.php:955
+#: admin/access_right/Staff_Member.php:955
+msgid "Profile"
+msgstr "Perfil"
+
+#: admin/general-settings.php:220
+msgid "Profile Cover Image"
+msgstr "Imagem da capa do perfil"
+
+#: template/profile/profile.php:227
+msgid "Profile Successfully updated."
+msgstr "Perfil atualizado com sucesso."
+
+#: admin/member/view_user.php:455 template/member/view_member.php:511
+msgid "Proof Document List"
+msgstr "Lista de Documentos de Prova"
+
+#: admin/member/add_member.php:596 template/member/add_member.php:587
+msgid "Proof Documents"
+msgstr "Documentos de Prova"
+
+#: admin/notice-events/add_notice.php:89 admin/notice-events/index.php:353
+#: template/notice-event/add_notice.php:87
+#: template/notice-event/notice-event.php:447
+msgid "Proposal"
+msgstr "Proposta"
+
+#: admin/notice-events/add_event.php:170
+#: template/notice-event/add_event.php:138
+msgid "Publish To Notice Board"
+msgstr "Publicar no quadro de avisos"
+
+#: admin/assets-inventory/add-assets.php:156
+#: template/assets-inventory-tracker/add_asset.php:154
+msgid "Purchase Date"
+msgstr "data de compra"
+
+#: admin/accountant/add_accountant.php:128 admin/member/add_accountant.php:139
+#: admin/member/add_staff_member.php:170 admin/member/view_user.php:214
+#: admin/staff-member/add_staff_member.php:128
+#: template/accountant/add_accountant.php:128
+#: template/member/view_member.php:245
+msgid "Qualification"
+msgstr "Qualificação"
+
+#: admin/assets-inventory/inventory-list.php:28
+#: admin/assets-inventory/inventory-list.php:36
+#: template/assets-inventory-tracker/inventory_list.php:27
+#: template/assets-inventory-tracker/inventory_list.php:37
+msgid "Quantity"
+msgstr "Quantidade"
+
+#: admin/assets-inventory/add-inventory.php:61
+#: template/assets-inventory-tracker/add_inventory.php:62
+msgid "Quantity  "
+msgstr "Quantidade"
+
+#: amgt-function.php:423
+msgid "Quarter I"
+msgstr "Trimestre I"
+
+#: amgt-function.php:425
+msgid "Quarter II"
+msgstr "Trimestre II"
+
+#: amgt-function.php:427
+msgid "Quarter III"
+msgstr "Trimestre III"
+
+#: amgt-function.php:429
+msgid "Quarter IV"
+msgstr "Quarto IV"
+
+#: amgt-function.php:131 admin/accounts/add-charges-all-member.php:111
+#: admin/accounts/recuring_charg_list.php:91
+msgid "Quarterly"
+msgstr "Trimestral"
+
+#: admin/visitor-manage/visitor-checkin.php:180
+#: template/visitor-manage/visitor_checkin.php:121
+msgid "Reason For Visit"
+msgstr "Razão para visitar"
+
+#: translation_string.php:39
+msgid "REASON FOR VISIT: "
+msgstr "RAZÃO PARA VISITAR:"
+
+#: translation_string.php:61
+msgid "Reason Name"
+msgstr "Nome da Razão"
+
+#: admin/accountant/index.php:117 admin/accounts/index.php:848
+#: admin/assets-inventory/index.php:110 admin/gatekeeper/index.php:111
+#: admin/member-corner/index.php:67 admin/staff-member/index.php:111
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:141
+#: template/parking-manager/parking-manager.php:173
+msgid "Record deleted successfully"
+msgstr "Registro excluído com sucesso"
+
+#: admin/accountant/index.php:97 admin/gatekeeper/index.php:94
+#: admin/member/index.php:252 admin/member-corner/index.php:50
+#: admin/staff-member/index.php:94
+#: template/parking-manager/parking-manager.php:151
+msgid "Record inserted successfully"
+msgstr "Registro inserido com sucesso"
+
+#: admin/general-settings.php:68
+msgid "Record updated successfully"
+msgstr "Registro atualizado com sucesso"
+
+#: admin/access_right/index.php:26
+msgid "Record Updated Successfully."
+msgstr "Registro atualizado com sucesso."
+
+#: admin/accountant/index.php:106 admin/gatekeeper/index.php:101
+#: admin/member/index.php:259 admin/member-corner/index.php:57
+#: admin/staff-member/index.php:101
+#: template/parking-manager/parking-manager.php:162
+#: template/profile/profile.php:184
+msgid "Record updated successfully."
+msgstr "Registro atualizado com sucesso."
+
+#: admin/report/complaint.php:41 admin/report/expense.php:46
+#: admin/report/member_by_building.php:65 admin/report/payment.php:70
+#: admin/report/unit_by_building.php:66 template/report/complaint.php:25
+#: template/report/expense.php:46 template/report/member_by_building.php:44
+#: template/report/payment.php:47 template/report/unit_by_building.php:45
+msgid "Records Not Found"
+msgstr "Registros não encontrados"
+
+#: admin/notification-templates/index.php:150
+msgid "Registration Email Template"
+msgstr "Modelo de Email de Registro"
+
+#: admin/notification-templates/index.php:132
+msgid "Registration Email Template "
+msgstr "Modelo de Email de Registro"
+
+#: amgt-function.php:363
+msgid "Remember Me"
+msgstr "Lembre de mim"
+
+#: amgt-function.php:664 amgt-function.php:688
+msgid "Remove"
+msgstr "Retirar"
+
+#: admin/message/view_message.php:218 template/message/view_message.php:258
+msgid "Reply"
+msgstr "Responder"
+
+#: admin/message/view_message.php:117
+msgid "Reply By :"
+msgstr "Responder por:"
+
+#: template/message/view_message.php:144
+msgid "Reply By : "
+msgstr "Responder por:"
+
+#: admin/message/view_message.php:120
+msgid "Reply To :"
+msgstr "Responder a :"
+
+#: template/message/view_message.php:147
+msgid "Reply To : "
+msgstr "Responder a :"
+
+#: amgt-function.php:50 admin/admin.php:54 admin/admin.php:54
+#: admin/access_right/Accountant.php:1135
+#: admin/access_right/Gatekeeper.php:1134 admin/access_right/Member.php:1135
+#: admin/access_right/Staff_Member.php:1135
+msgid "Report"
+msgstr "Relatório"
+
+#: admin/complaint/add_complaint.php:136 admin/complaint/index.php:198
+#: template/complaint/add_complain.php:137 template/complaint/complaint.php:288
+msgid "Request"
+msgstr "Solicitação"
+
+#: admin/visitor-manage/index.php:247
+#: template/visitor-manage/visitor-manage.php:257
+msgid "Request deleted successfully"
+msgstr "Pedido eliminado com sucesso"
+
+#: translation_string.php:88
+msgid "Required form field is missing"
+msgstr "Falta o campo obrigatório do formulário"
+
+#: admin/access_right/Accountant.php:233 admin/access_right/Gatekeeper.php:233
+#: admin/access_right/Member.php:233 admin/access_right/Staff_Member.php:233
+msgid "Resident Unit"
+msgstr "Unidade Residente"
+
+#: admin/general-settings.php:123
+msgid "Residential"
+msgstr "residencial"
+
+#: admin/admin.php:18 admin/admin.php:23
+msgid "Residential Unit "
+msgstr "Unidade Residencial"
+
+#: admin/residential-unit/index.php:157
+#: template/resident_unit/resident_unit.php:108
+msgid "Residential Unit deleted successfully"
+msgstr "Unidade residencial excluída com sucesso"
+
+#: admin/residential-unit/index.php:139
+#: template/resident_unit/resident_unit.php:86
+msgid "Residential Unit inserted successfully"
+msgstr "Unidade residencial inserida com sucesso"
+
+#: admin/residential-unit/index.php:176
+msgid "Residential Unit List"
+msgstr "Lista de unidades residenciais"
+
+#: admin/residential-unit/index.php:148
+msgid "Residential Unit Updated successfully"
+msgstr "Unidade residencial atualizada com sucesso"
+
+#: template/resident_unit/resident_unit.php:97
+msgid "Residential Unit updated successfully."
+msgstr "Unidade residencial atualizada com sucesso."
+
+#: admin/complaint/add_complaint.php:381 admin/complaint/index.php:160
+#: admin/complaint/index.php:173 template/complaint/add_complain.php:398
+#: template/complaint/complaint.php:193 template/complaint/complaint.php:206
+msgid "Resolution"
+msgstr "Resolução"
+
+#: admin/notification-templates/index.php:1014
+msgid "Reson For Visit"
+msgstr "Reson para visita"
+
+#: admin/notification-templates/index.php:620
+#: admin/parking/assign-sloat.php:213
+#: template/parking-manager/assign_sloat.php:184
+msgid "RFID"
+msgstr "RFID"
+
+#: admin/access_right/Accountant.php:1045
+#: admin/access_right/Gatekeeper.php:1044 admin/access_right/Member.php:1045
+#: admin/access_right/Staff_Member.php:1045
+msgid "Rules"
+msgstr "Regras"
+
+#: admin/general-settings.php:520 admin/access_right/Accountant.php:1179
+#: admin/access_right/Gatekeeper.php:1178 admin/access_right/Member.php:1179
+#: admin/access_right/Staff_Member.php:1179
+#: admin/accountant/add_accountant.php:254 admin/ducuments/add-document.php:858
+#: admin/facility/booking-facility.php:248
+#: admin/facility/booking-facility.php:248
+#: admin/gatekeeper/add_gatekeeper.php:228 admin/member/add_accountant.php:267
+#: admin/member/add_gatekeeper.php:288 admin/member/add_member.php:811
+#: admin/member/add_staff_member.php:305
+#: admin/notification-templates/index.php:169
+#: admin/notification-templates/index.php:215
+#: admin/notification-templates/index.php:263
+#: admin/notification-templates/index.php:308
+#: admin/notification-templates/index.php:357
+#: admin/notification-templates/index.php:408
+#: admin/notification-templates/index.php:461
+#: admin/notification-templates/index.php:515
+#: admin/notification-templates/index.php:572
+#: admin/notification-templates/index.php:626
+#: admin/notification-templates/index.php:681
+#: admin/notification-templates/index.php:737
+#: admin/notification-templates/index.php:784
+#: admin/notification-templates/index.php:830
+#: admin/notification-templates/index.php:878
+#: admin/notification-templates/index.php:926
+#: admin/notification-templates/index.php:972
+#: admin/notification-templates/index.php:1023
+#: admin/notification-templates/index.php:1070
+#: admin/parking/assign-sloat.php:395 admin/parking/assign-sloat.php:935
+#: admin/residential-unit/add_unit.php:247 admin/residential-unit/index.php:871
+#: admin/staff-member/add_staff_member.php:239
+#: template/accountant/add_accountant.php:250
+#: template/facility/booking-facility.php:253
+#: template/facility/booking-facility.php:253
+#: template/gatekeeper/gatekeeper.php:666 template/member/add_member.php:801
+#: template/parking-manager/parking-manager.php:961
+#: template/profile/profile.php:317 template/profile/profile.php:367
+#: template/resident_unit/add_unit.php:218
+msgid "Save"
+msgstr "Salve "
+
+#: admin/accounts/add-expense.php:167 admin/assets-inventory/add-assets.php:175
+#: admin/assets-inventory/add-inventory.php:97
+#: admin/ducuments/add-document.php:326 admin/parking/add-sloat.php:87
+#: template/assets-inventory-tracker/add_asset.php:172
+#: template/assets-inventory-tracker/add_inventory.php:97
+#: template/documents/add_documents.php:272
+#: template/parking-manager/add_sloat.php:85
+#: template/parking-manager/assign_sloat.php:357
+msgid "save"
+msgstr "Salve "
+
+#: admin/accounts/add-charges-all-member.php:861
+msgid "Save Charges"
+msgstr "Salvar despesas"
+
+#: admin/accounts/add-charges-all-member.php:865
+msgid "Save Charges & Create Invoice"
+msgstr "Salvar despesas e criar fatura"
+
+#: admin/accounts/add-charges-all-member.php:865
+msgid "Save Charges & Update Invoice"
+msgstr "Salvar despesas e atualizar fatura"
+
+#: admin/facility/add_facility.php:108 template/facility/add_facility.php:108
+msgid "Save Facility"
+msgstr "Salvar instalação"
+
+#: admin/service/add_service.php:112 template/services/add_services.php:103
+msgid "Save Service"
+msgstr "Salvar serviço"
+
+#: admin/tax/add_tax.php:49
+msgid "Save Tax"
+msgstr "Salvar imposto"
+
+#: admin/complaint/add_complaint.php:258 admin/complaint/add_complaint.php:306
+#: admin/complaint/index.php:248 template/complaint/add_complain.php:281
+#: template/complaint/add_complain.php:323 template/complaint/complaint.php:329
+msgid "Scheduled"
+msgstr "Agendado"
+
+#: admin/visitor-manage/visitor-checkin.php:415
+#: template/visitor-manage/visitor_checkin.php:372
+msgid "Search"
+msgstr "Procurar"
+
+#: amgt-function.php:543
+msgid "Search FAQ"
+msgstr "FAQ de pesquisa"
+
+#: admin/message/view_message.php:163 template/message/view_message.php:201
+msgid "Search for Users..."
+msgstr "Pesquisar por usuários ..."
+
+#: amgt-function.php:580
+msgid "Search Photo Gallery"
+msgstr "Pesquisar Galeria de Fotos"
+
+#: amgt-function.php:505
+msgid "Search Rules"
+msgstr "Regras de pesquisa"
+
+#: amgt-function.php:1462
+msgid "Search:"
+msgstr "Procurar:"
+
+#: admin/dasboard.php:450
+msgid "Security"
+msgstr "Segurança"
+
+#: admin/dasboard.php:467
+msgid "Security Name"
+msgstr "Nome de Segurança"
+
+#: admin/assets-inventory/add-assets.php:125
+#: template/assets-inventory-tracker/add_asset.php:128
+#: template/facility/booking-facility.php:70
+msgid "Select A Facility To Book"
+msgstr "Selecione uma instalação para reservar"
+
+#: admin/facility/booking-facility.php:116
+#: template/facility/booking-facility.php:116
+msgid "Select Activity"
+msgstr "Selecione a atividade"
+
+#: translation_string.php:83 admin/message/view_message.php:161
+#: template/message/view_message.php:200
+msgid "Select all"
+msgstr "Selecionar tudo"
+
+#: admin/general-settings.php:122
+msgid "Select Apartment Type"
+msgstr "Selecione o tipo de apartamento"
+
+#: admin/assets-inventory/add-assets.php:98
+#: template/assets-inventory-tracker/add_asset.php:103
+msgid "Select Asset Category"
+msgstr "Selecione a categoria de ativo"
+
+#: admin/accounts/add-charges-all-member.php:193
+#: admin/accounts/add-charges-all-member.php:343
+#: admin/accounts/add-charges-all-member.php:400
+#: admin/ducuments/add-document.php:140 admin/ducuments/add-document.php:405
+#: admin/ducuments/add-document.php:902 admin/member/add_member.php:124
+#: admin/member/add_member.php:850 admin/parking/assign-sloat.php:238
+#: admin/parking/assign-sloat.php:448 admin/parking/assign-sloat.php:982
+#: admin/residential-unit/add_unit.php:74 admin/residential-unit/index.php:383
+#: admin/residential-unit/index.php:917 template/documents/add_documents.php:73
+#: template/member/add_member.php:139 template/member/member.php:569
+#: template/parking-manager/assign_sloat.php:209
+#: template/parking-manager/parking-manager.php:470
+#: template/parking-manager/parking-manager.php:1008
+#: template/resident_unit/add_unit.php:57
+msgid "Select Building"
+msgstr "Selecione Edifício"
+
+#: admin/complaint/add_complaint.php:212
+#: template/complaint/add_complain.php:230
+msgid "Select Category"
+msgstr "Selecione a Categoria"
+
+#: admin/visitor-manage/visitor-checkin.php:211
+#: admin/visitor-manage/visitor-checkin.php:492
+#: template/visitor-manage/visitor_checkin.php:166
+msgid "Select Compound"
+msgstr "Selecione Composto"
+
+#: admin/general-settings.php:174
+msgid "Select Country"
+msgstr "Selecione o pais"
+
+#: admin/general-settings.php:331 admin/general-settings.php:334
+msgid "Select Currency"
+msgstr "Escolha a moeda"
+
+#: admin/ducuments/add-document.php:650 admin/member/add_member.php:437
+#: admin/parking/assign-sloat.php:725 admin/residential-unit/index.php:660
+#: template/member/add_member.php:441
+#: template/parking-manager/parking-manager.php:749
+msgid "Select Designation"
+msgstr "Selecione a designação"
+
+#: admin/notice-events/add_event.php:124
+#: template/notice-event/add_event.php:113
+msgid "Select End Time"
+msgstr "Selecione a hora de término"
+
+#: admin/accounts/add-expense.php:91
+msgid "Select Expense Type"
+msgstr "Selecione o tipo de despesa"
+
+#: admin/assets-inventory/add-assets.php:128
+#: admin/facility/booking-facility.php:86
+#: template/assets-inventory-tracker/add_asset.php:131
+#: template/facility/booking-facility.php:86
+msgid "Select Facility"
+msgstr "Selecione a instalação"
+
+#: admin/facility/booking-facility.php:70
+msgid "Select Facility To Book"
+msgstr "Selecione o estabelecimento para reservar"
+
+#: amgt-function.php:663 amgt-function.php:686
+msgid "Select Image"
+msgstr "Selecione a imagem"
+
+#: admin/accounts/add-charges-all-member.php:150
+msgid "Select Invoice Option"
+msgstr "Selecione a opção de fatura"
+
+#: admin/accounts/add-charges-all-member.php:275
+#: admin/complaint/add_complaint.php:176 admin/ducuments/add-document.php:225
+#: admin/facility/booking-facility.php:217 admin/parking/assign-sloat.php:326
+#: template/complaint/add_complain.php:194
+#: template/documents/add_documents.php:183
+#: template/facility/booking-facility.php:226
+#: template/parking-manager/assign_sloat.php:295
+msgid "Select Member"
+msgstr "Selecione Sócio"
+
+#: admin/ducuments/add-document.php:516 admin/member/add_member.php:265
+#: admin/parking/assign-sloat.php:591 admin/residential-unit/index.php:527
+#: template/member/add_member.php:284
+#: template/parking-manager/parking-manager.php:616
+msgid "Select Member Type"
+msgstr "Selecione o tipo de membro"
+
+#: admin/ducuments/add-document.php:545 admin/ducuments/add-document.php:581
+#: admin/ducuments/add-document.php:611 admin/member/add_member.php:302
+#: admin/member/add_member.php:348 admin/member/add_member.php:387
+#: admin/parking/assign-sloat.php:621 admin/parking/assign-sloat.php:656
+#: admin/parking/assign-sloat.php:686 admin/residential-unit/index.php:556
+#: admin/residential-unit/index.php:591 admin/residential-unit/index.php:621
+#: template/member/add_member.php:315 template/member/add_member.php:356
+#: template/member/add_member.php:394
+#: template/parking-manager/parking-manager.php:645
+#: template/parking-manager/parking-manager.php:680
+#: template/parking-manager/parking-manager.php:710
+msgid "Select Occupied By"
+msgstr "Selecione Ocupado por"
+
+#: translation_string.php:48
+msgid "Select Profile Picture"
+msgstr "Selecione a foto do perfil"
+
+#: admin/visitor-manage/visitor-checkin.php:183
+#: template/visitor-manage/visitor_checkin.php:124
+msgid "Select Reason"
+msgstr "Selecione o motivo"
+
+#: admin/parking/assign-sloat.php:172
+#: template/parking-manager/assign_sloat.php:143
+msgid "Select Slot"
+msgstr "Selecione Slot"
+
+#: admin/member/add_staff_member.php:136
+#: admin/staff-member/add_staff_member.php:98
+msgid "Select Staff Category"
+msgstr "Selecione a categoria da equipe"
+
+#: admin/visitor-manage/staff-checkin.php:108
+#: template/visitor-manage/staff_checkin.php:90
+msgid "Select Staff Member"
+msgstr "Selecione o membro da equipe"
+
+#: admin/notice-events/add_event.php:111
+#: template/notice-event/add_event.php:100
+msgid "Select Start Time"
+msgstr "Selecione a hora de início"
+
+#: admin/visitor-manage/visitor-checkin-list.php:99
+msgid "Select status"
+msgstr "Selecione o status"
+
+#: admin/accounts/add-charges-all-member.php:677
+#: admin/accounts/add-charges-all-member.php:713
+#: admin/accounts/add-charges-all-member.php:755
+#: admin/accounts/add-charges-all-member.php:896
+#: admin/accounts/add-charges-all-member.php:928
+msgid "Select Tax"
+msgstr "Selecione imposto"
+
+#: admin/assets-inventory/add-inventory.php:72
+#: template/assets-inventory-tracker/add_inventory.php:73
+msgid "Select Unit"
+msgstr "Selecione a unidade"
+
+#: admin/accounts/add-charges-all-member.php:220
+#: admin/accounts/add-charges-all-member.php:369
+#: admin/ducuments/add-document.php:170 admin/ducuments/add-document.php:432
+#: admin/ducuments/add-document.php:923 admin/member/add_member.php:159
+#: admin/member/add_member.php:870 admin/parking/assign-sloat.php:269
+#: admin/parking/assign-sloat.php:478 admin/parking/assign-sloat.php:1002
+#: admin/residential-unit/add_unit.php:120 admin/residential-unit/index.php:415
+#: admin/residential-unit/index.php:937
+#: admin/visitor-manage/visitor-checkin.php:241
+#: admin/visitor-manage/visitor-checkin.php:513
+#: template/documents/add_documents.php:106 template/member/add_member.php:170
+#: template/member/member.php:589 template/parking-manager/assign_sloat.php:238
+#: template/parking-manager/parking-manager.php:502
+#: template/parking-manager/parking-manager.php:1028
+#: template/resident_unit/add_unit.php:101
+#: template/visitor-manage/visitor_checkin.php:194
+msgid "Select Unit Category"
+msgstr "Selecione a categoria de unidade"
+
+#: admin/general-settings.php:402
+msgid "Select Unit Measurement"
+msgstr "Selecione Unidade de Medida"
+
+#: admin/accounts/add-charges-all-member.php:248
+#: admin/ducuments/add-document.php:197 admin/ducuments/add-document.php:453
+#: admin/member/add_member.php:186 admin/parking/assign-sloat.php:297
+#: admin/parking/assign-sloat.php:506 admin/residential-unit/index.php:443
+#: admin/visitor-manage/visitor-checkin.php:268
+#: template/documents/add_documents.php:134 template/member/add_member.php:198
+#: template/parking-manager/assign_sloat.php:266
+#: template/parking-manager/parking-manager.php:530
+#: template/visitor-manage/visitor_checkin.php:221
+msgid "Select Unit Name"
+msgstr "Selecione o nome da unidade"
+
+#: admin/message/view_message.php:225 template/message/view_message.php:265
+msgid "Select user to reply"
+msgstr "Selecione o usuário para responder"
+
+#: admin/message/view_message.php:158 template/message/view_message.php:196
+msgid "Select users to reply"
+msgstr "Selecione os usuários para responder"
+
+#: admin/message/view_message.php:259 template/message/view_message.php:299
+msgid "Send"
+msgstr "Mandar"
+
+#: admin/message/composemail.php:83 template/message/composemail.php:93
+msgid "Send Message"
+msgstr "Enviar mensagem"
+
+#: admin/notice-events/add_event.php:145 admin/notice-events/add_notice.php:130
+#: template/notice-event/add_event.php:147
+#: template/notice-event/add_notice.php:124
+msgid "Send SMS"
+msgstr "Enviar SMS"
+
+#: admin/message/index.php:75 template/message/message.php:110
+msgid "Sent"
+msgstr "Enviado"
+
+#: admin/message/index.php:58 template/message/message.php:91
+msgid "Sent Item"
+msgstr "Item enviado"
+
+#: admin/report/expense.php:4 admin/report/payment.php:4
+#: template/report/expense.php:4 template/report/payment.php:4
+msgid "September"
+msgstr "setembro"
+
+#: fronted_template.php:941 admin/dasboard.php:412
+msgid "Service"
+msgstr "Serviço"
+
+#: admin/service/index.php:69 template/services/services.php:111
+msgid "Service deleted successfully"
+msgstr "Serviço excluído com sucesso"
+
+#: admin/service/index.php:58 template/services/services.php:89
+msgid "Service inserted successfully"
+msgstr "Serviço inserido com sucesso"
+
+#: admin/service/index.php:83 template/services/services.php:132
+msgid "Service List"
+msgstr "Lista de Serviços"
+
+#: fronted_template.php:1007 admin/dasboard.php:423
+#: admin/service/add_service.php:52 admin/service/index.php:126
+#: admin/service/index.php:137 template/services/add_services.php:38
+#: template/services/services.php:188 template/services/services.php:205
+msgid "Service Name"
+msgstr "Nome do Serviço"
+
+#: fronted_template.php:1013 admin/dasboard.php:429 admin/service/index.php:127
+#: admin/service/index.php:138 template/services/services.php:189
+#: template/services/services.php:206
+msgid "Service Provider"
+msgstr "Provedor de serviço"
+
+#: admin/service/add_service.php:63 template/services/add_services.php:49
+msgid "Service Provider Name"
+msgstr "Nome do provedor de serviços"
+
+#: admin/service/index.php:64 template/services/services.php:100
+msgid "Service updated successfully."
+msgstr "Serviço atualizado com sucesso."
+
+#: amgt-function.php:44 admin/admin.php:38 admin/admin.php:38
+#: admin/access_right/Accountant.php:685 admin/access_right/Gatekeeper.php:684
+#: admin/access_right/Member.php:685 admin/access_right/Staff_Member.php:685
+msgid "Services"
+msgstr "Serviços"
+
+#: amgt-function.php:1459
+msgid "Show _MENU_ entries"
+msgstr "Mostrar entradas de _MENU_"
+
+#: amgt-function.php:1455
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Mostrando 0 a 0 de 0 entradas"
+
+#: amgt-function.php:1454
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Exibindo _START_ a _END_ de _TOTAL_ entradas"
+
+#: admin/general-settings.php:378
+msgid "Singapore Dollar"
+msgstr "Dólar de Singapura"
+
+#: admin/member/add_staff_member.php:178 admin/member/view_user.php:235
+#: admin/staff-member/add_staff_member.php:134
+#: template/member/view_member.php:269
+msgid "Skills"
+msgstr "Habilidades"
+
+#: admin/parking/assign-sloat.php:169
+#: template/parking-manager/assign_sloat.php:140
+msgid "Slot"
+msgstr "Slot"
+
+#: admin/parking/index.php:171
+msgid "Slot Assign inserted successfully"
+msgstr "Atribuição de slot inserida com sucesso"
+
+#: admin/parking/index.php:178
+msgid "Slot Assign updated successfully."
+msgstr "Atribuição de slot atualizada com sucesso."
+
+#: admin/parking/index.php:152
+msgid "Slot deleted successfully"
+msgstr "Slot excluído com sucesso"
+
+#: admin/parking/add-sloat.php:65 template/parking-manager/add_sloat.php:63
+msgid "Slot For"
+msgstr "Slot For"
+
+#: admin/parking/index.php:135
+msgid "Slot inserted successfully"
+msgstr "Slot inserido com sucesso"
+
+#: admin/parking/index.php:193 template/parking-manager/parking-manager.php:204
+msgid "Slot List"
+msgstr "Lista de Slot"
+
+#: admin/notification-templates/index.php:614 admin/parking/add-sloat.php:56
+#: template/parking-manager/add_sloat.php:54
+msgid "Slot Name"
+msgstr "Nome do Slot"
+
+#: admin/parking/assigned-sloat-list.php:34
+#: admin/parking/assigned-sloat-list.php:47 admin/parking/index.php:234
+#: admin/parking/index.php:242
+#: template/parking-manager/assigned-sloat-list.php:70
+#: template/parking-manager/assigned-sloat-list.php:85
+#: template/parking-manager/parking-manager.php:268
+#: template/parking-manager/parking-manager.php:278
+msgid "Slot No"
+msgstr "Não Slot"
+
+#: admin/parking/assigned-sloat-list.php:35
+#: admin/parking/assigned-sloat-list.php:48 admin/parking/index.php:235
+#: admin/parking/index.php:243
+#: template/parking-manager/assigned-sloat-list.php:71
+#: template/parking-manager/assigned-sloat-list.php:86
+#: template/parking-manager/parking-manager.php:269
+#: template/parking-manager/parking-manager.php:279
+msgid "Slot Type"
+msgstr "Tipo de Slot"
+
+#: admin/parking/index.php:142
+msgid "Slot updated successfully."
+msgstr "Slot atualizado com sucesso."
+
+#: admin/notice-events/add_event.php:160 admin/notice-events/add_notice.php:145
+#: template/notice-event/add_event.php:162
+#: template/notice-event/add_notice.php:139
+msgid "SMS Text"
+msgstr "Texto SMS"
+
+#: template/complaint/add_complain.php:166
+msgid "Society"
+msgstr "Sociedade"
+
+#: amgt-function.php:53 amgt-function.php:497 amgt-function.php:499
+msgid "Society Rules"
+msgstr "Regras da Sociedade"
+
+#: admin/member-corner/index.php:81 template/society_rules/society_rules.php:48
+msgid "Society Rules List"
+msgstr "Lista de Regras da Sociedade"
+
+#: admin/accountant/index.php:43
+msgid "Sorry, only JPG, JPEG, PNG & GIF files are allowed!"
+msgstr "Desculpe, apenas arquivos JPG, JPEG, PNG e GIF são permitidos!"
+
+#: admin/accountant/index.php:66 admin/gatekeeper/index.php:42
+#: admin/gatekeeper/index.php:62 admin/staff-member/index.php:42
+#: admin/staff-member/index.php:62 template/accountant/accountant.php:79
+#: template/accountant/accountant.php:106 template/gatekeeper/gatekeeper.php:80
+#: template/gatekeeper/gatekeeper.php:104 template/member/member.php:155
+#: template/member/member.php:225
+msgid "Sorry, only JPG, JPEG, PNG & GIF files are allowed!."
+msgstr "Desculpe, apenas arquivos JPG, JPEG, PNG e GIF são permitidos !."
+
+#: admin/complaint/add_complaint.php:67 admin/ducuments/add-document.php:9
+#: admin/member/add_member.php:15 admin/member/index.php:119
+#: admin/member/index.php:181 admin/member/index.php:393
+#: admin/member/index.php:415 admin/member/index.php:461
+#: admin/member/index.php:481 admin/member/index.php:527
+#: admin/member/index.php:547 admin/notice-events/add_event.php:58
+#: admin/notice-events/add_notice.php:46 admin/parking/assign-sloat.php:9
+#: template/complaint/add_complain.php:73
+#: template/gatekeeper/gatekeeper.php:428 template/member/add_member.php:23
+#: template/notice-event/notice-event.php:8
+#: template/parking-manager/parking-manager.php:408
+msgid "Sorry, only JPG, JPEG, PNG & GIF files are allowed."
+msgstr "Desculpe, apenas arquivos JPG, JPEG, PNG e GIF são permitidos."
+
+#: template/documents/documents.php:8
+msgid "Sorry, only JPG, JPEG, PNG, GIF and PDF files are allowed."
+msgstr "Desculpe, apenas arquivos JPG, JPEG, PNG, GIF e PDF são permitidos."
+
+#: translation_string.php:90
+msgid "Sorry, that username already exists!"
+msgstr "Desculpe, esse nome de usuário já existe!"
+
+#: translation_string.php:91
+msgid "Sorry, the username you entered is not valid"
+msgstr "Desculpe, o nome de usuário que você digitou não é válido"
+
+#: admin/report/complaint.php:29 template/report/complaint.php:9
+msgid "Source"
+msgstr "Fonte"
+
+#: amgt-function.php:949 admin/general-settings.php:406
+#: admin/accounts/add-charges-all-member.php:541
+msgid "Square Feet"
+msgstr "Pés quadrados"
+
+#: amgt-function.php:950 admin/general-settings.php:409
+#: admin/accounts/add-charges-all-member.php:537
+msgid "Square Meter"
+msgstr "Metro quadrado"
+
+#: admin/ducuments/add-document.php:954 admin/member/add_member.php:903
+#: admin/parking/assign-sloat.php:1034 admin/residential-unit/add_unit.php:181
+#: admin/residential-unit/add_unit.php:213 admin/residential-unit/index.php:971
+#: admin/visitor-manage/visitor-checkin.php:543 template/member/member.php:620
+#: template/parking-manager/parking-manager.php:1059
+#: template/resident_unit/add_unit.php:158
+#: template/resident_unit/add_unit.php:186
+msgid "square meter"
+msgstr "metro quadrado"
+
+#: amgt-function.php:951 admin/general-settings.php:412
+#: admin/accounts/add-charges-all-member.php:545
+msgid "Square Yards"
+msgstr "Jardas Quadradas"
+
+#: admin/member/add_staff_member.php:133 admin/member/view_user.php:224
+#: admin/staff-member/add_staff_member.php:95
+#: template/member/view_member.php:257
+msgid "Staff Category"
+msgstr "Categoria de equipe"
+
+#: translation_string.php:11
+msgid "Staff Category Name"
+msgstr "Nome da categoria da equipe"
+
+#: admin/visitor-manage/index.php:326
+#: template/visitor-manage/visitor-manage.php:367
+msgid "Staff Checkin"
+msgstr "Check-in da equipe"
+
+#: admin/visitor-manage/index.php:316
+#: template/visitor-manage/visitor-manage.php:349
+msgid "Staff Checkin List"
+msgstr "Lista de check-in da equipe"
+
+#: admin/access_right/Accountant.php:415 admin/access_right/Gatekeeper.php:415
+#: admin/access_right/Member.php:415 admin/access_right/Staff_Member.php:415
+msgid "Staff Management"
+msgstr "Gerenciamento de equipe"
+
+#: amgt-function.php:38 amgt-function.php:79 amgt-function.php:99
+#: admin/access_right/index.php:44 admin/visitor-manage/staff-checkin.php:105
+#: template/visitor-manage/staff_checkin.php:87
+msgid "Staff Member"
+msgstr "Membro da equipe"
+
+#: translation_string.php:51
+msgid "Staff member"
+msgstr "Membro da equipe"
+
+#: admin/access_right/Staff_Member.php:216
+msgid "Staff Member Access Right"
+msgstr "Direito de acesso de membro da equipe"
+
+#: admin/member/index.php:285
+msgid "Staff Member deleted successfully"
+msgstr "Membro da equipe excluído com sucesso"
+
+#: admin/member/index.php:333
+msgid "Staff Member inserted successfully."
+msgstr "Membro da equipe inserido com sucesso."
+
+#: admin/member/index.php:573 admin/staff-member/index.php:125
+#: template/staff-members/staff-members.php:47
+msgid "Staff Member List"
+msgstr "Lista de membros da equipe"
+
+#: admin/member/index.php:325
+msgid "Staff Member updated successfully."
+msgstr "Membro da equipe atualizado com sucesso."
+
+#: admin/visitor-manage/index.php:268
+#: template/visitor-manage/visitor-manage.php:292
+msgid "Staff Request inserted successfully"
+msgstr "Solicitação de equipe inserida com sucesso"
+
+#: admin/visitor-manage/index.php:275
+#: template/visitor-manage/visitor-manage.php:304
+msgid "Staff Request Updated successfully"
+msgstr "Solicitação de equipe atualizada com sucesso"
+
+#: admin/staff-member/index.php:170 admin/staff-member/index.php:181
+#: template/staff-members/staff-members.php:81
+#: template/staff-members/staff-members.php:91
+msgid "Staff Role"
+msgstr "Função da equipe"
+
+#: fronted_template.php:59 admin/accounts/add-charges-all-member.php:122
+#: admin/facility/booking-facility.php:145
+#: admin/facility/facility-booking-list.php:34
+#: admin/facility/facility-booking-list.php:49
+#: admin/notice-events/add_event.php:104 admin/notice-events/event_list.php:27
+#: admin/notice-events/event_list.php:37
+#: admin/notification-templates/index.php:615
+#: admin/report/download_expense_report.php:29
+#: admin/report/download_income_expense_report.php:29
+#: admin/visitor-manage/visitor-checkin-list.php:84
+#: template/facility/booking-facility.php:144
+#: template/facility/facility-booking-list.php:34
+#: template/facility/facility-booking-list.php:50
+#: template/notice-event/add_event.php:93
+#: template/notice-event/event_list.php:66
+#: template/notice-event/event_list.php:76
+msgid "Start Date"
+msgstr "Data de início"
+
+#: admin/dasboard.php:27
+msgid "Start Date:"
+msgstr "Data de início:"
+
+#: fronted_template.php:61 admin/facility/booking-facility.php:181
+#: admin/facility/facility-booking-list.php:36
+#: admin/facility/facility-booking-list.php:51
+#: admin/notice-events/add_event.php:109 admin/notice-events/event_list.php:29
+#: admin/notice-events/event_list.php:39
+#: template/facility/booking-facility.php:179
+#: template/facility/facility-booking-list.php:36
+#: template/facility/facility-booking-list.php:52
+#: template/notice-event/add_event.php:98
+#: template/notice-event/event_list.php:67
+#: template/notice-event/event_list.php:77
+msgid "Start Time"
+msgstr "Hora de início"
+
+#: admin/dasboard.php:29
+msgid "Start Time:"
+msgstr "Horário de início:"
+
+#: admin/general-settings.php:131
+msgid "Starting Year"
+msgstr "Ano de início"
+
+#: admin/general-settings.php:157 admin/accountant/add_accountant.php:171
+#: admin/ducuments/add-document.php:694 admin/gatekeeper/add_gatekeeper.php:159
+#: admin/member/add_accountant.php:183 admin/member/add_gatekeeper.php:208
+#: admin/member/add_member.php:491 admin/member/add_staff_member.php:226
+#: admin/member/view_user.php:297 admin/parking/assign-sloat.php:768
+#: admin/residential-unit/index.php:704
+#: admin/staff-member/add_staff_member.php:171
+#: template/accountant/add_accountant.php:171
+#: template/gatekeeper/gatekeeper.php:588 template/member/add_member.php:485
+#: template/member/view_member.php:344
+#: template/parking-manager/parking-manager.php:793
+msgid "State"
+msgstr "Estado"
+
+#: admin/complaint/add_complaint.php:239 admin/complaint/add_complaint.php:287
+#: admin/complaint/index.php:158 admin/complaint/index.php:171
+#: admin/facility/facility-booking-list.php:40
+#: admin/facility/facility-booking-list.php:55 admin/facility/index.php:435
+#: admin/facility/index.php:445 admin/member-corner/index.php:123
+#: admin/member-corner/index.php:132 admin/notice-events/index.php:317
+#: admin/notice-events/index.php:327 admin/parking/assigned-sloat-list.php:41
+#: admin/parking/assigned-sloat-list.php:54
+#: admin/visitor-manage/visitor-checkin-list.php:96
+#: admin/visitor-manage/visitor-checkin-list.php:136
+#: admin/visitor-manage/visitor-checkin-list.php:148
+#: template/complaint/add_complain.php:263
+#: template/complaint/add_complain.php:305 template/complaint/complaint.php:191
+#: template/complaint/complaint.php:204
+#: template/facility/facility-booking-list.php:40
+#: template/facility/facility-booking-list.php:56
+#: template/facility/facility.php:379 template/facility/facility.php:393
+#: template/member/member.php:355 template/member/member.php:367
+#: template/notice-event/notice-event.php:360
+#: template/notice-event/notice-event.php:370
+#: template/parking-manager/assigned-sloat-list.php:77
+#: template/parking-manager/assigned-sloat-list.php:92
+#: template/visitor-manage/visitor-manage.php:408
+#: template/visitor-manage/visitor-manage.php:421
+msgid "Status"
+msgstr "Status"
+
+#: translation_string.php:34
+msgid "Status:"
+msgstr "Status:"
+
+#: admin/message/composemail.php:64 admin/message/inbox.php:35
+#: admin/message/sendbox.php:34 admin/message/view_message.php:67
+#: template/message/composemail.php:74 template/message/inbox.php:35
+#: template/message/sendbox.php:38 template/message/view_message.php:74
+msgid "Subject"
+msgstr "Sujeito"
+
+#: admin/complaint/add_complaint.php:390 admin/member-corner/add_rule.php:40
+#: admin/notice-events/add_event.php:178 admin/notice-events/add_event.php:178
+#: admin/notice-events/add_notice.php:155
+#: admin/notice-events/add_notice.php:155 admin/setupform/index.php:75
+#: admin/visitor-manage/index.php:444 template/complaint/add_complain.php:408
+#: template/complaint/add_complain.php:408
+#: template/notice-event/add_event.php:174
+#: template/notice-event/add_event.php:174
+#: template/notice-event/add_notice.php:149
+#: template/notice-event/add_notice.php:149
+msgid "Submit"
+msgstr "Enviar"
+
+#: admin/ducuments/index.php:175 admin/ducuments/index.php:186
+#: template/documents/documents.php:227 template/documents/documents.php:237
+msgid "Submitted By"
+msgstr "Enviado por"
+
+#: admin/ducuments/index.php:176 admin/ducuments/index.php:187
+#: template/documents/documents.php:228 template/documents/documents.php:238
+msgid "Submitted Date"
+msgstr "Data de Envio"
+
+#: translation_string.php:17
+msgid "Subtotal :"
+msgstr "Subtotal:"
+
+#: admin/complaint/add_complaint.php:133 admin/complaint/index.php:194
+#: template/complaint/add_complain.php:134 template/complaint/complaint.php:284
+msgid "Suggestion"
+msgstr "Sugestão"
+
+#: admin/general-settings.php:380
+msgid "Swedish Krona"
+msgstr "Coroa sueca"
+
+#: admin/general-settings.php:513
+msgid "Swift Code"
+msgstr "Código Swift"
+
+#: admin/general-settings.php:382
+msgid "Swiss Franc"
+msgstr "Franco suíço"
+
+#: admin/general-settings.php:384
+msgid "Taiwan New Dollar"
+msgstr "Novo dólar taiwanês"
+
+#: admin/admin.php:42 admin/accounts/add-charges-all-member.php:674
+#: admin/accounts/add-charges-all-member.php:693
+#: admin/accounts/add-charges-all-member.php:710
+#: admin/accounts/add-charges-all-member.php:729
+#: admin/accounts/add-charges-all-member.php:752
+#: admin/accounts/add-charges-all-member.php:771
+#: admin/accounts/add-charges-all-member.php:893
+#: admin/accounts/add-charges-all-member.php:908
+#: admin/accounts/add-charges-all-member.php:925
+#: admin/accounts/add-charges-all-member.php:940 admin/tax/add_tax.php:38
+msgid "Tax"
+msgstr "Imposto"
+
+#: admin/accounts/add-charges-all-member.php:802
+#: admin/accounts/add-charges-all-member.php:829
+#: admin/accounts/recuring_charg_list.php:43
+#: admin/accounts/recuring_charg_list.php:56
+msgid "Tax Amount"
+msgstr "Valor do imposto"
+
+#: translation_string.php:20
+msgid "Tax Amount :"
+msgstr "Valor do imposto:"
+
+#: admin/tax/index.php:65
+msgid "Tax deleted successfully"
+msgstr "Imposto excluído com sucesso"
+
+#: admin/general-settings.php:452
+msgid "TAX ID"
+msgstr "CPF"
+
+#: admin/tax/index.php:52
+msgid "Tax inserted successfully"
+msgstr "Imposto inserido com sucesso"
+
+#: admin/tax/index.php:80
+msgid "Tax List"
+msgstr "Lista de Impostos"
+
+#: admin/tax/add_tax.php:27
+msgid "Tax Name"
+msgstr "Nome Fiscal"
+
+#: class/tax.php:84 admin/tax/index.php:120 admin/tax/index.php:127
+msgid "Tax Title"
+msgstr "Título Fiscal"
+
+#: admin/tax/index.php:59
+msgid "Tax updated successfully."
+msgstr "Imposto atualizado com sucesso."
+
+#: admin/tax/index.php:121 admin/tax/index.php:128
+msgid "Tax(%)"
+msgstr "Imposto (%)"
+
+#: amgt-function.php:116 admin/ducuments/add-document.php:525
+#: admin/ducuments/add-document.php:554 admin/ducuments/add-document.php:584
+#: admin/ducuments/add-document.php:620 admin/member/add_member.php:280
+#: admin/parking/assign-sloat.php:600 admin/parking/assign-sloat.php:630
+#: admin/parking/assign-sloat.php:659 admin/parking/assign-sloat.php:695
+#: admin/residential-unit/index.php:536 admin/residential-unit/index.php:565
+#: admin/residential-unit/index.php:594 admin/residential-unit/index.php:630
+#: template/member/add_member.php:293
+#: template/parking-manager/parking-manager.php:625
+#: template/parking-manager/parking-manager.php:654
+#: template/parking-manager/parking-manager.php:683
+#: template/parking-manager/parking-manager.php:719
+msgid "Tenant"
+msgstr "Inquilino"
+
+#: amgt-function.php:120 admin/ducuments/add-document.php:527
+#: admin/member/add_member.php:282 admin/parking/assign-sloat.php:602
+#: admin/residential-unit/index.php:538 template/member/add_member.php:295
+#: template/parking-manager/parking-manager.php:627
+msgid "Tenant Family"
+msgstr "Família Inquilino"
+
+#: admin/general-settings.php:386
+msgid "Thai Baht"
+msgstr "Baht tailandês"
+
+#: admin/accounts/add-charges-all-member.php:142
+msgid ""
+"The recurring invoices generated every one month until the end date of the "
+"charge."
+msgstr ""
+"As faturas recorrentes geradas a cada um mês até a data de término da "
+"cobrança."
+
+#: admin/setupform/index.php:33
+msgid ""
+"There seems to be some problem please try after sometime or contact us on "
+"sales@dasinfomeida.com"
+msgstr ""
+"Parece haver algum problema, por favor tente mais tarde ou contacte-nos em "
+"sales@dasinfomeida.com"
+
+#: template/parking-manager/parking-manager.php:184
+msgid "This Parking Slot Allready Assigned"
+msgstr "Esta vaga de estacionamento já foi atribuída"
+
+#: admin/parking/index.php:161
+msgid "This Parking Slot Already Assigned"
+msgstr "Esta vaga de estacionamento já foi atribuída"
+
+#: admin/complaint/add_complaint.php:328 admin/complaint/index.php:157
+#: admin/complaint/index.php:170 template/complaint/add_complain.php:345
+#: template/complaint/complaint.php:190 template/complaint/complaint.php:203
+msgid "Time"
+msgstr "Tempo"
+
+#: admin/complaint/add_complaint.php:148 admin/complaint/index.php:154
+#: admin/complaint/index.php:167 admin/ducuments/add-document.php:265
+#: admin/ducuments/add-document.php:288 admin/ducuments/index.php:173
+#: admin/ducuments/index.php:184 admin/member/add_member.php:685
+#: admin/member/add_member.php:717 admin/member/add_member.php:767
+#: admin/member-corner/add_rule.php:27 template/complaint/add_complain.php:150
+#: template/complaint/complaint.php:187 template/complaint/complaint.php:200
+#: template/documents/add_documents.php:233
+#: template/documents/documents.php:225 template/documents/documents.php:235
+#: template/member/add_member.php:675 template/member/add_member.php:707
+#: template/member/add_member.php:757
+msgid "Title"
+msgstr "Título"
+
+#: translation_string.php:85
+msgid "To"
+msgstr "Para"
+
+#: translation_string.php:28
+msgid "To ("
+msgstr "Para ("
+
+#: admin/message/view_message.php:81
+msgid "To :"
+msgstr "Para :"
+
+#: admin/accounts/index.php:981 admin/accounts/index.php:999
+#: admin/parking/assign-sloat.php:377 admin/parking/assigned-sloat-list.php:40
+#: admin/parking/assigned-sloat-list.php:53
+#: template/parking-manager/assigned-sloat-list.php:76
+#: template/parking-manager/assigned-sloat-list.php:91
+#: template/parking-manager/assign_sloat.php:339
+msgid "To Date"
+msgstr "Até a presente data"
+
+#: translation_string.php:55 admin/message/view_message.php:75
+#: admin/message/view_message.php:77 template/message/view_message.php:87
+#: template/message/view_message.php:91 template/message/view_message.php:96
+#: template/message/view_message.php:102
+msgid "To: "
+msgstr "Para:"
+
+#: fronted_template.php:1165 admin/dasboard.php:509
+#: admin/accounts/add-charges-all-member.php:812
+#: admin/accounts/add-charges-all-member.php:839 admin/accounts/index.php:976
+#: admin/accounts/index.php:994
+msgid "Total Amount"
+msgstr "Valor total"
+
+#: admin/accounts/recuring_charg_list.php:44
+#: admin/accounts/recuring_charg_list.php:57
+msgid "Total Amount "
+msgstr "Valor total"
+
+#: admin/facility/facility-booking-list.php:39
+#: admin/facility/facility-booking-list.php:54
+#: template/facility/facility-booking-list.php:39
+#: template/facility/facility-booking-list.php:55
+msgid "Total Charge"
+msgstr "Carga total"
+
+#: admin/facility/booking-facility.php:203
+#: template/facility/booking-facility.php:200
+msgid "Total Cost"
+msgstr "Custo total"
+
+#: translation_string.php:15
+msgid "Total Paid Amount :"
+msgstr "Valor total pago:"
+
+#: admin/general-settings.php:388
+msgid "Turkish Lira"
+msgstr "Lira Turca"
+
+#: admin/parking/assign-sloat.php:225
+#: template/parking-manager/assign_sloat.php:196
+msgid "Two Wheeler"
+msgstr "Duas rodas"
+
+#: admin/complaint/add_complaint.php:157
+#: template/complaint/add_complain.php:159
+msgid "Type"
+msgstr "Modelo"
+
+#: translation_string.php:31
+msgid "Type:"
+msgstr "Modelo:"
+
+#: translation_string.php:77
+msgid "Types Name"
+msgstr "Nome dos Tipos"
+
+#: admin/general-settings.php:390
+msgid "U.S. Dollar"
+msgstr "Dólar americano"
+
+#: admin/parking/assigned-sloat-list.php:85
+#: template/parking-manager/assigned-sloat-list.php:168
+msgid "Unallocated"
+msgstr "Não alocado"
+
+#: admin/accounts/add-charges-all-member.php:245
+#: admin/assets-inventory/add-inventory.php:69
+#: admin/assets-inventory/inventory-list.php:27
+#: admin/assets-inventory/inventory-list.php:35
+#: admin/ducuments/add-document.php:194 admin/ducuments/add-document.php:450
+#: admin/member/add_member.php:183 admin/parking/assign-sloat.php:294
+#: admin/parking/assign-sloat.php:503 admin/residential-unit/index.php:440
+#: admin/visitor-manage/visitor-checkin.php:265
+#: template/assets-inventory-tracker/add_inventory.php:70
+#: template/assets-inventory-tracker/inventory_list.php:28
+#: template/assets-inventory-tracker/inventory_list.php:38
+#: template/documents/add_documents.php:131 template/member/add_member.php:195
+#: template/parking-manager/assign_sloat.php:263
+#: template/parking-manager/parking-manager.php:527
+#: template/visitor-manage/visitor_checkin.php:218
+msgid "Unit"
+msgstr "Unidade"
+
+#: admin/report/index.php:21 template/report/report.php:17
+msgid "Unit By Building"
+msgstr "Unidade por edifício"
+
+#: fronted_template.php:862 admin/dasboard.php:362
+#: admin/accounts/add-charges-all-member.php:217
+#: admin/accounts/add-charges-all-member.php:366
+#: admin/ducuments/add-document.php:167 admin/ducuments/add-document.php:429
+#: admin/ducuments/add-document.php:920 admin/member/add_member.php:156
+#: admin/member/add_member.php:867 admin/parking/assign-sloat.php:266
+#: admin/parking/assign-sloat.php:475 admin/parking/assign-sloat.php:999
+#: admin/residential-unit/add_unit.php:103 admin/residential-unit/index.php:246
+#: admin/residential-unit/index.php:254 admin/residential-unit/index.php:412
+#: admin/residential-unit/index.php:934
+#: admin/visitor-manage/visitor-checkin.php:238
+#: admin/visitor-manage/visitor-checkin.php:510
+#: template/documents/add_documents.php:103 template/member/add_member.php:167
+#: template/member/member.php:586 template/parking-manager/assign_sloat.php:235
+#: template/parking-manager/parking-manager.php:499
+#: template/parking-manager/parking-manager.php:1025
+#: template/resident_unit/add_unit.php:84
+#: template/resident_unit/resident_unit.php:189
+#: template/resident_unit/resident_unit.php:197
+#: template/visitor-manage/visitor_checkin.php:191
+msgid "Unit Category"
+msgstr "Categoria de Unidade"
+
+#: admin/accounts/add-charges-all-member.php:171
+msgid "Unit Category Member"
+msgstr "Membro da categoria de unidade"
+
+#: translation_string.php:7
+msgid "Unit Category Name"
+msgstr "Nome da categoria de unidade"
+
+#: translation_string.php:37
+msgid "UNIT CATEGORY: "
+msgstr "CATEGORIA DE UNIDADE:"
+
+#: translation_string.php:45
+msgid "Unit Documents"
+msgstr "Documentos da Unidade"
+
+#: admin/member/view_user.php:347 template/member/view_member.php:401
+msgid "Unit Member List"
+msgstr "Lista de Membros da Unidade"
+
+#: translation_string.php:1
+msgid "Unit Members"
+msgstr "Membros da Unidade"
+
+#: fronted_template.php:861 admin/dasboard.php:361 admin/accounts/index.php:973
+#: admin/accounts/index.php:991 admin/committee-member/index.php:58
+#: admin/committee-member/index.php:70 admin/ducuments/add-document.php:948
+#: admin/ducuments/add-document.php:950 admin/member/add_member.php:895
+#: admin/member/add_member.php:897 admin/member/member_list.php:94
+#: admin/member/member_list.php:106 admin/member/view_user.php:204
+#: admin/notification-templates/index.php:162
+#: admin/parking/assign-sloat.php:1028 admin/parking/assign-sloat.php:1030
+#: admin/residential-unit/add_unit.php:171
+#: admin/residential-unit/add_unit.php:174
+#: admin/residential-unit/add_unit.php:206
+#: admin/residential-unit/add_unit.php:209 admin/residential-unit/index.php:244
+#: admin/residential-unit/index.php:252 admin/residential-unit/index.php:962
+#: admin/residential-unit/index.php:964
+#: admin/visitor-manage/visitor-checkin.php:537
+#: admin/visitor-manage/visitor-checkin.php:539
+#: template/committee-member/committee-member.php:87
+#: template/committee-member/committee-member.php:103
+#: template/member/member.php:357 template/member/member.php:369
+#: template/member/member.php:614 template/member/member.php:616
+#: template/member/view_member.php:232
+#: template/parking-manager/parking-manager.php:1052
+#: template/parking-manager/parking-manager.php:1055
+#: template/resident_unit/add_unit.php:151
+#: template/resident_unit/add_unit.php:154
+#: template/resident_unit/add_unit.php:179
+#: template/resident_unit/add_unit.php:182
+#: template/resident_unit/resident_unit.php:187
+#: template/resident_unit/resident_unit.php:195
+msgid "Unit Name"
+msgstr "Nome da Unidade"
+
+#: admin/ducuments/index.php:174 admin/ducuments/index.php:185
+#: template/documents/documents.php:226 template/documents/documents.php:236
+msgid "Unit name"
+msgstr "Nome da unidade"
+
+#: translation_string.php:38
+msgid "UNIT NUMBER: "
+msgstr "NÚMERO DE UNIDADE:"
+
+#: admin/ducuments/add-document.php:953 admin/ducuments/add-document.php:962
+#: admin/member/add_member.php:900 admin/member/add_member.php:912
+#: admin/parking/assign-sloat.php:1033 admin/parking/assign-sloat.php:1042
+#: admin/residential-unit/add_unit.php:178
+#: admin/residential-unit/add_unit.php:190
+#: admin/residential-unit/add_unit.php:212
+#: admin/residential-unit/add_unit.php:221 admin/residential-unit/index.php:967
+#: admin/residential-unit/index.php:979
+#: admin/visitor-manage/visitor-checkin.php:542
+#: admin/visitor-manage/visitor-checkin.php:551 template/member/member.php:619
+#: template/member/member.php:628
+#: template/parking-manager/parking-manager.php:1058
+#: template/parking-manager/parking-manager.php:1067
+#: template/resident_unit/add_unit.php:157
+#: template/resident_unit/add_unit.php:165
+#: template/resident_unit/add_unit.php:185
+#: template/resident_unit/add_unit.php:193
+msgid "Unit Size"
+msgstr "O tamanho da unidade"
+
+#: admin/general-settings.php:338
+msgid "United Arab Emirates dirham"
+msgstr "Dirham dos Emirados Árabes Unidos"
+
+#: fronted_template.php:1293 fronted_template.php:1310 admin/dasboard.php:584
+#: admin/dasboard.php:601 admin/accounts/index.php:1102
+#: admin/accounts/index.php:1119
+msgid "Unpaid"
+msgstr "Não pago"
+
+#: amgt-function.php:542
+msgid "Update FAQ"
+msgstr "FAQ de atualização"
+
+#: amgt-function.php:579
+msgid "Update Photo Gallery"
+msgstr "Atualizar galeria de fotos"
+
+#: template/profile/profile.php:149
+msgid "Update Profile"
+msgstr "Atualizar perfil"
+
+#: amgt-function.php:504
+msgid "Update Rules"
+msgstr "Regras de atualização"
+
+#: admin/general-settings.php:223 admin/general-settings.php:224
+msgid "Upload Cover Image"
+msgstr "Carregar imagem da capa"
+
+#: admin/ducuments/add-document.php:263 admin/ducuments/add-document.php:286
+#: admin/member/add_member.php:680 admin/member/add_member.php:713
+#: admin/member/add_member.php:763 template/documents/add_documents.php:211
+#: template/documents/add_documents.php:231 template/member/add_member.php:670
+#: template/member/add_member.php:703 template/member/add_member.php:753
+msgid "Upload Document"
+msgstr "Carregar Documento"
+
+#: admin/general-settings.php:209 admin/accountant/add_accountant.php:220
+#: admin/accountant/add_accountant.php:221 admin/ducuments/add-document.php:763
+#: admin/ducuments/add-document.php:764 admin/gatekeeper/add_gatekeeper.php:198
+#: admin/gatekeeper/add_gatekeeper.php:199 admin/member/add_accountant.php:233
+#: admin/member/add_accountant.php:234 admin/member/add_gatekeeper.php:257
+#: admin/member/add_gatekeeper.php:258 admin/member/add_member.php:565
+#: admin/member/add_member.php:566 admin/member/add_staff_member.php:275
+#: admin/member/add_staff_member.php:276 admin/parking/assign-sloat.php:838
+#: admin/parking/assign-sloat.php:839 admin/residential-unit/index.php:774
+#: admin/residential-unit/index.php:775
+#: admin/staff-member/add_staff_member.php:210
+#: admin/staff-member/add_staff_member.php:211
+msgid "Upload image"
+msgstr "Enviar Imagem"
+
+#: admin/general-settings.php:210
+msgid "Upload image."
+msgstr "Enviar Imagem."
+
+#: admin/general-settings.php:295
+msgid "Use Paymaster Payment Gateways"
+msgstr "Use os gateways de pagamento Paymaster"
+
+#: admin/accountant/add_accountant.php:195 admin/ducuments/add-document.php:740
+#: admin/gatekeeper/add_gatekeeper.php:178 admin/member/add_accountant.php:208
+#: admin/member/add_gatekeeper.php:232 admin/member/add_member.php:539
+#: admin/member/add_staff_member.php:251 admin/member/view_user.php:161
+#: admin/parking/assign-sloat.php:814 admin/residential-unit/index.php:750
+#: admin/staff-member/add_staff_member.php:190
+#: template/accountant/add_accountant.php:195
+#: template/gatekeeper/gatekeeper.php:611 template/member/add_member.php:533
+#: template/member/view_member.php:181
+#: template/parking-manager/parking-manager.php:841
+msgid "User Name"
+msgstr "Nome de usuário"
+
+#: admin/notification-templates/index.php:349
+msgid "User Role"
+msgstr "Papel do usuário"
+
+#: amgt-function.php:361 admin/notification-templates/index.php:350
+#: template/profile/profile.php:279
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: admin/accountant/index.php:73 admin/gatekeeper/index.php:69
+#: admin/member/index.php:187 admin/member/index.php:422
+#: admin/member/index.php:488 admin/member/index.php:554
+#: admin/staff-member/index.php:69 template/accountant/accountant.php:117
+#: template/gatekeeper/gatekeeper.php:115 template/member/member.php:234
+msgid "Username Or Emailid Already Exist."
+msgstr "Nome de usuário ou emailid já existe."
+
+#: translation_string.php:89
+msgid "Username too short. At least 4 characters is required"
+msgstr "Nome de usuário muito curto. São necessários pelo menos 4 caracteres"
+
+#: admin/notice-events/index.php:315 admin/notice-events/index.php:325
+#: template/notice-event/notice-event.php:358
+#: template/notice-event/notice-event.php:368
+msgid "Valid Date"
+msgstr "Data válida"
+
+#: translation_string.php:58
+msgid "Valid Date:"
+msgstr "Data válida:"
+
+#: admin/notification-templates/index.php:618
+#: admin/parking/assign-sloat.php:205
+#: template/parking-manager/assign_sloat.php:176
+msgid "Vehicle Model"
+msgstr "Modelo do veículo"
+
+#: admin/notification-templates/index.php:617
+#: admin/parking/assign-sloat.php:197 admin/parking/assigned-sloat-list.php:38
+#: admin/parking/assigned-sloat-list.php:51
+#: admin/visitor-manage/visitor-checkin.php:84
+#: admin/visitor-manage/visitor-checkin.php:342
+#: admin/visitor-manage/visitor-checkin.php:390
+#: admin/visitor-manage/visitor-checkin.php:427
+#: template/parking-manager/assigned-sloat-list.php:74
+#: template/parking-manager/assigned-sloat-list.php:89
+#: template/parking-manager/assign_sloat.php:168
+#: template/visitor-manage/visitor_checkin.php:46
+#: template/visitor-manage/visitor_checkin.php:299
+#: template/visitor-manage/visitor_checkin.php:347
+#: template/visitor-manage/visitor_checkin.php:384
+msgid "Vehicle Number"
+msgstr "Número do veículo"
+
+#: admin/notification-templates/index.php:619
+#: admin/parking/assign-sloat.php:221
+#: template/parking-manager/assign_sloat.php:192
+msgid "Vehicle Type"
+msgstr "Tipo de Veículo"
+
+#: admin/accounts/add-expense.php:116 admin/accounts/expense-list.php:26
+#: admin/accounts/expense-list.php:35 admin/assets-inventory/add-assets.php:86
+#: admin/report/download_expense_report.php:77
+#: admin/report/download_expense_report.php:86
+#: template/assets-inventory-tracker/add_asset.php:92
+msgid "Vendor Name"
+msgstr "Nome do vendedor"
+
+#: admin/access_right/Accountant.php:223 admin/access_right/Gatekeeper.php:223
+#: admin/access_right/Member.php:223 admin/access_right/Staff_Member.php:223
+#: admin/complaint/index.php:263 admin/member/accountant_list.php:113
+#: admin/member/gatekeeper_list.php:123 admin/member/member_list.php:153
+#: admin/member/staff_list.php:113 admin/notice-events/event_list.php:65
+#: admin/notice-events/index.php:364 template/complaint/complaint.php:348
+#: template/member/member.php:493 template/notice-event/event_list.php:150
+#: template/notice-event/notice-event.php:454
+msgid "View"
+msgstr "Visualizar"
+
+#: admin/committee-member/index.php:106
+#: template/committee-member/committee-member.php:142
+msgid "View Details"
+msgstr "Ver detalhes"
+
+#: admin/complaint/add_complaint.php:357 admin/complaint/index.php:269
+#: admin/ducuments/add-document.php:269 admin/ducuments/index.php:218
+#: admin/member/view_user.php:433 admin/member/view_user.php:477
+#: admin/member/view_user.php:495 admin/member/view_user.php:524
+#: admin/notice-events/event_list.php:72 admin/notice-events/index.php:370
+#: template/complaint/add_complain.php:374 template/complaint/complaint.php:364
+#: template/documents/add_documents.php:217
+#: template/documents/documents.php:328 template/member/view_member.php:489
+#: template/member/view_member.php:533 template/member/view_member.php:551
+#: template/member/view_member.php:580 template/notice-event/event_list.php:166
+#: template/notice-event/notice-event.php:472
+#: template/resident_unit/resident_unit.php:299
+#: template/resident_unit/resident_unit.php:307
+#: template/resident_unit/resident_unit.php:348
+#: template/resident_unit/resident_unit.php:356
+#: template/resident_unit/resident_unit.php:397
+#: template/resident_unit/resident_unit.php:405
+msgid "View Document"
+msgstr "Ver Documento"
+
+#: amgt-function.php:538
+msgid "View FAQ"
+msgstr "Ver FAQ"
+
+#: admin/accounts/expense-list.php:54 admin/accounts/index.php:1177
+msgid "View Invoice"
+msgstr "Ver fatura"
+
+#: admin/residential-unit/index.php:293 template/member/member.php:320
+#: template/resident_unit/resident_unit.php:290
+#: template/resident_unit/resident_unit.php:338
+#: template/resident_unit/resident_unit.php:387
+msgid "View Member"
+msgstr "Ver Membro"
+
+#: admin/residential-unit/index.php:301
+#: template/resident_unit/resident_unit.php:292
+#: template/resident_unit/resident_unit.php:340
+#: template/resident_unit/resident_unit.php:389
+msgid "View Member History"
+msgstr "Ver Histórico de Membros"
+
+#: template/message/message.php:95
+msgid "View Message"
+msgstr "Ver Mensagem"
+
+#: amgt-function.php:575
+msgid "View Photo Gallery"
+msgstr "Ver galeria de fotos"
+
+#: amgt-function.php:500
+msgid "View Rules"
+msgstr "Ver regras"
+
+#: admin/member/index.php:580
+msgid "View User"
+msgstr "Ver usuário"
+
+#: admin/ducuments/index.php:177 admin/ducuments/index.php:188
+msgid "Visible For"
+msgstr "Visível para"
+
+#: admin/notification-templates/index.php:1016
+#: admin/visitor-manage/visitor-checkin.php:292
+msgid "Visit Date"
+msgstr "Data da Visita"
+
+#: translation_string.php:40
+msgid "VISIT DATE: "
+msgstr "DATA DE VISITA:"
+
+#: admin/notification-templates/index.php:1015
+#: admin/visitor-manage/visitor-checkin.php:297
+msgid "Visit Time"
+msgstr "Hora da visita"
+
+#: translation_string.php:41
+msgid "VISIT TIME: "
+msgstr "HORA DE VISITA:"
+
+#: amgt-function.php:40 admin/admin.php:30 admin/admin.php:30
+#: admin/access_right/Accountant.php:505 admin/access_right/Gatekeeper.php:505
+#: admin/access_right/Member.php:505 admin/access_right/Staff_Member.php:505
+msgid "Visitor Management"
+msgstr "Gestão de Visitantes"
+
+#: admin/visitor-manage/visitor-checkin.php:84
+#: admin/visitor-manage/visitor-checkin.php:328
+#: admin/visitor-manage/visitor-checkin.php:376
+#: admin/visitor-manage/visitor-checkin.php:410
+#: template/visitor-manage/visitor_checkin.php:46
+#: template/visitor-manage/visitor_checkin.php:285
+#: template/visitor-manage/visitor_checkin.php:333
+#: template/visitor-manage/visitor_checkin.php:367
+msgid "Visitor Name"
+msgstr "Nome do Visitante"
+
+#: admin/visitor-manage/visitor-checkin-list.php:131
+#: admin/visitor-manage/visitor-checkin-list.php:143
+#: template/visitor-manage/visitor-manage.php:403
+#: template/visitor-manage/visitor-manage.php:416
+msgid "Visitor Name-ID Number-Vehicle Number"
+msgstr "Nome do Visitante-Número de ID-Número do Veículo"
+
+#: admin/visitor-manage/index.php:312
+#: template/visitor-manage/visitor-manage.php:339
+msgid "Visitor Request"
+msgstr "Pedido de Visitante"
+
+#: admin/visitor-manage/index.php:261
+msgid "Visitor Request Approved Successfully"
+msgstr "Solicitação de visitante aprovada com sucesso"
+
+#: template/visitor-manage/visitor-manage.php:280
+msgid "Visitor request Approved successfully"
+msgstr "Pedido de visitante aprovado com sucesso"
+
+#: admin/notification-templates/index.php:1002
+msgid "Visitor Request Email Template"
+msgstr "Modelo de Email de Solicitação de Visitante"
+
+#: admin/visitor-manage/index.php:236
+#: template/visitor-manage/visitor-manage.php:238
+msgid "Visitor Request inserted successfully"
+msgstr "Pedido de visitante inserido com sucesso"
+
+#: admin/visitor-manage/index.php:302
+#: template/visitor-manage/visitor-manage.php:326
+msgid "Visitor Request List"
+msgstr "Lista de Pedidos de Visitante"
+
+#: admin/notification-templates/index.php:984
+msgid "Visitor Request Template"
+msgstr "Modelo de solicitação de visitante"
+
+#: admin/visitor-manage/index.php:241
+#: template/visitor-manage/visitor-manage.php:247
+msgid "Visitor Request updated successfully."
+msgstr "Solicitação de visitante atualizada com sucesso."
+
+#: amgt-function.php:135 amgt-function.php:442
+#: admin/accounts/add-charges-all-member.php:114
+#: admin/accounts/recuring_charg_list.php:95
+msgid "Yearly"
+msgstr "Anual"
+
+#: admin/facility/index.php:473 template/facility/facility.php:420
+msgid "Yes"
+msgstr "sim"
+
+#: admin/notification-templates/index.php:159
+#: admin/notification-templates/index.php:207
+#: admin/notification-templates/index.php:254
+#: admin/notification-templates/index.php:301
+#: admin/notification-templates/index.php:346
+#: admin/notification-templates/index.php:396
+#: admin/notification-templates/index.php:447
+#: admin/notification-templates/index.php:500
+#: admin/notification-templates/index.php:555
+#: admin/notification-templates/index.php:611
+#: admin/notification-templates/index.php:665
+#: admin/notification-templates/index.php:721
+#: admin/notification-templates/index.php:776
+#: admin/notification-templates/index.php:822
+#: admin/notification-templates/index.php:870
+#: admin/notification-templates/index.php:916
+#: admin/notification-templates/index.php:965
+#: admin/notification-templates/index.php:1011
+#: admin/notification-templates/index.php:1063
+msgid "You can use following variables in the email template:"
+msgstr "Você pode usar as seguintes variáveis no modelo de e-mail:"
+
+#: amgt-function.php:1537
+msgid "You do not have permission to perform this operation."
+msgstr "Você não tem permissão para realizar esta operação."
+
+#: translation_string.php:82
+msgid ""
+"Your registration is complete. Your account will active after admin will "
+"approve."
+msgstr ""
+"Seu registro está completo. Sua conta ficará ativa após a aprovação do "
+"administrador."
+
+#: admin/accountant/add_accountant.php:185 admin/ducuments/add-document.php:708
+#: admin/gatekeeper/add_gatekeeper.php:171 admin/member/add_accountant.php:197
+#: admin/member/add_gatekeeper.php:222 admin/member/add_member.php:505
+#: admin/member/add_staff_member.php:240 admin/member/view_user.php:321
+#: admin/parking/assign-sloat.php:782 admin/residential-unit/index.php:718
+#: admin/staff-member/add_staff_member.php:183
+#: template/accountant/add_accountant.php:185
+#: template/gatekeeper/gatekeeper.php:602 template/member/add_member.php:499
+#: template/member/view_member.php:372
+#: template/parking-manager/parking-manager.php:807
+msgid "Zip Code"
+msgstr "Código postal"
+
+#: translation_string.php:13
+msgid "| Bill To."
+msgstr "| Projeto de lei para."
+
+msgid "Export CSV"
+msgstr "Exportar CSV"
+
+msgid "Import CSV"
+msgstr "Importar CSV"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Staff"
+msgstr "Funcionários"
+
+msgid "Expense entries"
+msgstr "Entradas de despesas"
+
+msgid "Please select at least one record"
+msgstr "Selecione pelo menos um registro"
+
+msgid "Forgot your password"
+msgstr "Esqueceu sua senha"
+
+msgid "Pay"
+msgstr "Pagar"
+
+msgid "Service Details"
+msgstr "Detalhes do serviço"
+
+msgid "Please select at least one record."
+msgstr "Selecione pelo menos um registro."
+
+msgid "You must fill out the field"
+msgstr "Você deve preencher o campo"
+
+msgid "Phonenumber"
+msgstr "Número de telefone"
+
+msgid "Expense Entries"
+msgstr "Entradas de despesas"
+
+msgid "ERROR"
+msgstr "ERRO"
+
+msgid "Forgot your password?"
+msgstr "Esqueceu sua senha?"
+
+msgid "Only '.jpg','.jpeg','.png'  formats are allowed."
+msgstr "Somente os formatos '.jpg', '. Jpeg', '. Png' são permitidos."
+
+msgid "jpg,jpeg,png File allowed ,csv file not allowed"
+msgstr "jpg, jpeg, arquivo png permitido, arquivo csv não permitido"
+
+msgid "Delete Selected"
+msgstr "Apagar Selecionado"
+
+msgid "administrator"
+msgstr "administrador"
+
+msgid "gatekeeper"
+msgstr "porteiro"
+
+msgid "committee_member"
+msgstr "membro do Comitê"
+
+msgid "staffmember"
+msgstr "membro da equipe"
+
+msgid "accountant"
+msgstr "contador"
+
+msgid "member"
+msgstr "membro"
+
+msgid "Building/Group"
+msgstr "Edifício / Grupo"
+
+msgid "Select CSV File"
+msgstr "Selecione o arquivo CSV"
+
+msgid "Select User Type"
+msgstr "Selecione o tipo de usuário"
+
+msgid "Paid"
+msgstr "Pago"
+
+msgid "Sorry, only JPG, pdf, docs., JPEG, PNG And GIF files are allowed"
+msgstr ""
+"Desculpe, apenas arquivos JPG, pdf, docs., JPEG, PNG e GIF são permitidos"
+
+msgid "Only jpg,jpeg,png File allowed"
+msgstr "Somente arquivos jpg, jpeg e png permitidos"
+
+msgid "No history Available"
+msgstr "Sem histórico disponível"
+
+msgid "Member Detail"
+msgstr "Detalhe do Membro"
+
+msgid "Member history"
+msgstr "História do membro"

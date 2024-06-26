@@ -1,0 +1,20 @@
+/*
+Theme Name: MaisonCo Child
+Theme URI: http://demo2.wpopal.com/maisonco
+Template: maisonco
+Author: Opal Team
+Author URI: https://www.wpopal.com/
+Description: MaisonCo is right fit for Single Property &amp; Real Estate Agency for Renting or Selling your Apartment, House, Villa, Farm House, and Raw House. This theme packed with everything you need for single property and apartment complex websites with the showcase of all kinds of properties in an impressive manner, elegant style with effects &amp; animations.
+Tags: two-columns,three-columns,left-sidebar,right-sidebar,custom-menu,editor-style,featured-images,flexible-header,full-width-template,post-formats,sticky-post,translation-ready
+Version: 2.0.1.1686311330
+Updated: 2023-06-09 07:48:50
+
+*/
+
+.footer-image-wrap p.elementor-image-box-description {
+    padding-bottom: 10px;
+}
+.footer-wrap a { color: #000; }
+.footer-wrap a:hover {
+	color: #9E2F2F;
+}

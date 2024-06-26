@@ -1,0 +1,5466 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apartment Management System\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-03 12:24+0000\n"
+"PO-Revision-Date: 2022-01-04 06:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: Estonian\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: apartment_mgt"
+
+#: admin/ducuments/add-document.php:985 admin/member/add_member.php:936
+#: admin/parking/assign-sloat.php:1066 admin/residential-unit/add_unit.php:247
+#: admin/residential-unit/index.php:1003
+#: admin/visitor-manage/visitor-checkin.php:575 template/member/member.php:652
+#: template/parking-manager/parking-manager.php:1089
+#: template/resident_unit/add_unit.php:218
+#: template/resident_unit/resident_unit.php:156
+msgid " Unit"
+msgstr " Ühik"
+
+#: amgt-function.php:34
+msgid " Unit "
+msgstr " Ühik"
+
+#: template/resident_unit/resident_unit.php:131
+msgid " Unit List"
+msgstr " Üksuste loend"
+
+#: fronted_template.php:105
+msgid " View Document"
+msgstr " Kuva dokument"
+
+#: admin/message/view_message.php:119 admin/message/view_message.php:122
+#: template/message/view_message.php:146 template/message/view_message.php:149
+msgid " || "
+msgstr " ||"
+
+#: amgt-function.php:1456
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(filtreeritud _MAX_ kogu kirjest)"
+
+#: admin/accounts/add-charges-all-member.php:534
+msgid "/ per"
+msgstr "/ per"
+
+#: amgt-function.php:1471
+msgid ": activate to sort column ascending"
+msgstr ": aktiveerige veeru kasvavas järjestuses"
+
+#: amgt-function.php:1472
+msgid ": activate to sort column descending"
+msgstr ": aktiveerige veergude kahanevas järjestuses"
+
+#: translation_string.php:86
+msgid "A/C Holder Name "
+msgstr "Kliimaseadme omaniku nimi"
+
+#: admin/admin.php:58
+msgid "Access Right"
+msgstr "Juurdepääsuõigus"
+
+#: admin/general-settings.php:481
+msgid "Account Holder Name"
+msgstr "Konto omaniku nimi"
+
+#: translation_string.php:87
+#| msgid "Account No"
+msgid "Account No "
+msgstr "Arveldusarve nr"
+
+#: admin/general-settings.php:489
+msgid "Account Number"
+msgstr "Konto number"
+
+#: template/profile/profile.php:237
+msgid "Account Settings "
+msgstr "Konto seaded"
+
+#: admin/general-settings.php:497
+msgid "Account Type"
+msgstr "Konto tüüp"
+
+#: amgt-function.php:37 amgt-function.php:74 amgt-function.php:107
+#: translation_string.php:50 admin/access_right/Accountant.php:370
+#: admin/access_right/Gatekeeper.php:370 admin/access_right/index.php:47
+#: admin/access_right/Member.php:370 admin/access_right/Staff_Member.php:370
+msgid "Accountant"
+msgstr "Raamatupidaja"
+
+#: admin/access_right/Accountant.php:216
+msgid "Accountant Access Right"
+msgstr "Raamatupidaja juurdepääsuõigus"
+
+#: admin/member/index.php:293 template/accountant/accountant.php:166
+msgid "Accountant deleted successfully"
+msgstr "Raamatupidaja kustutamine õnnestus"
+
+#: template/accountant/accountant.php:143
+msgid "Accountant inserted successfully"
+msgstr "Raamatupidaja sisestamine õnnestus"
+
+#: admin/member/index.php:349
+msgid "Accountant inserted successfully."
+msgstr "Raamatupidaja sisestamine õnnestus."
+
+#: admin/accountant/index.php:132 admin/member/index.php:571
+#: template/accountant/accountant.php:178
+msgid "Accountant List"
+msgstr "Raamatupidajate nimekiri"
+
+#: admin/member/index.php:341 template/accountant/accountant.php:155
+msgid "Accountant updated successfully."
+msgstr "Raamatupidaja uuendamine õnnestus."
+
+#: amgt-function.php:46 admin/admin.php:44 admin/admin.php:44
+#: admin/access_right/Accountant.php:775 admin/access_right/Gatekeeper.php:774
+#: admin/access_right/Member.php:775 admin/access_right/Staff_Member.php:775
+msgid "Accounts"
+msgstr "Kontod"
+
+#: admin/accountant/index.php:178 admin/accountant/index.php:188
+#: admin/accounts/expense-list.php:29 admin/accounts/expense-list.php:38
+#: admin/accounts/index.php:982 admin/accounts/index.php:1000
+#: admin/accounts/recuring_charg_list.php:46
+#: admin/accounts/recuring_charg_list.php:59
+#: admin/assets-inventory/index.php:205 admin/assets-inventory/index.php:216
+#: admin/assets-inventory/inventory-list.php:29
+#: admin/assets-inventory/inventory-list.php:37
+#: admin/committee-member/index.php:61 admin/committee-member/index.php:73
+#: admin/complaint/index.php:161 admin/complaint/index.php:174
+#: admin/ducuments/index.php:179 admin/ducuments/index.php:190
+#: admin/facility/facility-booking-list.php:41
+#: admin/facility/facility-booking-list.php:56 admin/facility/index.php:436
+#: admin/facility/index.php:446 admin/gatekeeper/index.php:172
+#: admin/gatekeeper/index.php:182 admin/member/accountant_list.php:48
+#: admin/member/accountant_list.php:58 admin/member/gatekeeper_list.php:48
+#: admin/member/gatekeeper_list.php:58 admin/member/member_list.php:97
+#: admin/member/member_list.php:109 admin/member/staff_list.php:48
+#: admin/member/staff_list.php:58 admin/member-corner/index.php:125
+#: admin/member-corner/index.php:134 admin/notice-events/event_list.php:31
+#: admin/notice-events/event_list.php:41 admin/notice-events/index.php:319
+#: admin/notice-events/index.php:329 admin/parking/assigned-sloat-list.php:42
+#: admin/parking/assigned-sloat-list.php:55 admin/parking/index.php:237
+#: admin/parking/index.php:245 admin/residential-unit/index.php:247
+#: admin/residential-unit/index.php:255 admin/service/index.php:132
+#: admin/service/index.php:143 admin/staff-member/index.php:173
+#: admin/staff-member/index.php:184 admin/tax/index.php:122
+#: admin/tax/index.php:129 admin/visitor-manage/staff-checkin-list.php:35
+#: admin/visitor-manage/staff-checkin-list.php:45
+#: admin/visitor-manage/visitor-checkin-list.php:137
+#: admin/visitor-manage/visitor-checkin-list.php:149
+#: template/accountant/accountant.php:242
+#: template/accountant/accountant.php:258
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:259
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:272
+#: template/assets-inventory-tracker/inventory_list.php:30
+#: template/assets-inventory-tracker/inventory_list.php:40
+#: template/committee-member/committee-member.php:92
+#: template/committee-member/committee-member.php:108
+#: template/complaint/complaint.php:194 template/complaint/complaint.php:207
+#: template/documents/documents.php:230 template/documents/documents.php:240
+#: template/facility/facility-booking-list.php:41
+#: template/facility/facility-booking-list.php:57
+#: template/facility/facility.php:382 template/facility/facility.php:396
+#: template/gatekeeper/gatekeeper.php:237
+#: template/gatekeeper/gatekeeper.php:253 template/member/member.php:360
+#: template/member/member.php:372 template/notice-event/event_list.php:70
+#: template/notice-event/event_list.php:80
+#: template/notice-event/notice-event.php:362
+#: template/notice-event/notice-event.php:372
+#: template/parking-manager/assigned-sloat-list.php:79
+#: template/parking-manager/assigned-sloat-list.php:94
+#: template/parking-manager/parking-manager.php:272
+#: template/parking-manager/parking-manager.php:282
+#: template/resident_unit/resident_unit.php:190
+#: template/resident_unit/resident_unit.php:198
+#: template/services/services.php:197 template/services/services.php:214
+#: template/visitor-manage/staff_checkinlist.php:33
+#: template/visitor-manage/staff_checkinlist.php:45
+#: template/visitor-manage/visitor-manage.php:410
+#: template/visitor-manage/visitor-manage.php:423
+msgid "Action"
+msgstr "Tegevus"
+
+#: admin/report/complaint.php:30 template/report/complaint.php:11
+msgid "Activated"
+msgstr "Aktiveeritud"
+
+#: admin/member/accountant_list.php:111 admin/member/gatekeeper_list.php:121
+#: admin/member/member_list.php:151 admin/member/staff_list.php:111
+msgid "Active"
+msgstr "Aktiivne"
+
+#: admin/facility/facility-booking-list.php:33
+#: admin/facility/facility-booking-list.php:48
+#: admin/notification-templates/index.php:670
+#: admin/notification-templates/index.php:726
+#: template/facility/facility-booking-list.php:33
+#: template/facility/facility-booking-list.php:49
+msgid "Activity Name"
+msgstr "Tegevuse nimi"
+
+#: admin/access_right/Accountant.php:224 admin/access_right/Gatekeeper.php:224
+#: admin/access_right/Member.php:224 admin/access_right/Staff_Member.php:224
+msgid "Add"
+msgstr "Lisama"
+
+#: admin/accountant/add_accountant.php:254 admin/accountant/index.php:143
+#: admin/member/add_accountant.php:66 admin/member/add_accountant.php:267
+#: admin/member/index.php:588 template/accountant/accountant.php:194
+#: template/accountant/add_accountant.php:250
+msgid "Add Accountant"
+msgstr "Lisage raamatupidaja"
+
+#: translation_string.php:68
+msgid "Add Activity"
+msgstr "Lisage tegevus"
+
+#: translation_string.php:67
+msgid "Add Activity For Facility Booking"
+msgstr "Lisage tegevus objektide broneerimiseks"
+
+#: admin/assets-inventory/add-assets.php:175
+#: admin/assets-inventory/index.php:152
+#: template/assets-inventory-tracker/add_asset.php:172
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:198
+msgid "Add Asset"
+msgstr "Lisage vara"
+
+#: translation_string.php:79
+msgid "Add Assets Category"
+msgstr "Varade kategooria lisamine"
+
+#: admin/ducuments/add-document.php:161 admin/ducuments/add-document.php:420
+#: admin/ducuments/add-document.php:873 admin/member/add_member.php:149
+#: admin/member/add_member.php:822 admin/parking/assign-sloat.php:258
+#: admin/parking/assign-sloat.php:468 admin/parking/assign-sloat.php:951
+#: admin/residential-unit/index.php:405 admin/residential-unit/index.php:888
+#: template/member/add_member.php:159 template/member/member.php:540
+#: template/parking-manager/assign_sloat.php:229
+#: template/parking-manager/parking-manager.php:491
+#: template/parking-manager/parking-manager.php:978
+msgid "Add Building"
+msgstr "Lisa hoone"
+
+#: translation_string.php:5
+msgid "Add Building Category"
+msgstr "Lisa hoone kategooria"
+
+#: translation_string.php:65
+msgid "Add Category"
+msgstr "Lisa kategooria"
+
+#: admin/accounts/index.php:908
+msgid "Add Charges"
+msgstr "Lisage tasud"
+
+#: admin/notification-templates/index.php:956
+msgid "Add Charges Email Template"
+msgstr "Lisage tasude e-posti mall"
+
+#: admin/accounts/add-charges-all-member.php:588
+#: admin/accounts/add-charges-all-member.php:603
+msgid "Add Charges Entry"
+msgstr "Lisage tasude kanne"
+
+#: admin/notification-templates/index.php:938
+msgid "Add Charges Template"
+msgstr "Lisage Tasude mall"
+
+#: translation_string.php:74
+msgid "Add Charges Types"
+msgstr "Lisage tasude tüübid"
+
+#: admin/residential-unit/index.php:212
+msgid "Add Commercial Unit"
+msgstr "Lisa kaubandusüksus"
+
+#: admin/notification-templates/index.php:546
+msgid "Add Complain For Admin Email Template"
+msgstr "Lisage administraatori e-posti kaebus"
+
+#: admin/complaint/index.php:119 template/complaint/complaint.php:152
+#| msgid "Add Complain"
+msgid "Add Complaint"
+msgstr "Lisage kaebus"
+
+#: admin/notification-templates/index.php:491
+#| msgid "Add Complain Email Template"
+msgid "Add Complaint Email Template"
+msgstr "Lisage kaebuse e-posti mall"
+
+#: admin/notification-templates/index.php:528
+#| msgid "Add Complain For Admin"
+msgid "Add Complaint For Admin"
+msgstr "Lisage administraatori jaoks kaebus"
+
+#: admin/notification-templates/index.php:473
+#| msgid "Add Complain Template"
+msgid "Add Complaint Template"
+msgstr "Lisage kaebuse mall"
+
+#: admin/visitor-manage/visitor-checkin.php:231
+#: admin/visitor-manage/visitor-checkin.php:461
+msgid "Add Compound"
+msgstr "Lisa ühend"
+
+#: translation_string.php:8
+msgid "Add Designation"
+msgstr "Lisage nimetus"
+
+#: admin/ducuments/add-document.php:326 admin/ducuments/index.php:142
+#: template/documents/add_documents.php:272
+#: template/documents/documents.php:194
+msgid "Add Document"
+msgstr "Lisa dokument"
+
+#: admin/notice-events/index.php:284 template/notice-event/notice-event.php:325
+msgid "Add Event"
+msgstr "Lisa sündmus"
+
+#: admin/notification-templates/index.php:438
+msgid "Add Event Email Template"
+msgstr "Lisage sündmuse e-posti mall"
+
+#: admin/notification-templates/index.php:420
+msgid "Add Event Template"
+msgstr "Lisage sündmuse mall"
+
+#: admin/accounts/add-expense.php:167 admin/accounts/index.php:929
+msgid "Add Expense"
+msgstr "Lisage kulu"
+
+#: translation_string.php:76
+msgid "Add Expense Types"
+msgstr "Lisa kululiigid"
+
+#: admin/facility/add_facility.php:108 admin/facility/index.php:381
+#: template/facility/add_facility.php:108 template/facility/facility.php:319
+msgid "Add Facility"
+msgstr "Lisa Facility"
+
+#: admin/gatekeeper/add_gatekeeper.php:124 admin/member/add_gatekeeper.php:164
+msgid "Add Gate"
+msgstr "Lisage värav"
+
+#: admin/gatekeeper/add_gatekeeper.php:228 admin/gatekeeper/index.php:136
+#: admin/member/add_gatekeeper.php:58 admin/member/add_gatekeeper.php:288
+#: admin/member/index.php:591 template/gatekeeper/gatekeeper.php:190
+#: template/gatekeeper/gatekeeper.php:666
+msgid "Add Gatekeeper"
+msgstr "Lisage väravavaht"
+
+#: admin/member/add_member.php:468
+msgid "Add GST Number"
+msgstr "Lisage GST number"
+
+#: amgt-function.php:694
+msgid "Add Image"
+msgstr "Lisa pilt"
+
+#: admin/accounts/index.php:1172
+msgid "Add Income"
+msgstr "Lisage tulu"
+
+#: admin/assets-inventory/add-inventory.php:97
+#: admin/assets-inventory/index.php:167
+#: template/assets-inventory-tracker/add_inventory.php:97
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:220
+msgid "Add Inventory"
+msgstr "Lisage reklaamikoht"
+
+#: translation_string.php:80
+msgid "Add Inventory Unit Category"
+msgstr "Lisage varude üksuse kategooria"
+
+#: admin/ducuments/add-document.php:253 admin/ducuments/add-document.php:391
+#: admin/ducuments/add-document.php:858 admin/member/add_member.php:108
+#: admin/member/add_member.php:811 admin/member/index.php:587
+#: admin/parking/assign-sloat.php:355 admin/parking/assign-sloat.php:434
+#: admin/parking/assign-sloat.php:935 admin/residential-unit/index.php:296
+#: admin/residential-unit/index.php:369 admin/residential-unit/index.php:871
+#: template/member/add_member.php:801 template/member/member.php:310
+#: template/parking-manager/assign_sloat.php:324
+#: template/parking-manager/parking-manager.php:450
+#: template/parking-manager/parking-manager.php:961
+msgid "Add Member"
+msgstr "Lisa liige"
+
+#: admin/ducuments/add-document.php:317 admin/member/add_member.php:744
+#: admin/member/add_member.php:796 template/documents/add_documents.php:263
+#: template/member/add_member.php:734 template/member/add_member.php:786
+msgid "Add More Document"
+msgstr "Lisage veel dokument"
+
+#: admin/visitor-manage/visitor-checkin.php:442
+#: template/visitor-manage/visitor_checkin.php:399
+msgid "Add More Entry"
+msgstr "Lisage rohkem kirjet"
+
+#: admin/accounts/add-charges-all-member.php:788
+msgid "Add More Tax"
+msgstr "Lisage veel maksu"
+
+#: admin/ducuments/add-document.php:977 admin/member/add_member.php:928
+#: admin/parking/assign-sloat.php:1057 admin/residential-unit/add_unit.php:236
+#: admin/residential-unit/index.php:994
+#: admin/visitor-manage/visitor-checkin.php:566 template/member/member.php:644
+#: template/parking-manager/parking-manager.php:1081
+#: template/resident_unit/add_unit.php:208
+msgid "Add More Unit"
+msgstr "Lisage üksus"
+
+#: amgt-function.php:502 amgt-function.php:540 amgt-function.php:577
+msgid "Add New"
+msgstr "Lisa uus"
+
+#: amgt-function.php:539
+msgid "Add New FAQ"
+msgstr "Lisage uus KKK"
+
+#: admin/visitor-manage/index.php:437
+msgid "Add New Gate"
+msgstr "Lisage uus värav"
+
+#: amgt-function.php:576
+msgid "Add New Photo Gallery"
+msgstr "Lisage uus fotogalerii"
+
+#: amgt-function.php:501
+msgid "Add New Rules"
+msgstr "Lisage uued reeglid"
+
+#: admin/notice-events/index.php:269 template/notice-event/notice-event.php:303
+msgid "Add Notice"
+msgstr "Lisa teade"
+
+#: admin/notification-templates/index.php:387
+msgid "Add Notice Email Template"
+msgstr "Lisa teatise e-posti mall"
+
+#: admin/notification-templates/index.php:369
+msgid "Add Notice Template"
+msgstr "Lisa teatise mall"
+
+#: admin/accounts/add-charges-all-member.php:463
+#: admin/accounts/add-expense.php:110 admin/assets-inventory/add-assets.php:118
+#: admin/assets-inventory/add-inventory.php:91
+#: admin/complaint/add_complaint.php:231 admin/ducuments/add-document.php:667
+#: admin/ducuments/add-document.php:915 admin/ducuments/add-document.php:936
+#: admin/facility/booking-facility.php:136 admin/member/add_member.php:323
+#: admin/member/add_member.php:361 admin/member/add_member.php:406
+#: admin/member/add_member.php:454 admin/member/add_member.php:862
+#: admin/member/add_member.php:883 admin/member/add_staff_member.php:155
+#: admin/parking/assign-sloat.php:742 admin/parking/assign-sloat.php:994
+#: admin/parking/assign-sloat.php:1016 admin/residential-unit/add_unit.php:94
+#: admin/residential-unit/add_unit.php:139 admin/residential-unit/index.php:677
+#: admin/residential-unit/index.php:929 admin/residential-unit/index.php:950
+#: admin/staff-member/add_staff_member.php:117
+#: admin/visitor-manage/visitor-checkin.php:203
+#: admin/visitor-manage/visitor-checkin.php:504
+#: admin/visitor-manage/visitor-checkin.php:525
+#: template/assets-inventory-tracker/add_asset.php:122
+#: template/assets-inventory-tracker/add_inventory.php:92
+#: template/complaint/add_complain.php:254
+#: template/facility/booking-facility.php:135
+#: template/member/add_member.php:368 template/member/add_member.php:413
+#: template/member/add_member.php:458 template/member/member.php:581
+#: template/member/member.php:602
+#: template/parking-manager/parking-manager.php:766
+#: template/parking-manager/parking-manager.php:1020
+#: template/parking-manager/parking-manager.php:1040
+#: template/resident_unit/add_unit.php:76
+#: template/resident_unit/add_unit.php:120
+#: template/visitor-manage/visitor_checkin.php:143
+msgid "Add Or Remove"
+msgstr "Lisage või eemaldage"
+
+#: admin/notification-templates/index.php:319
+#: admin/notification-templates/index.php:337
+msgid "Add Other User in system Template"
+msgstr "Lisage süsteemimalli muu kasutaja"
+
+#: translation_string.php:73
+msgid "Add Payment"
+msgstr "Lisa makse"
+
+#: admin/residential-unit/index.php:208
+msgid "Add Residential Unit"
+msgstr "Lisa elamu"
+
+#: admin/member-corner/add_rule.php:40 admin/member-corner/index.php:92
+msgid "Add Rule"
+msgstr "Lisa reegel"
+
+#: admin/service/add_service.php:112 admin/service/index.php:94
+#: template/services/add_services.php:103 template/services/services.php:147
+msgid "Add Service"
+msgstr "Lisa teenus"
+
+#: admin/parking/add-sloat.php:87 admin/parking/index.php:204
+#: template/parking-manager/add_sloat.php:85
+#: template/parking-manager/parking-manager.php:217
+msgid "Add Slot"
+msgstr "Lisa pesa"
+
+#: translation_string.php:10
+msgid "Add Staff Category"
+msgstr "Töötajate kategooria lisamine"
+
+#: admin/member/add_staff_member.php:67 admin/member/add_staff_member.php:305
+#: admin/member/index.php:590 admin/staff-member/add_staff_member.php:239
+#: admin/staff-member/index.php:136
+msgid "Add Staff Member"
+msgstr "Lisage töötaja"
+
+#: admin/tax/add_tax.php:49 admin/tax/index.php:91
+msgid "Add Tax"
+msgstr "Lisage maks"
+
+#: translation_string.php:78
+msgid "Add Types"
+msgstr "Lisage tüübid"
+
+#: translation_string.php:6
+msgid "Add Unit Category"
+msgstr "Lisage üksuse kategooria"
+
+#: admin/member/index.php:585
+msgid "Add User"
+msgstr "Lisa kasutaja"
+
+#: translation_string.php:60
+msgid "Add visit Reason"
+msgstr "Lisage külastuse põhjus"
+
+#: admin/accountant/add_accountant.php:157
+#: admin/gatekeeper/add_gatekeeper.php:147 admin/member/add_accountant.php:169
+#: admin/member/add_gatekeeper.php:194 admin/member/add_staff_member.php:212
+#: admin/member/view_user.php:277 admin/service/add_service.php:103
+#: admin/service/index.php:131 admin/service/index.php:142
+#: admin/staff-member/add_staff_member.php:159
+#: template/accountant/add_accountant.php:157
+#: template/gatekeeper/gatekeeper.php:574 template/member/view_member.php:320
+#: template/services/add_services.php:93 template/services/services.php:193
+#: template/services/services.php:210
+msgid "Address"
+msgstr "Aadress"
+
+#: translation_string.php:53
+msgid "Administrator"
+msgstr "Administraator"
+
+#: amgt-function.php:97
+msgid "All"
+msgstr "Kõik"
+
+#: admin/message/composemail.php:51
+msgid "All Accountants"
+msgstr "Kõik raamatupidajad"
+
+#: admin/message/composemail.php:54
+msgid "All Committee Member"
+msgstr "Kõik komisjoni liikmed"
+
+#: amgt-function.php:537
+msgid "All FAQ"
+msgstr "Kõik KKK"
+
+#: admin/message/composemail.php:53
+msgid "All Gatekeeper"
+msgstr "Kõik väravavaht"
+
+#: admin/accounts/add-charges-all-member.php:163
+msgid "All Member"
+msgstr "Kõik liikmed"
+
+#: admin/message/composemail.php:50
+msgid "All Members"
+msgstr "Kõik liikmed"
+
+#: admin/message/composemail.php:52
+msgid "All Staff Member"
+msgstr "Kõik töötajad"
+
+#: admin/admin.php:26
+msgid "All User"
+msgstr "Kõik kasutajad"
+
+#: template/message/composemail.php:66
+msgid "All Users"
+msgstr "Kõik kasutajad"
+
+#: admin/parking/assigned-sloat-list.php:85
+#: template/parking-manager/assigned-sloat-list.php:168
+msgid "Allotted"
+msgstr "Eraldatud"
+
+#: admin/facility/add_facility.php:100 template/facility/add_facility.php:101
+msgid "Allow booking for multiple days"
+msgstr "Luba broneerimine mitu päeva"
+
+#: admin/facility/index.php:128 admin/facility/index.php:168
+#: admin/facility/index.php:225 template/facility/facility.php:147
+#: template/facility/facility.php:203
+msgid "Already booking this facility."
+msgstr "Selle teenuse juba broneerite."
+
+#: admin/accounts/add-expense.php:138 admin/accounts/expense-list.php:27
+#: admin/accounts/expense-list.php:36
+#: admin/report/download_expense_report.php:78
+#: admin/report/download_expense_report.php:87
+#: admin/report/download_income_expense_report.php:77
+#: admin/report/download_income_expense_report.php:85
+msgid "Amount"
+msgstr "Summa"
+
+#: admin/accounts/add-charges-all-member.php:631
+#: admin/accounts/add-charges-all-member.php:647
+#: admin/accounts/recuring_charg_list.php:42
+#: admin/accounts/recuring_charg_list.php:55
+msgid "Amount After Discount"
+msgstr "Summa pärast allahindlust"
+
+#: admin/facility/add_facility.php:63 template/facility/add_facility.php:66
+msgid "Amount Charge"
+msgstr "Summa tasu"
+
+#: admin/notice-events/add_notice.php:86 admin/notice-events/index.php:349
+#: template/notice-event/add_notice.php:84
+#: template/notice-event/notice-event.php:443
+msgid "Announcement"
+msgstr "Teadaanne"
+
+#: admin/general-settings.php:140
+msgid "Apartment Address"
+msgstr "Korteri aadress"
+
+#: admin/general-settings.php:206
+msgid "Apartment Logo"
+msgstr "Korteri logo"
+
+#: admin/admin.php:7
+msgid "Apartment Management"
+msgstr "Korteri haldamine"
+
+#. Name of the plugin
+msgid "Apartment Management System"
+msgstr "Korteri juhtimissüsteem"
+
+#. Description of the plugin
+msgid ""
+"Apartment Management System for wordpress plugin is ideal way to manage "
+"complete housing society or neighborhood maintenance tasks. It has different "
+"user roles like Admin, Resident members, Gatekeeper and Accountant Users."
+msgstr ""
+"Korterihaldussüsteem WordPress-pistikprogrammi jaoks on ideaalne viis "
+"täieliku elamuühiskonna või naabruskonna hooldustööde haldamiseks. Sellel on "
+"erinevad kasutajarollid, nagu administraator, residendiliikmed, väravavahi "
+"ja raamatupidaja kasutajad."
+
+#: admin/general-settings.php:111
+msgid "Apartment Name"
+msgstr "Korteri nimi"
+
+#: admin/notification-templates/index.php:508
+#: admin/notification-templates/index.php:564
+msgid "Apartment Number"
+msgstr "Korterinumber"
+
+#: admin/general-settings.php:119
+msgid "Apartment Type"
+msgstr "Korteri tüüp"
+
+#: admin/facility/facility-booking-list.php:121
+#: admin/notice-events/event_list.php:63 admin/notice-events/index.php:362
+#: admin/visitor-manage/visitor-checkin-list.php:199
+#: template/visitor-manage/visitor-manage.php:541
+msgid "Approve"
+msgstr "Kinnita"
+
+#: admin/facility/facility-booking-list.php:113
+#: admin/notice-events/index.php:358
+#: admin/visitor-manage/visitor-checkin-list.php:101
+#: admin/visitor-manage/visitor-checkin-list.php:166
+#: template/facility/facility-booking-list.php:157
+#: template/visitor-manage/visitor-manage.php:498
+msgid "Approved"
+msgstr "Heaks kiidetud"
+
+#: admin/notification-templates/index.php:749
+msgid "Approved Facility Template"
+msgstr "Kinnitatud rajatise mall"
+
+#: admin/report/expense.php:2 admin/report/payment.php:2
+#: template/report/expense.php:2 template/report/payment.php:2
+msgid "April"
+msgstr "Aprill"
+
+#: admin/notification-templates/index.php:1054
+msgid "Aproved Visitor Request Email Template"
+msgstr "Kinnitatud külastaja taotleb e-posti malli"
+
+#: admin/notification-templates/index.php:1036
+msgid "Aproved Visitor Request Template"
+msgstr "Kinnitatud külastajate taotluste mall"
+
+#: translation_string.php:4
+msgid "Are you sure want to delete this record?"
+msgstr "Kas soovite selle kirje kindlasti kustutada?"
+
+#: admin/message/view_message.php:93 template/message/view_message.php:118
+msgid "Are you sure you want to delete this record?"
+msgstr "Kas soovite kindlasti selle kirje kustutada?"
+
+#: admin/notification-templates/index.php:621
+msgid "Asign Slot Link"
+msgstr "Asign pesa link"
+
+#: admin/assets-inventory/add-assets.php:95
+#: admin/assets-inventory/index.php:202 admin/assets-inventory/index.php:213
+#: template/assets-inventory-tracker/add_asset.php:100
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:255
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:268
+msgid "Asset Category"
+msgstr "Vara kategooria"
+
+#: admin/assets-inventory/add-assets.php:166
+#: admin/assets-inventory/index.php:204 admin/assets-inventory/index.php:215
+#: template/assets-inventory-tracker/add_asset.php:164
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:257
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:270
+msgid "Asset Cost"
+msgstr "Vara maksumus"
+
+#: admin/assets-inventory/index.php:203 admin/assets-inventory/index.php:214
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:256
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:269
+msgid "Asset Date"
+msgstr "Vara kuupäev"
+
+#: admin/assets-inventory/index.php:93
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:119
+msgid "Asset inserted successfully"
+msgstr "Vara sisestamine õnnestus"
+
+#: admin/assets-inventory/index.php:141
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:183
+msgid "Asset List"
+msgstr "Varade loend"
+
+#: admin/assets-inventory/add-assets.php:78
+#: admin/assets-inventory/index.php:201 admin/assets-inventory/index.php:212
+#: template/assets-inventory-tracker/add_asset.php:84
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:254
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:267
+msgid "Asset Name"
+msgstr "Vara nimi"
+
+#: admin/assets-inventory/add-assets.php:70
+#: admin/assets-inventory/index.php:199 admin/assets-inventory/index.php:210
+#: template/assets-inventory-tracker/add_asset.php:76
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:252
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:265
+msgid "Asset No"
+msgstr "Vara nr"
+
+#: admin/assets-inventory/index.php:100
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:130
+msgid "Asset updated successfully."
+msgstr "Vara värskendamine õnnestus."
+
+#: admin/admin.php:48
+msgid "Asset/ Inventory Tracker"
+msgstr "Vara / varude jälgija"
+
+#: amgt-function.php:49 admin/access_right/Accountant.php:865
+#: admin/access_right/Gatekeeper.php:864 admin/access_right/Member.php:865
+#: admin/access_right/Staff_Member.php:865
+msgid "Assets / Inventory Tracker"
+msgstr "Varad / varude jälgija"
+
+#: admin/gatekeeper/add_gatekeeper.php:88 admin/member/add_gatekeeper.php:126
+#: template/gatekeeper/gatekeeper.php:510
+msgid "Assign Gate"
+msgstr "Määrake värav"
+
+#: admin/notification-templates/index.php:584
+msgid "Assign Parking Slot Template"
+msgstr "Määra parkimiskoha mall"
+
+#: admin/parking/assign-sloat.php:395 admin/parking/index.php:217
+#: template/parking-manager/assign_sloat.php:357
+#: template/parking-manager/parking-manager.php:236
+msgid "Assign Slot"
+msgstr "Määra pesa"
+
+#: admin/notification-templates/index.php:602
+msgid "Assign Slot Email Template"
+msgstr "Määra pesa e-posti mall"
+
+#: admin/gatekeeper/index.php:169 admin/gatekeeper/index.php:179
+#: admin/member/gatekeeper_list.php:47 admin/member/gatekeeper_list.php:57
+#: template/gatekeeper/gatekeeper.php:231
+#: template/gatekeeper/gatekeeper.php:247
+msgid "Assigned Gate"
+msgstr "Määratud värav"
+
+#: admin/parking/index.php:207 template/parking-manager/parking-manager.php:223
+msgid "Assigned Slot List"
+msgstr "Määratud pesade loend"
+
+#: admin/report/expense.php:3 admin/report/payment.php:3
+#: template/report/expense.php:3 template/report/payment.php:3
+msgid "August"
+msgstr "august"
+
+#: admin/general-settings.php:336
+msgid "Australian Dollar"
+msgstr "Austraalia dollar"
+
+#: admin/facility/index.php:489 template/facility/facility.php:428
+msgid "Available"
+msgstr "Saadaval"
+
+#: admin/accountant/add_accountant.php:119 admin/accountant/index.php:175
+#: admin/accountant/index.php:185 admin/member/accountant_list.php:47
+#: admin/member/accountant_list.php:57 admin/member/add_accountant.php:130
+#: admin/member/add_staff_member.php:160 admin/member/staff_list.php:47
+#: admin/member/staff_list.php:57 admin/staff-member/add_staff_member.php:120
+#: admin/staff-member/index.php:169 admin/staff-member/index.php:180
+#: template/accountant/accountant.php:236
+#: template/accountant/accountant.php:252
+#: template/accountant/add_accountant.php:119
+#: template/staff-members/staff-members.php:80
+#: template/staff-members/staff-members.php:90
+msgid "Badge ID"
+msgstr "Märgi ID"
+
+#: admin/general-settings.php:469
+msgid "Bank Details"
+msgstr "Panga üksikasjad"
+
+#: admin/general-settings.php:473
+msgid "Bank Name"
+msgstr "Panga nimi"
+
+#: translation_string.php:72
+msgid "Bank Transfer"
+msgstr "Pangaülekanne"
+
+#: admin/accounts/add-expense.php:126
+msgid "Bill Date"
+msgstr "Arve kuupäev"
+
+#: translation_string.php:26
+msgid "Billing Period"
+msgstr "Arveldusperiood"
+
+#: admin/facility/index.php:395 template/facility/facility.php:341
+msgid "Book Facility"
+msgstr "Book Facility"
+
+#: admin/facility/booking-facility.php:113
+#: template/facility/booking-facility.php:113
+msgid "Book For Activity"
+msgstr "Raamat tegevuseks"
+
+#: admin/facility/index.php:485 template/facility/facility.php:426
+msgid "Booked"
+msgstr "Broneeritud"
+
+#: admin/notification-templates/index.php:669
+#: admin/notification-templates/index.php:725
+msgid "Booked User Name"
+msgstr "Broneeritud kasutajanimi"
+
+#: admin/facility/index.php:385
+msgid "Booking  Facility  List"
+msgstr "Broneerimisvõimaluste loend"
+
+#: template/facility/facility.php:327
+msgid "Booking  Facility List"
+msgstr "Broneerimisvõimaluste loend"
+
+#: admin/facility/booking-facility.php:170
+#: admin/facility/facility-booking-list.php:38
+#: admin/facility/facility-booking-list.php:53
+#: template/facility/booking-facility.php:169
+#: template/facility/facility-booking-list.php:38
+#: template/facility/facility-booking-list.php:54
+msgid "Booking Date"
+msgstr "Broneeringu kuupäev"
+
+#: admin/facility/booking-facility.php:214
+#: template/facility/booking-facility.php:223
+msgid "Booking Facility On Behalf Of"
+msgstr "Broneerimisrajatis"
+
+#: admin/notification-templates/index.php:671
+#: admin/notification-templates/index.php:727
+msgid "Booking For From Date"
+msgstr "Broneerimine alates kuupäevast"
+
+#: admin/notification-templates/index.php:673
+#: admin/notification-templates/index.php:729
+msgid "Booking For From Time"
+msgstr "Broneerimine ajast"
+
+#: admin/notification-templates/index.php:672
+#: admin/notification-templates/index.php:728
+msgid "Booking For To Date"
+msgstr "Broneerimine kuupäevaks"
+
+#: admin/notification-templates/index.php:674
+#: admin/notification-templates/index.php:730
+msgid "Booking For To Time"
+msgstr "Broneerimine aja jaoks"
+
+#: admin/general-settings.php:340
+msgid "Brazilian Real"
+msgstr "Brasiilia reaalne"
+
+#: admin/accounts/add-charges-all-member.php:190
+#: admin/accounts/add-charges-all-member.php:340
+#: admin/accounts/add-charges-all-member.php:397
+#: admin/ducuments/add-document.php:137 admin/ducuments/add-document.php:402
+#: admin/ducuments/add-document.php:899 admin/member/add_member.php:121
+#: admin/member/add_member.php:847 admin/parking/assign-sloat.php:235
+#: admin/parking/assign-sloat.php:445 admin/parking/assign-sloat.php:979
+#: admin/residential-unit/add_unit.php:57 admin/residential-unit/index.php:380
+#: admin/residential-unit/index.php:914 template/documents/add_documents.php:70
+#: template/member/add_member.php:136 template/member/member.php:566
+#: template/parking-manager/assign_sloat.php:206
+#: template/parking-manager/parking-manager.php:467
+#: template/parking-manager/parking-manager.php:1005
+#: template/resident_unit/add_unit.php:39
+msgid "Building"
+msgstr "Hoone"
+
+#: admin/parking/assigned-sloat-list.php:36
+#: admin/parking/assigned-sloat-list.php:49
+#: template/parking-manager/assigned-sloat-list.php:72
+#: template/parking-manager/assigned-sloat-list.php:87
+msgid "Building Block"
+msgstr "Ehituskivi"
+
+#: admin/report/unit_by_building.php:35 template/report/unit_by_building.php:14
+msgid "Building By Unit"
+msgstr "Hoonete kaupa"
+
+#: admin/accounts/add-charges-all-member.php:167
+msgid "Building Member"
+msgstr "Ehitusliige"
+
+#: fronted_template.php:863 admin/accounts/index.php:972
+#: admin/accounts/index.php:989 admin/committee-member/index.php:57
+#: admin/committee-member/index.php:69 admin/member/member_list.php:93
+#: admin/member/member_list.php:105 admin/member/view_user.php:194
+#: admin/notification-templates/index.php:163
+#: admin/report/member_by_building.php:26
+#: admin/report/member_by_building.php:39 admin/report/unit_by_building.php:26
+#: admin/report/unit_by_building.php:41 admin/residential-unit/index.php:245
+#: admin/residential-unit/index.php:253 template/member/member.php:356
+#: template/member/member.php:368 template/member/view_member.php:220
+#: template/report/member_by_building.php:5
+#: template/report/member_by_building.php:18
+#: template/report/unit_by_building.php:5
+#: template/report/unit_by_building.php:20
+#: template/resident_unit/resident_unit.php:188
+#: template/resident_unit/resident_unit.php:196
+msgid "Building Name"
+msgstr "Hoone nimi"
+
+#: admin/general-settings.php:398
+msgid "Building Units settings"
+msgstr "Hooneüksuste seaded"
+
+#: fronted_template.php:528
+msgid "Buildings"
+msgstr "Ehitised"
+
+#: fronted_template.php:795
+msgid "Buildings Units"
+msgstr "Hoonete ühikud"
+
+#: admin/facility/add_facility.php:85 template/facility/add_facility.php:87
+msgid "By Date"
+msgstr "Kuupäeva järgi"
+
+#: admin/facility/add_facility.php:81 template/facility/add_facility.php:83
+msgid "By Hour"
+msgstr "Tundide kaupa"
+
+#: fronted_template.php:776 admin/dasboard.php:333
+msgid "Calendar"
+msgstr "Kalender"
+
+#: admin/general-settings.php:344
+msgid "Canadian Dollar"
+msgstr "Kanada dollar"
+
+#: amgt-function.php:122 admin/ducuments/add-document.php:528
+#: admin/member/add_member.php:283 admin/parking/assign-sloat.php:603
+#: admin/residential-unit/index.php:539 template/member/add_member.php:296
+#: template/parking-manager/parking-manager.php:628
+msgid "Care Taker"
+msgstr "Hooldaja"
+
+#: translation_string.php:70
+msgid "Cash"
+msgstr "Sularaha"
+
+#: admin/complaint/add_complaint.php:209 admin/member-corner/index.php:122
+#: admin/member-corner/index.php:131 template/complaint/add_complain.php:227
+msgid "Category"
+msgstr "Kategooria"
+
+#: translation_string.php:66
+msgid "Category Name"
+msgstr "Kategooria nimi"
+
+#: translation_string.php:32
+msgid "Category:"
+msgstr "Kategooria:"
+
+#: admin/accounts/index.php:975 admin/accounts/index.php:993
+#: admin/accounts/recuring_charg_list.php:40
+#: admin/accounts/recuring_charg_list.php:53
+msgid "Charge Calculate By"
+msgstr "Tasu Arvuta"
+
+#: admin/accounts/add-charges-all-member.php:475
+msgid "Charge Calculate By "
+msgstr "Tasu Arvuta"
+
+#: admin/accounts/add-charges-all-member.php:132
+msgid "Charge End Date"
+msgstr "Laadimise lõppkuupäev"
+
+#: admin/facility/add_facility.php:75 template/facility/add_facility.php:77
+msgid "Charge Per"
+msgstr "Tasu per"
+
+#: admin/facility/index.php:433 admin/facility/index.php:443
+#: template/facility/facility.php:377 template/facility/facility.php:391
+msgid "charge Per"
+msgstr "tasu Per"
+
+#: admin/accounts/add-charges-all-member.php:95
+#: admin/accounts/recuring_charg_list.php:39
+#: admin/accounts/recuring_charg_list.php:52
+msgid "Charge Period"
+msgstr "Laadimisperiood"
+
+#: admin/accounts/index.php:831
+msgid "Charge Save successfully"
+msgstr "Laadige Salvesta edukalt"
+
+#: admin/accounts/add-charges-all-member.php:125
+msgid "Charge Start Date"
+msgstr "Laadimise alguskuupäev"
+
+#: admin/accounts/index.php:974 admin/accounts/index.php:992
+msgid "Charge Type"
+msgstr "Laadimise tüüp"
+
+#: admin/accounts/index.php:838
+msgid "Charge updated successfully."
+msgstr "Laadimise värskendamine õnnestus."
+
+#: admin/accounts/add-charges-all-member.php:441
+msgid "Charges"
+msgstr "Süüdistused"
+
+#: admin/accounts/add-charges-all-member.php:564
+msgid "Charges Amount"
+msgstr "Tasude summa"
+
+#: admin/accounts/add-charges-all-member.php:567
+msgid "Charges Entry Label"
+msgstr "Tasub kandesilt"
+
+#: admin/accounts/index.php:895
+msgid "Charges List"
+msgstr "Tasude loend"
+
+#: translation_string.php:75
+msgid "Charges Name"
+msgstr "Tasude nimi"
+
+#: admin/accounts/add-charges-all-member.php:505
+#: admin/accounts/add-charges-all-member.php:529
+#: admin/accounts/add-charges-all-member.php:562
+msgid "Charges Payment"
+msgstr "Tasud Makse"
+
+#: admin/accounts/recuring_charg_list.php:38
+#: admin/accounts/recuring_charg_list.php:51
+msgid "Charges type"
+msgstr "Tasude tüüp"
+
+#: template/visitor-manage/staff_checkin.php:119
+#: template/visitor-manage/visitor_checkin.php:249
+msgid "Check In Date"
+msgstr "Saabumise kuupäev"
+
+#: admin/visitor-manage/staff-checkin.php:137
+msgid "Check in Date and Time"
+msgstr "Kontrollige sisse kuupäev ja kellaaeg"
+
+#: template/visitor-manage/staff_checkin.php:124
+#: template/visitor-manage/visitor_checkin.php:254
+msgid "Check In Time"
+msgstr "Check In Time"
+
+#: admin/visitor-manage/staff-checkin-list.php:74
+#: admin/visitor-manage/visitor-checkin-list.php:209
+#: template/visitor-manage/staff_checkinlist.php:89
+#: template/visitor-manage/visitor-manage.php:563
+msgid "Check Out"
+msgstr "Check out"
+
+#: admin/visitor-manage/staff-checkin-list.php:32
+#: admin/visitor-manage/staff-checkin-list.php:42
+#: admin/visitor-manage/visitor-checkin-list.php:133
+#: admin/visitor-manage/visitor-checkin-list.php:145
+#: template/visitor-manage/staff_checkinlist.php:29
+#: template/visitor-manage/staff_checkinlist.php:41
+#: template/visitor-manage/visitor-manage.php:405
+#: template/visitor-manage/visitor-manage.php:418
+msgid "Checked In Date"
+msgstr "Kontrollitud kuupäev"
+
+#: admin/visitor-manage/staff-checkin-list.php:43
+#: admin/visitor-manage/visitor-checkin-list.php:134
+#: admin/visitor-manage/visitor-checkin-list.php:146
+#: template/visitor-manage/visitor-manage.php:406
+#: template/visitor-manage/visitor-manage.php:419
+msgid "Checked In On Time"
+msgstr "Registreeriti õigeaegselt"
+
+#: admin/visitor-manage/staff-checkin-list.php:33
+#: template/visitor-manage/staff_checkinlist.php:30
+#: template/visitor-manage/staff_checkinlist.php:42
+msgid "Checked in On Time"
+msgstr "Registreerus õigeaegselt"
+
+#: admin/visitor-manage/index.php:254
+#: template/visitor-manage/visitor-manage.php:268
+msgid "Checked Out successfully"
+msgstr "Välja registreeritud edukalt"
+
+#: admin/visitor-manage/staff-checkin-list.php:34
+#: admin/visitor-manage/staff-checkin-list.php:44
+#: admin/visitor-manage/visitor-checkin-list.php:135
+#: admin/visitor-manage/visitor-checkin-list.php:147
+#: template/visitor-manage/staff_checkinlist.php:31
+#: template/visitor-manage/staff_checkinlist.php:43
+#: template/visitor-manage/visitor-manage.php:407
+#: template/visitor-manage/visitor-manage.php:420
+msgid "Checked Out Time"
+msgstr "Väljaregistreerimise aeg"
+
+#: admin/visitor-manage/staff-checkin.php:158
+#: admin/visitor-manage/visitor-checkin.php:448
+#: admin/visitor-manage/visitor-checkin.php:448
+#: template/visitor-manage/staff_checkin.php:141
+#: template/visitor-manage/staff_checkin.php:141
+#: template/visitor-manage/visitor_checkin.php:406
+#: template/visitor-manage/visitor_checkin.php:406
+msgid "Checkin"
+msgstr "Checkin"
+
+#: translation_string.php:42 translation_string.php:44
+msgid "Checkout"
+msgstr "Kassas"
+
+#: translation_string.php:71
+msgid "Cheque"
+msgstr "Kontrollima"
+
+#: admin/visitor-manage/staff-checkin.php:67
+#: admin/visitor-manage/visitor-checkin.php:140
+#: template/visitor-manage/staff_checkin.php:49
+#: template/visitor-manage/visitor_checkin.php:83
+msgid "Choose Gate"
+msgstr "Valige värav"
+
+#: admin/general-settings.php:148 admin/accountant/add_accountant.php:166
+#: admin/ducuments/add-document.php:689 admin/gatekeeper/add_gatekeeper.php:154
+#: admin/member/add_accountant.php:178 admin/member/add_gatekeeper.php:203
+#: admin/member/add_member.php:486 admin/member/add_staff_member.php:221
+#: admin/member/view_user.php:287 admin/parking/assign-sloat.php:763
+#: admin/residential-unit/index.php:699
+#: admin/staff-member/add_staff_member.php:166
+#: template/accountant/add_accountant.php:166
+#: template/gatekeeper/gatekeeper.php:583 template/member/add_member.php:480
+#: template/member/view_member.php:332
+#: template/parking-manager/parking-manager.php:788
+msgid "City"
+msgstr "Linn"
+
+#: admin/ducuments/add-document.php:863 admin/ducuments/add-document.php:990
+#: admin/member/add_member.php:941 admin/parking/assign-sloat.php:940
+#: admin/parking/assign-sloat.php:1073 admin/residential-unit/index.php:876
+#: admin/residential-unit/index.php:1010
+#: admin/visitor-manage/visitor-checkin.php:582 template/member/member.php:659
+#: template/parking-manager/parking-manager.php:966
+#: template/parking-manager/parking-manager.php:1094
+msgid "Close"
+msgstr "Sulge"
+
+#: admin/complaint/add_complaint.php:256 admin/complaint/add_complaint.php:304
+#: admin/complaint/index.php:240 template/complaint/add_complain.php:279
+#: template/complaint/add_complain.php:321 template/complaint/complaint.php:320
+msgid "Closed"
+msgstr "Suletud"
+
+#: admin/parking/add-sloat.php:79 admin/parking/index.php:236
+#: admin/parking/index.php:244 template/parking-manager/add_sloat.php:77
+#: template/parking-manager/parking-manager.php:270
+#: template/parking-manager/parking-manager.php:280
+msgid "Comment"
+msgstr "Kommentaar"
+
+#: admin/general-settings.php:124
+msgid "Commercial"
+msgstr "Reklaam"
+
+#: admin/admin.php:23
+msgid "Commercial Unit "
+msgstr "Äriüksus"
+
+#: admin/residential-unit/index.php:180
+msgid "Commercial Unit List"
+msgstr "Äriüksuste loetelu"
+
+#: admin/ducuments/add-document.php:640 admin/parking/assign-sloat.php:715
+#: admin/residential-unit/index.php:650 template/member/add_member.php:432
+#: template/parking-manager/parking-manager.php:739
+msgid "Commitee Member"
+msgstr "Komisjoni liige"
+
+#: fronted_template.php:485 admin/dasboard.php:187
+msgid "Committee"
+msgstr "Komisjon"
+
+#: amgt-function.php:36 amgt-function.php:101
+#: admin/access_right/Accountant.php:325 admin/access_right/Gatekeeper.php:325
+#: admin/access_right/Member.php:325 admin/access_right/Staff_Member.php:325
+#: admin/member/add_member.php:426
+msgid "Committee Member"
+msgstr "Komitee liige"
+
+#: admin/committee-member/index.php:20
+#: template/committee-member/committee-member.php:48
+msgid "Committee Member List"
+msgstr "Komitee liikmete nimekiri"
+
+#: admin/admin.php:28
+msgid "Committee Members"
+msgstr "Komitee liikmed"
+
+#: amgt-function.php:42 fronted_template.php:677 admin/admin.php:34
+#: admin/admin.php:34 admin/dasboard.php:291
+#: admin/access_right/Accountant.php:595 admin/access_right/Gatekeeper.php:594
+#: admin/access_right/Member.php:595 admin/access_right/Staff_Member.php:595
+#: admin/complaint/add_complaint.php:130 admin/complaint/index.php:190
+#: template/complaint/add_complain.php:131 template/complaint/complaint.php:280
+msgid "Complaint"
+msgstr "Kaebus"
+
+#: admin/complaint/add_complaint.php:271
+#: template/complaint/add_complain.php:290
+#| msgid "Complain Date"
+msgid "Complaint Date"
+msgstr "Kaebuse esitamise kuupäev"
+
+#: admin/complaint/index.php:95 template/complaint/complaint.php:116
+#| msgid "Complain deleted successfully"
+msgid "Complaint deleted successfully"
+msgstr "Kaebuse kustutamine õnnestus"
+
+#: admin/notification-templates/index.php:507
+#: admin/notification-templates/index.php:563
+#| msgid "Complain Description"
+msgid "Complaint Description"
+msgstr "Kaebuse kirjeldus"
+
+#: translation_string.php:29
+msgid "Complaint Details"
+msgstr "Kaebuse üksikasjad"
+
+#: admin/notification-templates/index.php:509
+#: admin/notification-templates/index.php:565
+#: admin/notification-templates/index.php:566
+#| msgid "Complain From"
+msgid "Complaint From"
+msgstr "Kaebus alates"
+
+#: admin/complaint/index.php:78 template/complaint/complaint.php:96
+#| msgid "Complain inserted successfully"
+msgid "Complaint inserted successfully"
+msgstr "Kaebuse sisestamine õnnestus"
+
+#: admin/notification-templates/index.php:510
+#: admin/notification-templates/index.php:567
+#| msgid "Complain Link"
+msgid "Complaint Link"
+msgstr "Kaebage link"
+
+#: admin/complaint/index.php:108 template/complaint/complaint.php:138
+#| msgid "Complain List"
+msgid "Complaint List"
+msgstr "Kaebuste nimekiri"
+
+#: admin/notification-templates/index.php:503
+#: admin/notification-templates/index.php:559
+#| msgid "Complain Nature"
+msgid "Complaint Nature"
+msgstr "Kaebama loodust"
+
+#: admin/notification-templates/index.php:506
+#: admin/notification-templates/index.php:562 admin/report/index.php:33
+#: template/report/report.php:37
+msgid "Complaint Status"
+msgstr "Kaebuse olek"
+
+#: fronted_template.php:745 admin/dasboard.php:304
+#| msgid "Complain Title"
+msgid "Complaint Title"
+msgstr "Kaebuse pealkiri"
+
+#: admin/complaint/index.php:85 template/complaint/complaint.php:106
+#| msgid "Complain updated successfully."
+msgid "Complaint updated successfully."
+msgstr "Kaebuse värskendamine õnnestus."
+
+#: admin/message/index.php:50 admin/message/index.php:60
+#: template/message/message.php:82 template/message/message.php:93
+msgid "Compose"
+msgstr "Koosta"
+
+#: admin/complaint/add_complaint.php:164
+#: admin/visitor-manage/visitor-checkin.php:208
+#: admin/visitor-manage/visitor-checkin.php:489
+#: template/visitor-manage/visitor_checkin.php:163
+msgid "Compound"
+msgstr "Ühend"
+
+#: admin/dasboard.php:363
+msgid "Compound Name"
+msgstr "Ühendi nimi"
+
+#: translation_string.php:36
+msgid "COMPOUND: "
+msgstr "ÜHEND:"
+
+#: admin/dasboard.php:210
+msgid "Compounds"
+msgstr "Ühendid"
+
+#: admin/dasboard.php:346
+msgid "Compounds Units"
+msgstr "Ühendid Ühikud"
+
+#: template/profile/profile.php:306 template/profile/profile.php:308
+msgid "Confirm Password"
+msgstr "Kinnita salasõna"
+
+#: template/profile/profile.php:195
+msgid "Confirm password does not match."
+msgstr "Kinnitage, et parool ei ühti."
+
+#: admin/service/add_service.php:74 admin/service/index.php:128
+#: admin/service/index.php:139 template/services/add_services.php:60
+#: template/services/services.php:190 template/services/services.php:207
+msgid "Contact Number"
+msgstr "Kontakti number"
+
+#: admin/general-settings.php:460
+msgid "Corporate ID"
+msgstr "Ettevõtte ID"
+
+#: admin/ducuments/add-document.php:680 admin/member/add_member.php:477
+#: admin/parking/assign-sloat.php:754 admin/residential-unit/index.php:689
+#: template/member/add_member.php:470
+#: template/parking-manager/parking-manager.php:779
+msgid "Correspondence Address"
+msgstr "Kirjavahetuse aadress"
+
+#: admin/report/complaint.php:29 template/report/complaint.php:9
+msgid "Count"
+msgstr "Krahv"
+
+#: admin/general-settings.php:166 admin/accountant/add_accountant.php:180
+#: admin/ducuments/add-document.php:703 admin/gatekeeper/add_gatekeeper.php:166
+#: admin/member/add_accountant.php:192 admin/member/add_gatekeeper.php:217
+#: admin/member/add_member.php:500 admin/member/add_staff_member.php:235
+#: admin/member/view_user.php:311 admin/parking/assign-sloat.php:777
+#: admin/residential-unit/index.php:713
+#: admin/staff-member/add_staff_member.php:178
+#: template/accountant/add_accountant.php:180
+#: template/gatekeeper/gatekeeper.php:597 template/member/add_member.php:494
+#: template/member/view_member.php:360
+#: template/parking-manager/parking-manager.php:802
+msgid "Country"
+msgstr "Riik"
+
+#: admin/complaint/index.php:155 admin/complaint/index.php:168
+#: template/complaint/complaint.php:188 template/complaint/complaint.php:201
+msgid "Created By"
+msgstr "Loodud"
+
+#: translation_string.php:33
+msgid "Created By:"
+msgstr "Loodud:"
+
+#: admin/accounts/recuring_charg_list.php:45
+#: admin/accounts/recuring_charg_list.php:58
+msgid "Created Date"
+msgstr "Loomise kuupäev"
+
+#: template/profile/profile.php:287 template/profile/profile.php:289
+msgid "Current Password"
+msgstr "Praegune salasõna"
+
+#: admin/general-settings.php:346
+msgid "Czech Koruna"
+msgstr "Tšehhi kroon"
+
+#: admin/general-settings.php:348
+msgid "Danish Krone"
+msgstr "Taani kroon"
+
+#: amgt-function.php:378 fronted_template.php:322 admin/admin.php:12
+#: admin/admin.php:12
+msgid "Dashboard"
+msgstr "Armatuurlaud"
+
+#: admin/complaint/add_complaint.php:317 admin/complaint/index.php:156
+#: admin/complaint/index.php:169 admin/facility/index.php:467
+#: admin/message/inbox.php:40
+#: admin/report/download_income_expense_report.php:76
+#: admin/report/download_income_expense_report.php:84
+#: template/complaint/add_complain.php:334 template/complaint/complaint.php:189
+#: template/complaint/complaint.php:202 template/facility/facility.php:416
+#: template/message/inbox.php:37
+msgid "Date"
+msgstr "Kuupäev"
+
+#: admin/general-settings.php:275
+msgid "Date Format"
+msgstr "Kuupäevavorming"
+
+#: admin/member/view_user.php:134 template/member/view_member.php:148
+msgid "Date Of Birth"
+msgstr "Sünnikuupäev"
+
+#: admin/accountant/add_accountant.php:110 admin/ducuments/add-document.php:501
+#: admin/gatekeeper/add_gatekeeper.php:81 admin/member/add_accountant.php:121
+#: admin/member/add_gatekeeper.php:114 admin/member/add_member.php:257
+#: admin/member/add_staff_member.php:123 admin/parking/assign-sloat.php:578
+#: admin/residential-unit/index.php:514
+#: admin/staff-member/add_staff_member.php:87
+#: template/accountant/add_accountant.php:110
+#: template/gatekeeper/gatekeeper.php:501 template/member/add_member.php:270
+#: template/parking-manager/parking-manager.php:602
+msgid "Date of birth"
+msgstr "Sünnikuupäev"
+
+#: admin/report/complaint.php:31 template/report/complaint.php:13
+msgid "Deactivated"
+msgstr "Deaktiveeritud"
+
+#: admin/report/expense.php:4 admin/report/payment.php:4
+#: template/report/expense.php:4 template/report/payment.php:4
+msgid "December"
+msgstr "Detsembrini"
+
+#: admin/access_right/Accountant.php:226 admin/access_right/Gatekeeper.php:226
+#: admin/access_right/Member.php:226 admin/access_right/Staff_Member.php:226
+#: admin/accountant/index.php:218 admin/accounts/add-charges-all-member.php:514
+#: admin/accounts/add-charges-all-member.php:571
+#: admin/accounts/add-charges-all-member.php:697
+#: admin/accounts/add-charges-all-member.php:733
+#: admin/accounts/add-charges-all-member.php:775
+#: admin/accounts/add-charges-all-member.php:912
+#: admin/accounts/add-charges-all-member.php:944
+#: admin/accounts/expense-list.php:57 admin/accounts/index.php:1167
+#: admin/accounts/recuring_charg_list.php:132
+#: admin/assets-inventory/index.php:237
+#: admin/assets-inventory/inventory-list.php:56 admin/complaint/index.php:267
+#: admin/ducuments/add-document.php:303 admin/ducuments/add-document.php:966
+#: admin/ducuments/index.php:214 admin/facility/facility-booking-list.php:128
+#: admin/facility/index.php:497 admin/gatekeeper/index.php:210
+#: admin/member/accountant_list.php:117 admin/member/add_member.php:916
+#: admin/member/gatekeeper_list.php:127 admin/member/member_list.php:157
+#: admin/member/staff_list.php:117 admin/member-corner/index.php:157
+#: admin/message/view_message.php:93 admin/message/view_message.php:126
+#: admin/notice-events/event_list.php:69 admin/notice-events/index.php:368
+#: admin/parking/assign-sloat.php:1046 admin/parking/assigned-sloat-list.php:90
+#: admin/parking/index.php:265 admin/residential-unit/add_unit.php:225
+#: admin/residential-unit/index.php:306 admin/residential-unit/index.php:983
+#: admin/service/index.php:164 admin/staff-member/index.php:216
+#: admin/tax/index.php:147 admin/visitor-manage/index.php:392
+#: admin/visitor-manage/index.php:424 admin/visitor-manage/index.php:518
+#: admin/visitor-manage/staff-checkin-list.php:71
+#: admin/visitor-manage/visitor-checkin-list.php:206
+#: admin/visitor-manage/visitor-checkin.php:84
+#: admin/visitor-manage/visitor-checkin.php:356
+#: admin/visitor-manage/visitor-checkin.php:555
+#: template/accountant/accountant.php:359
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:318
+#: template/assets-inventory-tracker/inventory_list.php:83
+#: template/complaint/complaint.php:359
+#: template/documents/add_documents.php:249
+#: template/documents/documents.php:323
+#: template/facility/facility-booking-list.php:172
+#: template/facility/facility.php:443 template/gatekeeper/gatekeeper.php:360
+#: template/member/member.php:504 template/member/member.php:632
+#: template/message/view_message.php:118 template/message/view_message.php:157
+#: template/notice-event/event_list.php:162
+#: template/notice-event/notice-event.php:467
+#: template/parking-manager/assigned-sloat-list.php:182
+#: template/parking-manager/parking-manager.php:359
+#: template/parking-manager/parking-manager.php:1071
+#: template/resident_unit/add_unit.php:197
+#: template/resident_unit/resident_unit.php:320
+#: template/resident_unit/resident_unit.php:369
+#: template/resident_unit/resident_unit.php:418
+#: template/services/services.php:301
+#: template/visitor-manage/staff_checkinlist.php:84
+#: template/visitor-manage/visitor-manage.php:553
+#: template/visitor-manage/visitor_checkin.php:46
+#: template/visitor-manage/visitor_checkin.php:313
+msgid "Delete"
+msgstr "Kustuta"
+
+#: fronted_template.php:63 fronted_template.php:649 fronted_template.php:751
+#: admin/dasboard.php:267 admin/dasboard.php:310
+#: admin/accounts/add-charges-all-member.php:853
+#: admin/accounts/add-expense.php:159 admin/complaint/add_complaint.php:338
+#: admin/complaint/index.php:159 admin/complaint/index.php:172
+#: admin/ducuments/add-document.php:276 admin/ducuments/add-document.php:298
+#: admin/ducuments/index.php:178 admin/ducuments/index.php:189
+#: admin/member-corner/add_rule.php:34 admin/member-corner/index.php:124
+#: admin/member-corner/index.php:133 admin/message/inbox.php:37
+#: admin/message/sendbox.php:36 admin/notice-events/add_event.php:90
+#: admin/notice-events/add_notice.php:113 admin/notice-events/index.php:318
+#: admin/notice-events/index.php:328 admin/parking/assign-sloat.php:387
+#: admin/visitor-manage/staff-checkin.php:150
+#: admin/visitor-manage/visitor-checkin.php:306
+#: template/complaint/add_complain.php:355 template/complaint/complaint.php:192
+#: template/complaint/complaint.php:205
+#: template/documents/add_documents.php:243
+#: template/documents/documents.php:229 template/documents/documents.php:239
+#: template/message/inbox.php:36 template/message/sendbox.php:40
+#: template/notice-event/add_event.php:85
+#: template/notice-event/add_notice.php:107
+#: template/notice-event/notice-event.php:361
+#: template/notice-event/notice-event.php:371
+#: template/parking-manager/assign_sloat.php:349
+#: template/visitor-manage/staff_checkin.php:133
+#: template/visitor-manage/visitor_checkin.php:263
+msgid "Description"
+msgstr "Kirjeldus"
+
+#: admin/dasboard.php:31
+msgid "Description:"
+msgstr "Kirjeldus:"
+
+#: admin/committee-member/index.php:56 admin/committee-member/index.php:68
+#: template/committee-member/committee-member.php:86
+#: template/committee-member/committee-member.php:102
+msgid "Designation"
+msgstr "Määramine"
+
+#: translation_string.php:9
+msgid "Designation Name"
+msgstr "Nimetuse nimi"
+
+#: admin/report/complaint.php:33 template/report/complaint.php:16
+msgid "Device BY Activated/Deactivated Status"
+msgstr "Seadme BY olek aktiveeritud / deaktiveeritud"
+
+#: admin/accounts/add-charges-all-member.php:614
+#: admin/accounts/recuring_charg_list.php:41
+#: admin/accounts/recuring_charg_list.php:54
+msgid "Discount Amount"
+msgstr "Allahindluse summa"
+
+#: translation_string.php:18 translation_string.php:19
+msgid "Discount Amount :"
+msgstr "Allahindluse summa:"
+
+#: admin/accountant/index.php:218 admin/accounts/expense-list.php:56
+#: admin/accounts/index.php:1166 admin/accounts/recuring_charg_list.php:131
+#: admin/assets-inventory/index.php:236
+#: admin/assets-inventory/inventory-list.php:55 admin/complaint/index.php:266
+#: admin/ducuments/index.php:213 admin/facility/facility-booking-list.php:127
+#: admin/facility/index.php:496 admin/gatekeeper/index.php:209
+#: admin/member/accountant_list.php:116 admin/member/gatekeeper_list.php:126
+#: admin/member/member_list.php:156 admin/member/staff_list.php:116
+#: admin/member-corner/index.php:156 admin/notice-events/event_list.php:68
+#: admin/notice-events/index.php:367 admin/parking/assigned-sloat-list.php:89
+#: admin/parking/index.php:264 admin/residential-unit/index.php:305
+#: admin/service/index.php:163 admin/staff-member/index.php:215
+#: admin/tax/index.php:146 admin/visitor-manage/staff-checkin-list.php:70
+#: admin/visitor-manage/visitor-checkin-list.php:205
+#: template/accountant/accountant.php:359
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:317
+#: template/assets-inventory-tracker/inventory_list.php:82
+#: template/complaint/complaint.php:358 template/documents/documents.php:322
+#: template/facility/facility-booking-list.php:171
+#: template/facility/facility.php:442 template/gatekeeper/gatekeeper.php:359
+#: template/member/member.php:503 template/notice-event/event_list.php:161
+#: template/notice-event/notice-event.php:466
+#: template/parking-manager/assigned-sloat-list.php:181
+#: template/parking-manager/parking-manager.php:358
+#: template/resident_unit/resident_unit.php:319
+#: template/resident_unit/resident_unit.php:368
+#: template/resident_unit/resident_unit.php:417
+#: template/services/services.php:300
+#: template/visitor-manage/staff_checkinlist.php:83
+#: template/visitor-manage/visitor-manage.php:552
+msgid "Do you really want to delete this record?"
+msgstr "Kas soovite selle kirje tõesti kustutada?"
+
+#: admin/complaint/add_complaint.php:350 admin/complaint/add_complaint.php:369
+#: admin/notice-events/add_event.php:131 admin/notice-events/add_notice.php:98
+#: template/complaint/add_complain.php:367
+#: template/complaint/add_complain.php:386
+#: template/notice-event/add_event.php:121
+#: template/notice-event/add_notice.php:94
+msgid "Document"
+msgstr "Dokument"
+
+#: admin/ducuments/index.php:117 template/documents/documents.php:158
+msgid "Document deleted successfully"
+msgstr "Dokumendi kustutamine õnnestus"
+
+#: admin/ducuments/index.php:100 template/documents/documents.php:136
+msgid "Document inserted successfully"
+msgstr "Dokumendi sisestamine õnnestus"
+
+#: admin/ducuments/index.php:131 admin/member/view_user.php:412
+#: template/documents/documents.php:179 template/member/view_member.php:468
+msgid "Document List"
+msgstr "Dokumendiloend"
+
+#: translation_string.php:46
+msgid "Document Submitted Date"
+msgstr "Dokumendi esitamise kuupäev"
+
+#: translation_string.php:47
+msgid "Document Title"
+msgstr "Dokumendi pealkiri"
+
+#: admin/ducuments/index.php:107 template/documents/documents.php:147
+msgid "Document updated successfully."
+msgstr "Dokumendi värskendamine õnnestus."
+
+#: amgt-function.php:48 fronted_template.php:64 admin/admin.php:46
+#: admin/admin.php:46 admin/access_right/Accountant.php:820
+#: admin/access_right/Gatekeeper.php:819 admin/access_right/Member.php:820
+#: admin/access_right/Staff_Member.php:820
+msgid "Documents"
+msgstr "Dokumendid"
+
+#: admin/dasboard.php:32
+msgid "Documents:"
+msgstr "Dokumendid:"
+
+#: admin/setupform/index.php:51
+msgid "Domain"
+msgstr "Domeen"
+
+#: admin/member/add_member.php:698 template/member/add_member.php:688
+msgid "Download"
+msgstr "Lae alla"
+
+#: admin/report/index.php:41
+msgid "Download Expense Report"
+msgstr "Laadige alla kulude aruanne"
+
+#: admin/report/index.php:37
+msgid "Download Income Report"
+msgstr "Laadige alla tulude aruanne"
+
+#: admin/report/download_expense_report.php:38
+#: admin/report/download_income_expense_report.php:38
+msgid "Download Report"
+msgstr "Aruande allalaadimine"
+
+#: admin/accounts/index.php:977 admin/accounts/index.php:995
+msgid "Due Amount"
+msgstr "Maksmisele kuuluv summa"
+
+#: translation_string.php:21
+msgid "Due Amount :"
+msgstr "Tähtaeg:"
+
+#: admin/access_right/Accountant.php:225 admin/access_right/Gatekeeper.php:225
+#: admin/access_right/Member.php:225 admin/access_right/Staff_Member.php:225
+#: admin/accountant/index.php:217 admin/accounts/expense-list.php:55
+#: admin/accounts/recuring_charg_list.php:130
+#: admin/assets-inventory/index.php:233
+#: admin/assets-inventory/inventory-list.php:52 admin/complaint/index.php:264
+#: admin/ducuments/index.php:210 admin/facility/facility-booking-list.php:125
+#: admin/facility/index.php:494 admin/gatekeeper/index.php:207
+#: admin/member/accountant_list.php:114 admin/member/gatekeeper_list.php:124
+#: admin/member/member_list.php:154 admin/member/staff_list.php:114
+#: admin/member-corner/index.php:154 admin/notice-events/event_list.php:66
+#: admin/notice-events/index.php:365 admin/parking/assigned-sloat-list.php:87
+#: admin/parking/index.php:262 admin/residential-unit/index.php:303
+#: admin/service/index.php:161 admin/staff-member/index.php:213
+#: admin/tax/index.php:144 admin/visitor-manage/staff-checkin-list.php:68
+#: admin/visitor-manage/visitor-checkin-list.php:203
+#: template/accountant/accountant.php:353
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:311
+#: template/assets-inventory-tracker/inventory_list.php:77
+#: template/complaint/complaint.php:352 template/documents/documents.php:316
+#: template/facility/facility-booking-list.php:165
+#: template/facility/facility.php:435 template/gatekeeper/gatekeeper.php:353
+#: template/member/member.php:497 template/notice-event/event_list.php:154
+#: template/notice-event/notice-event.php:459
+#: template/parking-manager/assigned-sloat-list.php:174
+#: template/parking-manager/parking-manager.php:351
+#: template/resident_unit/resident_unit.php:313
+#: template/resident_unit/resident_unit.php:362
+#: template/resident_unit/resident_unit.php:411
+#: template/services/services.php:294
+#: template/visitor-manage/staff_checkinlist.php:76
+#: template/visitor-manage/visitor-manage.php:546
+msgid "Edit"
+msgstr "Muuda"
+
+#: admin/accountant/index.php:137 template/accountant/accountant.php:186
+msgid "Edit Accountant"
+msgstr "Redigeeri raamatupidajat"
+
+#: admin/assets-inventory/index.php:146
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:191
+msgid "Edit Asset"
+msgstr "Muuda vara"
+
+#: admin/facility/index.php:390 template/facility/facility.php:336
+msgid "Edit Booked Facility"
+msgstr "Redigeeri broneeritud rajatist"
+
+#: admin/accounts/index.php:901
+msgid "Edit Charges"
+msgstr "Muuda tasusid"
+
+#: admin/residential-unit/index.php:195
+#: template/resident_unit/resident_unit.php:145
+msgid "Edit Commercial Unit"
+msgstr "Muuda äriüksust"
+
+#: admin/complaint/index.php:113 template/complaint/complaint.php:145
+#| msgid "Edit Complain"
+msgid "Edit Complaint"
+msgstr "Redigeeri kaebust"
+
+#: admin/ducuments/index.php:136 template/documents/documents.php:186
+msgid "Edit Document"
+msgstr "Redigeeri dokumenti"
+
+#: admin/notice-events/index.php:278 template/notice-event/notice-event.php:318
+msgid "Edit Event"
+msgstr "Redigeeri sündmust"
+
+#: admin/accounts/index.php:921
+msgid "Edit Expense"
+msgstr "Redigeeri kulusid"
+
+#: admin/facility/index.php:375 template/facility/facility.php:314
+msgid "Edit Facility"
+msgstr "Muuda rajatist"
+
+#: amgt-function.php:541
+msgid "Edit FAQ"
+msgstr "Muuda KKK-d"
+
+#: admin/gatekeeper/index.php:130 template/gatekeeper/gatekeeper.php:182
+msgid "Edit Gatekeeper"
+msgstr "Redigeeri väravavahti"
+
+#: admin/assets-inventory/index.php:161
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:213
+msgid "Edit Inventory"
+msgstr "Varude muutmine"
+
+#: template/member/member.php:302
+msgid "Edit Member"
+msgstr "Muuda liiget"
+
+#: admin/notice-events/index.php:263 template/notice-event/notice-event.php:296
+msgid "Edit Notice"
+msgstr "Redigeerimise teade"
+
+#: amgt-function.php:578
+msgid "Edit Photo Gallery"
+msgstr "Redigeeri fotogaleriid"
+
+#: admin/residential-unit/index.php:191
+#: template/resident_unit/resident_unit.php:141
+msgid "Edit Residential Unit"
+msgstr "Redigeeri elamut"
+
+#: admin/member-corner/index.php:86
+msgid "Edit Rule"
+msgstr "Redigeeri reeglit"
+
+#: amgt-function.php:503
+msgid "Edit Rules"
+msgstr "Reeglite muutmine"
+
+#: admin/service/index.php:88 template/services/services.php:139
+msgid "Edit Service"
+msgstr "Muuda teenust"
+
+#: admin/parking/index.php:212
+msgid "Edit Sloat Assigned"
+msgstr "Redigeeri Sloat määratud"
+
+#: admin/parking/index.php:199 template/parking-manager/parking-manager.php:212
+msgid "Edit Slot"
+msgstr "Redigeeri pesa"
+
+#: template/parking-manager/parking-manager.php:231
+msgid "Edit Slot Assigned"
+msgstr "Redigeeri pesa määratud"
+
+#: admin/visitor-manage/index.php:321
+#: template/visitor-manage/visitor-manage.php:362
+msgid "Edit Staff Checkin"
+msgstr "Redigeeri personali registreerimist"
+
+#: admin/staff-member/index.php:130
+msgid "Edit Staff Member"
+msgstr "Redigeeri töötaja"
+
+#: admin/tax/index.php:85
+msgid "Edit Tax"
+msgstr "Redigeeri maksu"
+
+#: admin/visitor-manage/index.php:307
+#: template/visitor-manage/visitor-manage.php:334
+msgid "Edit Visitor Request"
+msgstr "Muuda külastajate taotlust"
+
+#: admin/general-settings.php:197 admin/accountant/add_accountant.php:136
+#: admin/accountant/index.php:176 admin/accountant/index.php:186
+#: admin/committee-member/index.php:59 admin/committee-member/index.php:71
+#: admin/ducuments/add-document.php:718 admin/gatekeeper/add_gatekeeper.php:129
+#: admin/gatekeeper/index.php:170 admin/gatekeeper/index.php:180
+#: admin/member/accountant_list.php:45 admin/member/accountant_list.php:55
+#: admin/member/add_accountant.php:147 admin/member/add_gatekeeper.php:172
+#: admin/member/add_member.php:516 admin/member/add_staff_member.php:188
+#: admin/member/gatekeeper_list.php:45 admin/member/gatekeeper_list.php:55
+#: admin/member/member_list.php:95 admin/member/member_list.php:107
+#: admin/member/staff_list.php:45 admin/member/staff_list.php:55
+#: admin/parking/assign-sloat.php:792 admin/residential-unit/index.php:728
+#: admin/service/add_service.php:94 admin/service/index.php:130
+#: admin/service/index.php:141 admin/setupform/index.php:68
+#: admin/staff-member/add_staff_member.php:140 admin/staff-member/index.php:171
+#: admin/staff-member/index.php:182 template/accountant/accountant.php:237
+#: template/accountant/accountant.php:253
+#: template/accountant/add_accountant.php:136
+#: template/committee-member/committee-member.php:88
+#: template/committee-member/committee-member.php:104
+#: template/gatekeeper/gatekeeper.php:232
+#: template/gatekeeper/gatekeeper.php:248
+#: template/gatekeeper/gatekeeper.php:552 template/member/add_member.php:510
+#: template/member/member.php:358 template/member/member.php:370
+#: template/parking-manager/parking-manager.php:818
+#: template/profile/profile.php:352 template/services/add_services.php:82
+#: template/services/services.php:192 template/services/services.php:209
+#: template/staff-members/staff-members.php:82
+#: template/staff-members/staff-members.php:92
+msgid "Email"
+msgstr "E-post"
+
+#: translation_string.php:93
+msgid "Email Already in use"
+msgstr "Email on juba kasutusel"
+
+#: translation_string.php:92
+msgid "Email is not valid"
+msgstr "E-post ei kehti"
+
+#: admin/notification-templates/index.php:142
+#: admin/notification-templates/index.php:190
+#: admin/notification-templates/index.php:237
+#: admin/notification-templates/index.php:284
+#: admin/notification-templates/index.php:329
+#: admin/notification-templates/index.php:379
+#: admin/notification-templates/index.php:430
+#: admin/notification-templates/index.php:483
+#: admin/notification-templates/index.php:538
+#: admin/notification-templates/index.php:594
+#: admin/notification-templates/index.php:648
+#: admin/notification-templates/index.php:704
+#: admin/notification-templates/index.php:759
+#: admin/notification-templates/index.php:805
+#: admin/notification-templates/index.php:853
+#: admin/notification-templates/index.php:899
+#: admin/notification-templates/index.php:948
+#: admin/notification-templates/index.php:994
+#: admin/notification-templates/index.php:1046
+msgid "Email Subject"
+msgstr "E-posti teema"
+
+#: template/message/view_message.php:87
+msgid "Employee"
+msgstr "Töötaja"
+
+#: admin/general-settings.php:255 admin/general-settings.php:267
+#: admin/general-settings.php:298 admin/general-settings.php:314
+#: admin/general-settings.php:423
+msgid "Enable"
+msgstr "Luba"
+
+#: admin/general-settings.php:419
+msgid "Enable Charges"
+msgstr "Luba tasud"
+
+#: admin/general-settings.php:251
+msgid "Enable Notifications"
+msgstr "Luba märguanded"
+
+#: admin/general-settings.php:310
+msgid "Enable Sandbox"
+msgstr "Luba liivakast"
+
+#: fronted_template.php:60 admin/accounts/add-charges-all-member.php:128
+#: admin/facility/booking-facility.php:156
+#: admin/facility/facility-booking-list.php:35
+#: admin/facility/facility-booking-list.php:50
+#: admin/notice-events/add_event.php:117 admin/notice-events/event_list.php:28
+#: admin/notice-events/event_list.php:38
+#: admin/notification-templates/index.php:616
+#: admin/report/download_expense_report.php:33
+#: admin/report/download_income_expense_report.php:33
+#: admin/visitor-manage/visitor-checkin-list.php:90
+#: template/facility/booking-facility.php:155
+#: template/facility/facility-booking-list.php:35
+#: template/facility/facility-booking-list.php:51
+#: template/notice-event/add_event.php:106
+#: template/notice-event/event_list.php:68
+#: template/notice-event/event_list.php:78
+msgid "End Date"
+msgstr "Lõppkuupäev"
+
+#: admin/dasboard.php:28
+msgid "End Date:"
+msgstr "Lõppkuupäev:"
+
+#: fronted_template.php:62 admin/facility/booking-facility.php:190
+#: admin/facility/facility-booking-list.php:37
+#: admin/facility/facility-booking-list.php:52
+#: admin/notice-events/add_event.php:122 admin/notice-events/event_list.php:30
+#: admin/notice-events/event_list.php:40
+#: template/facility/booking-facility.php:187
+#: template/facility/facility-booking-list.php:37
+#: template/facility/facility-booking-list.php:53
+#: template/notice-event/add_event.php:111
+#: template/notice-event/event_list.php:69
+#: template/notice-event/event_list.php:79
+msgid "End Time"
+msgstr "Lõpuaeg"
+
+#: admin/dasboard.php:30
+msgid "End Time:"
+msgstr "Lõpuaeg:"
+
+#: admin/general-settings.php:150
+msgid "Enter City Name"
+msgstr "Sisestage linna nimi"
+
+#: template/profile/profile.php:206
+msgid "Enter correct current password."
+msgstr "Sisestage õige praegune parool."
+
+#: template/profile/profile.php:217
+msgid "Enter New password."
+msgstr "Sisestage uus parool."
+
+#: admin/general-settings.php:159
+msgid "Enter State Name"
+msgstr "Sisestage riigi nimi"
+
+#: translation_string.php:16
+msgid "Entry"
+msgstr "Sisenemine"
+
+#: admin/setupform/index.php:60
+msgid "Envato License key"
+msgstr "Envato litsentsivõti"
+
+#: admin/general-settings.php:350
+msgid "Euro"
+msgstr "Euro"
+
+#: admin/notice-events/index.php:234
+msgid "Event Approved successfully."
+msgstr "Sündmus kinnitati edukalt."
+
+#: admin/notice-events/index.php:244
+msgid "Event deleted successfully"
+msgstr "Sündmuse kustutamine õnnestus"
+
+#: admin/notification-templates/index.php:455
+msgid "Event Description"
+msgstr "Sündmuse kirjeldus"
+
+#: translation_string.php:64
+msgid "Event Detail"
+msgstr "Sündmuse detail"
+
+#: fronted_template.php:238
+msgid "Event Details"
+msgstr "Sündmuse üksikasjad"
+
+#: admin/notification-templates/index.php:452
+msgid "Event End Date"
+msgstr "Sündmuse lõppkuupäev"
+
+#: admin/notification-templates/index.php:454
+msgid "Event End Time"
+msgstr "Sündmuse lõpu aeg"
+
+#: admin/notice-events/index.php:219
+msgid "Event inserted successfully"
+msgstr "Sündmus on edukalt sisestatud"
+
+#: template/notice-event/notice-event.php:258
+msgid "Event inserted successfully but display After Admin Approved"
+msgstr ""
+"Sündmus on edukalt sisestatud, kuid kuvatakse pärast administraatori "
+"kinnitust"
+
+#: admin/notification-templates/index.php:456
+msgid "Event Link"
+msgstr "Sündmuse link"
+
+#: admin/notice-events/index.php:273 template/notice-event/notice-event.php:310
+msgid "Event List"
+msgstr "Sündmuste loend"
+
+#: admin/notification-templates/index.php:451
+msgid "Event Start Date"
+msgstr "Sündmuse alguskuupäev"
+
+#: admin/notification-templates/index.php:453
+msgid "Event Start Time"
+msgstr "Sündmuse algusaeg"
+
+#: fronted_template.php:58 admin/notice-events/add_event.php:81
+#: admin/notice-events/event_list.php:26 admin/notice-events/event_list.php:36
+#: admin/notification-templates/index.php:450
+#: template/notice-event/add_event.php:75
+#: template/notice-event/event_list.php:65
+#: template/notice-event/event_list.php:75
+msgid "Event Title"
+msgstr "Sündmuse pealkiri"
+
+#: admin/dasboard.php:26
+msgid "Event Title:"
+msgstr "Sündmuse pealkiri:"
+
+#: admin/notice-events/index.php:226 template/notice-event/notice-event.php:269
+msgid "Event updated successfully."
+msgstr "Sündmuse värskendamine õnnestus."
+
+#: admin/report/expense.php:12 admin/report/expense.php:30
+#: admin/report/index.php:30 template/report/expense.php:12
+#: template/report/expense.php:30 template/report/report.php:32
+msgid "Expense"
+msgstr "Kulu"
+
+#: admin/accounts/index.php:915
+msgid "Expense List"
+msgstr "Kulude loend"
+
+#: admin/report/expense.php:19 template/report/expense.php:19
+msgid "Expense Report By Month"
+msgstr "Kuluaruanne kuude kaupa"
+
+#: admin/accounts/index.php:865
+msgid "Expense Save successfully"
+msgstr "Kulude salvestamine õnnestus"
+
+#: admin/accounts/add-expense.php:88
+msgid "Expense Type"
+msgstr "Kulu tüüp"
+
+#: admin/accounts/expense-list.php:25 admin/accounts/expense-list.php:34
+#: admin/report/download_expense_report.php:76
+#: admin/report/download_expense_report.php:85
+msgid "Expense type"
+msgstr "Kulu tüüp"
+
+#: admin/accounts/index.php:872
+msgid "Expense updated successfully."
+msgstr "Kulu värskendamine õnnestus."
+
+#: amgt-function.php:45 admin/admin.php:40 admin/admin.php:40
+#: admin/access_right/Accountant.php:730 admin/access_right/Gatekeeper.php:729
+#: admin/access_right/Member.php:730 admin/access_right/Staff_Member.php:730
+msgid "Facility"
+msgstr "Rajatis"
+
+#: admin/notification-templates/index.php:767
+msgid "Facility Approved Email Template"
+msgstr "Rajatise kinnitatud meilimall"
+
+#: admin/facility/index.php:353
+msgid "Facility Booking Approved successfully"
+msgstr "Rajatiste broneerimine on edukalt kinnitatud"
+
+#: admin/notification-templates/index.php:656
+#: admin/notification-templates/index.php:712
+msgid "Facility Booking Email Template"
+msgstr "Rajatise broneerimise e-posti mall"
+
+#: admin/facility/index.php:337 template/facility/facility.php:273
+msgid "Facility Booking successfully"
+msgstr "Rajatise broneerimine edukalt"
+
+#: admin/notification-templates/index.php:694
+msgid "Facility Booking Template For Admin"
+msgstr "Ruumide broneerimise mall administraatorile"
+
+#: admin/notification-templates/index.php:638
+msgid "Facility Booking Template For Member"
+msgstr "Teenuse broneerimise mall liikmele"
+
+#: admin/facility/index.php:345 template/facility/facility.php:284
+msgid "Facility Booking Updated successfully"
+msgstr "Rajatiste broneerimine uuendatud edukalt"
+
+#: admin/facility/index.php:432 admin/facility/index.php:442
+#: admin/notification-templates/index.php:675
+#: admin/notification-templates/index.php:731
+#: template/facility/facility.php:376 template/facility/facility.php:390
+msgid "Facility Charge"
+msgstr "Rajatise tasu"
+
+#: admin/facility/index.php:329 template/facility/facility.php:262
+msgid "Facility deleted successfully"
+msgstr "Rajatise kustutamine õnnestus"
+
+#: admin/facility/index.php:311 template/facility/facility.php:240
+msgid "Facility inserted successfully"
+msgstr "Rajatise sisestamine õnnestus"
+
+#: admin/notification-templates/index.php:676
+#: admin/notification-templates/index.php:732
+msgid "Facility Link"
+msgstr "Rajatise link"
+
+#: admin/facility/index.php:369 template/facility/facility.php:305
+msgid "Facility List"
+msgstr "Rajatiste loend"
+
+#: admin/assets-inventory/index.php:200 admin/assets-inventory/index.php:211
+#: admin/facility/add_facility.php:51
+#: admin/facility/facility-booking-list.php:32
+#: admin/facility/facility-booking-list.php:47 admin/facility/index.php:431
+#: admin/facility/index.php:441 admin/notification-templates/index.php:668
+#: admin/notification-templates/index.php:724
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:253
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:266
+#: template/facility/add_facility.php:55
+#: template/facility/facility-booking-list.php:32
+#: template/facility/facility-booking-list.php:48
+#: template/facility/facility.php:375 template/facility/facility.php:389
+msgid "Facility Name"
+msgstr "Rajatise nimi"
+
+#: admin/facility/index.php:320 template/facility/facility.php:251
+msgid "Facility updated successfully."
+msgstr "Rajatist värskendati edukalt."
+
+#: amgt-function.php:52 amgt-function.php:534
+#: admin/access_right/Accountant.php:1000 admin/access_right/Gatekeeper.php:999
+#: admin/access_right/Member.php:1000 admin/access_right/Staff_Member.php:1000
+msgid "FAQ"
+msgstr "KKK"
+
+#: template/faq/faq.php:47
+msgid "FAQ List"
+msgstr "KKK loend"
+
+#: admin/report/expense.php:2 admin/report/payment.php:2
+#: template/report/expense.php:2 template/report/payment.php:2
+msgid "February"
+msgstr "Veebruar"
+
+#: admin/accountant/add_accountant.php:96 admin/ducuments/add-document.php:494
+#: admin/gatekeeper/add_gatekeeper.php:71 admin/member/add_accountant.php:109
+#: admin/member/add_gatekeeper.php:102 admin/member/add_member.php:250
+#: admin/member/add_staff_member.php:111 admin/member/view_user.php:153
+#: admin/parking/assign-sloat.php:571 admin/residential-unit/index.php:507
+#: admin/staff-member/add_staff_member.php:77
+#: template/accountant/add_accountant.php:96
+#: template/gatekeeper/gatekeeper.php:489 template/member/add_member.php:263
+#: template/member/view_member.php:171
+#: template/parking-manager/parking-manager.php:595
+msgid "Female"
+msgstr "Naine"
+
+#: amgt-function.php:1465
+msgid "First"
+msgstr "Esiteks"
+
+#: admin/accountant/add_accountant.php:65 admin/ducuments/add-document.php:462
+#: admin/gatekeeper/add_gatekeeper.php:45 admin/member/add_accountant.php:78
+#: admin/member/add_gatekeeper.php:70 admin/member/add_member.php:218
+#: admin/member/add_staff_member.php:79 admin/parking/assign-sloat.php:539
+#: admin/residential-unit/index.php:475
+#: admin/staff-member/add_staff_member.php:51
+#: template/accountant/add_accountant.php:65
+#: template/gatekeeper/gatekeeper.php:457 template/member/add_member.php:231
+#: template/parking-manager/parking-manager.php:563
+msgid "First Name"
+msgstr "Eesnimi"
+
+#: admin/accounts/add-charges-all-member.php:479
+#: admin/accounts/recuring_charg_list.php:74
+msgid "Fix Charge"
+msgstr "Parandage tasu"
+
+#: admin/accounts/recuring_charg_list.php:100
+msgid "Fix Charges"
+msgstr "Parandage tasusid"
+
+#: admin/visitor-manage/index.php:353
+msgid "For Entry"
+msgstr "Sisenemiseks"
+
+#: admin/visitor-manage/index.php:356
+msgid "For Exit"
+msgstr "Väljapääsu jaoks"
+
+#: admin/parking/assign-sloat.php:228
+#: template/parking-manager/assign_sloat.php:199
+msgid "Four Wheeler"
+msgstr "Neljarattaline"
+
+#: translation_string.php:84
+msgid "From"
+msgstr "Alates"
+
+#: translation_string.php:27
+msgid "From ("
+msgstr "Alates ("
+
+#: admin/message/view_message.php:81
+msgid "From :"
+msgstr "Saatja:"
+
+#: admin/accounts/index.php:980 admin/accounts/index.php:998
+#: admin/parking/assign-sloat.php:368 admin/parking/assigned-sloat-list.php:39
+#: admin/parking/assigned-sloat-list.php:52
+#: template/parking-manager/assigned-sloat-list.php:75
+#: template/parking-manager/assigned-sloat-list.php:90
+#: template/parking-manager/assign_sloat.php:330
+msgid "From Date"
+msgstr "Kuupäevast"
+
+#: translation_string.php:54 admin/message/view_message.php:73
+#: template/message/view_message.php:82 template/message/view_message.php:102
+msgid "From: "
+msgstr "Alates:"
+
+#: fronted_template.php:1297 fronted_template.php:1314 admin/dasboard.php:588
+#: admin/dasboard.php:605 admin/accounts/index.php:1106
+#: admin/accounts/index.php:1123
+msgid "Fully Paid"
+msgstr "Täielikult tasuline"
+
+#: amgt-function.php:54 admin/access_right/Accountant.php:1090
+#: admin/access_right/Gatekeeper.php:1089 admin/access_right/Member.php:1090
+#: admin/access_right/Staff_Member.php:1090 template/gallery/gallery.php:48
+msgid "Gallery"
+msgstr "Galerii"
+
+#: translation_string.php:43
+msgid "Gate"
+msgstr "Värav"
+
+#: admin/visitor-manage/index.php:280
+msgid "Gate inserted successfully"
+msgstr "Värav on edukalt sisestatud"
+
+#: admin/member/view_user.php:245 admin/visitor-manage/index.php:349
+#: admin/visitor-manage/index.php:377 admin/visitor-manage/index.php:411
+#: admin/visitor-manage/index.php:507
+#: admin/visitor-manage/staff-checkin-list.php:31
+#: admin/visitor-manage/staff-checkin-list.php:41
+#: admin/visitor-manage/visitor-checkin-list.php:132
+#: admin/visitor-manage/visitor-checkin-list.php:144
+#: template/member/view_member.php:281
+#: template/visitor-manage/staff_checkinlist.php:28
+#: template/visitor-manage/staff_checkinlist.php:40
+#: template/visitor-manage/visitor-manage.php:404
+#: template/visitor-manage/visitor-manage.php:417
+msgid "Gate Name"
+msgstr "Värava nimi"
+
+#: admin/visitor-manage/index.php:285
+msgid "Gate updated successfully."
+msgstr "Värava värskendamine õnnestus."
+
+#: translation_string.php:35
+msgid "GATE: "
+msgstr "VÄRAV:"
+
+#: amgt-function.php:39 amgt-function.php:84 amgt-function.php:105
+#: translation_string.php:52 admin/access_right/Accountant.php:460
+#: admin/access_right/Gatekeeper.php:460 admin/access_right/index.php:50
+#: admin/access_right/Member.php:460 admin/access_right/Staff_Member.php:460
+msgid "Gatekeeper"
+msgstr "Väravavaht"
+
+#: fronted_template.php:1041
+msgid "Gatekeeper "
+msgstr "Väravavaht"
+
+#: admin/access_right/Gatekeeper.php:216
+msgid "Gatekeeper Access Right"
+msgstr "Väravavahi juurdepääsuõigus"
+
+#: admin/member/index.php:301 template/gatekeeper/gatekeeper.php:162
+msgid "Gatekeeper deleted successfully"
+msgstr "Väravavahi kustutamine õnnestus"
+
+#: template/gatekeeper/gatekeeper.php:141
+msgid "Gatekeeper inserted successfully"
+msgstr "Väravavahi sisestamine õnnestus"
+
+#: admin/member/index.php:317
+msgid "Gatekeeper inserted successfully."
+msgstr "Väravavahi sisestamine õnnestus."
+
+#: admin/gatekeeper/index.php:125 admin/member/index.php:575
+#: template/gatekeeper/gatekeeper.php:175
+msgid "Gatekeeper List"
+msgstr "Väravavahi nimekiri"
+
+#: fronted_template.php:1117
+msgid "Gatekeeper Name"
+msgstr "Väravavahi nimi"
+
+#: admin/member/index.php:309 template/gatekeeper/gatekeeper.php:152
+msgid "Gatekeeper updated successfully."
+msgstr "Väravavahti värskendati edukalt."
+
+#: admin/accountant/add_accountant.php:89 admin/ducuments/add-document.php:487
+#: admin/gatekeeper/add_gatekeeper.php:64 admin/member/add_accountant.php:102
+#: admin/member/add_gatekeeper.php:95 admin/member/add_member.php:243
+#: admin/member/add_staff_member.php:104 admin/member/view_user.php:143
+#: admin/parking/assign-sloat.php:564 admin/residential-unit/index.php:500
+#: admin/staff-member/add_staff_member.php:70
+#: template/accountant/add_accountant.php:89
+#: template/gatekeeper/gatekeeper.php:482 template/member/add_member.php:256
+#: template/member/view_member.php:159
+#: template/parking-manager/parking-manager.php:588
+msgid "Gender"
+msgstr "Sugu"
+
+#: admin/member/view_user.php:97 template/member/view_member.php:104
+msgid "General Information"
+msgstr "Üldine informatsioon"
+
+#: admin/admin.php:56
+msgid "General Setting"
+msgstr "Üldine seadistus"
+
+#: admin/general-settings.php:105
+msgid "General Settings"
+msgstr "üldised seaded"
+
+#: admin/notification-templates/index.php:813
+msgid "Generate Invoice Email Template"
+msgstr "Loo arve e-posti mall"
+
+#: admin/notification-templates/index.php:795
+msgid "Generate Invoice Template"
+msgstr "Loo arve mall"
+
+#: admin/visitor-manage/visitor-checkin-list.php:106
+msgid "Go"
+msgstr "Mine"
+
+#: translation_string.php:23
+msgid "Grand Total :"
+msgstr "Kogusumma :"
+
+#: admin/message/view_message.php:77 template/message/view_message.php:96
+msgid "Group"
+msgstr "Grupp"
+
+#: admin/general-settings.php:444
+msgid "GST Number / Vat Number / Tax number"
+msgstr "GST number / käibemaksunumber / maksunumber"
+
+#: admin/parking/add-sloat.php:72 admin/parking/assigned-sloat-list.php:69
+#: admin/parking/index.php:259 template/parking-manager/add_sloat.php:70
+#: template/parking-manager/assigned-sloat-list.php:162
+#: template/parking-manager/parking-manager.php:344
+msgid "Guest"
+msgstr "Külaline"
+
+#: amgt-function.php:133
+msgid "Half Yearly"
+msgstr "Poolaasta"
+
+#: fronted_template.php:320
+msgid "Home"
+msgstr "Kodu"
+
+#: admin/general-settings.php:352
+msgid "Hong Kong Dollar"
+msgstr "Hongkongi dollar"
+
+#: admin/facility/index.php:463 template/facility/facility.php:414
+msgid "Hour"
+msgstr "Tund"
+
+#. Author URI of the plugin
+msgid "http://codecanyon.net/user/dasinfomedia"
+msgstr "http://codecanyon.net/user/dasinfomedia"
+
+#. URI of the plugin
+msgid "http://www.mobilewebs.net/mojoomla/extend/wordpress/apartment/"
+msgstr "http://www.mobilewebs.net/mojoomla/extend/wordpress/apartment/"
+
+#: admin/general-settings.php:354
+msgid "Hungarian Forint"
+msgstr "Ungari forint"
+
+#: amgt-function.php:435
+msgid "I Half"
+msgstr "I pool"
+
+#: admin/report/download_expense_report.php:75
+#: admin/report/download_expense_report.php:84
+#: admin/report/download_income_expense_report.php:74
+#: admin/report/download_income_expense_report.php:82
+msgid "Id"
+msgstr "Id"
+
+#: admin/visitor-manage/visitor-checkin.php:84
+#: admin/visitor-manage/visitor-checkin.php:336
+#: admin/visitor-manage/visitor-checkin.php:384
+#: admin/visitor-manage/visitor-checkin.php:421
+#: template/visitor-manage/visitor_checkin.php:46
+#: template/visitor-manage/visitor_checkin.php:293
+#: template/visitor-manage/visitor_checkin.php:341
+#: template/visitor-manage/visitor_checkin.php:378
+msgid "ID Number"
+msgstr "Isikukood"
+
+#: admin/general-settings.php:505
+msgid "IFSC Code"
+msgstr "IFSC koodeks"
+
+#: amgt-function.php:437
+msgid "II Half"
+msgstr "II pool"
+
+#: admin/accountant/add_accountant.php:214
+#: admin/gatekeeper/add_gatekeeper.php:192 admin/member/add_accountant.php:227
+#: admin/member/add_gatekeeper.php:251 admin/member/add_staff_member.php:269
+#: admin/staff-member/add_staff_member.php:204
+#: template/accountant/add_accountant.php:212
+#: template/gatekeeper/gatekeeper.php:629
+msgid "Image"
+msgstr "Pilt"
+
+#: amgt-function.php:650 amgt-function.php:679
+msgid "Image URL"
+msgstr "Pildi URL"
+
+#: admin/message/index.php:56 admin/message/index.php:70
+#: template/message/message.php:89 template/message/message.php:105
+msgid "Inbox"
+msgstr "Postkast"
+
+#: admin/general-settings.php:342
+msgid "Indian Rupee"
+msgstr "India ruupia"
+
+#: admin/complaint/add_complaint.php:161
+#: template/complaint/add_complain.php:163
+msgid "Individual"
+msgstr "Üksikisik"
+
+#: admin/assets-inventory/index.php:119
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:152
+msgid "Inventory inserted successfully"
+msgstr "Varude sisestamine õnnestus"
+
+#: admin/assets-inventory/index.php:156
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:206
+msgid "Inventory List"
+msgstr "Varude loend"
+
+#: admin/assets-inventory/add-inventory.php:53
+#: template/assets-inventory-tracker/add_inventory.php:54
+msgid "Inventory Name"
+msgstr "Varude nimi"
+
+#: admin/assets-inventory/index.php:126
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:162
+msgid "Inventory updated successfully."
+msgstr "Varu värskendamine õnnestus."
+
+#: admin/dasboard.php:500
+msgid "Invoice"
+msgstr "Arve"
+
+#: fronted_template.php:1156
+msgid "Invoice "
+msgstr "Arve"
+
+#: admin/accounts/index.php:891
+msgid "Invoice List"
+msgstr "Arveloend"
+
+#: fronted_template.php:1163 admin/dasboard.php:507
+#: admin/notification-templates/index.php:873
+msgid "Invoice No"
+msgstr "Arve nr"
+
+#: admin/accounts/index.php:970 admin/accounts/index.php:987
+msgid "Invoice Number"
+msgstr "Arve number"
+
+#: admin/general-settings.php:436
+msgid "Invoice Prefix"
+msgstr "Arve prefiks"
+
+#: admin/general-settings.php:432
+msgid "Invoice Setting"
+msgstr "Arve seadistamine"
+
+#: admin/facility/index.php:434 admin/facility/index.php:444
+#: template/facility/facility.php:378 template/facility/facility.php:392
+msgid "Is Multiple Days"
+msgstr "Kas mitu päeva"
+
+#: admin/general-settings.php:356
+msgid "Israeli New Sheqel"
+msgstr "Iisraeli uus šekel"
+
+#: admin/report/expense.php:2 admin/report/payment.php:2
+#: template/report/expense.php:2 template/report/payment.php:2
+msgid "January"
+msgstr "Jaanuar"
+
+#: admin/general-settings.php:358
+msgid "Japanese Yen"
+msgstr "Jaapani jeen"
+
+#: admin/report/expense.php:3 admin/report/payment.php:3
+#: template/report/expense.php:3 template/report/payment.php:3
+msgid "July"
+msgstr "Juuli"
+
+#: admin/report/expense.php:3 admin/report/payment.php:3
+#: template/report/expense.php:3 template/report/payment.php:3
+msgid "June"
+msgstr "Juunil"
+
+#: admin/general-settings.php:360
+msgid "Kenyan shilling"
+msgstr "Kenya šilling"
+
+#: amgt-function.php:1466
+msgid "Last"
+msgstr "Viimane"
+
+#: admin/accountant/add_accountant.php:81 admin/ducuments/add-document.php:478
+#: admin/gatekeeper/add_gatekeeper.php:57 admin/member/add_accountant.php:94
+#: admin/member/add_gatekeeper.php:86 admin/member/add_member.php:234
+#: admin/member/add_staff_member.php:95 admin/member/view_user.php:124
+#: admin/parking/assign-sloat.php:555 admin/residential-unit/index.php:491
+#: admin/staff-member/add_staff_member.php:63
+#: template/accountant/add_accountant.php:81
+#: template/gatekeeper/gatekeeper.php:473 template/member/add_member.php:247
+#: template/member/view_member.php:136
+#: template/parking-manager/parking-manager.php:579
+msgid "Last Name"
+msgstr "Perekonnanimi"
+
+#: admin/ducuments/add-document.php:829 admin/ducuments/add-document.php:836
+#: admin/ducuments/add-document.php:848 admin/member/add_member.php:638
+#: admin/member/add_member.php:645 admin/member/add_member.php:657
+#: admin/member/view_user.php:489 admin/parking/assign-sloat.php:906
+#: admin/parking/assign-sloat.php:913 admin/parking/assign-sloat.php:925
+#: admin/residential-unit/index.php:842 admin/residential-unit/index.php:849
+#: admin/residential-unit/index.php:861 template/member/add_member.php:628
+#: template/member/add_member.php:635 template/member/add_member.php:647
+#: template/member/view_member.php:545
+#: template/parking-manager/parking-manager.php:932
+#: template/parking-manager/parking-manager.php:939
+#: template/parking-manager/parking-manager.php:951
+msgid "Lease Agreement"
+msgstr "Rendileping"
+
+#: admin/admin.php:10
+msgid "Licence Settings"
+msgstr "Litsentsi seaded"
+
+#: amgt-function.php:1460
+msgid "Loading..."
+msgstr "Laadimine ..."
+
+#: amgt-function.php:364
+msgid "Log In"
+msgstr "Logi sisse"
+
+#: fronted_template.php:279
+msgid "Log Out"
+msgstr "Logi välja"
+
+#: amgt-function.php:353
+msgid ""
+"Login failed: You have entered an incorrect Username or password, please try "
+"again."
+msgstr ""
+"Sisselogimine nurjus: sisestasite vale kasutajanime või parooli, proovige "
+"uuesti."
+
+#: admin/notification-templates/index.php:164
+#: admin/notification-templates/index.php:258
+msgid "Login Link"
+msgstr "Sisselogimislink"
+
+#: admin/general-settings.php:235
+msgid "Login Page"
+msgstr "Sisselogimisleht"
+
+#: admin/notification-templates/index.php:210
+#: admin/notification-templates/index.php:352
+msgid "Login Page Link"
+msgstr "Sisselogimislehe link"
+
+#: amgt-function.php:381
+msgid "Logout"
+msgstr "Logi välja"
+
+#: admin/admin.php:50
+msgid "Mail Templates"
+msgstr "Meilimallid"
+
+#: admin/accounts/add-charges-all-member.php:444
+msgid "Maintenance Charges"
+msgstr "Hooldustasud"
+
+#: admin/complaint/add_complaint.php:140 admin/complaint/index.php:202
+#: template/complaint/add_complain.php:141 template/complaint/complaint.php:292
+msgid "Maintenance Request"
+msgstr "Hooldustaotlus"
+
+#: admin/general-settings.php:362
+msgid "Malaysian Ringgit"
+msgstr "Malaisia ringgit"
+
+#: admin/accountant/add_accountant.php:93 admin/ducuments/add-document.php:491
+#: admin/gatekeeper/add_gatekeeper.php:68 admin/member/add_accountant.php:106
+#: admin/member/add_gatekeeper.php:99 admin/member/add_member.php:247
+#: admin/member/add_staff_member.php:108 admin/member/view_user.php:149
+#: admin/parking/assign-sloat.php:568 admin/residential-unit/index.php:504
+#: admin/staff-member/add_staff_member.php:74
+#: template/accountant/add_accountant.php:93
+#: template/gatekeeper/gatekeeper.php:486 template/member/add_member.php:260
+#: template/member/view_member.php:167
+#: template/parking-manager/parking-manager.php:592
+msgid "Male"
+msgstr "Mees"
+
+#: admin/visitor-manage/index.php:299
+msgid "Manage Gates"
+msgstr "Halda väravaid"
+
+#: admin/report/expense.php:2 admin/report/payment.php:2
+#: template/report/expense.php:2 template/report/payment.php:2
+msgid "March"
+msgstr "Märts"
+
+#: admin/notice-events/add_event.php:163 admin/notice-events/add_notice.php:148
+#: template/notice-event/add_event.php:165
+#: template/notice-event/add_notice.php:142
+msgid "Max. 160 Character"
+msgstr "Maks. 160 tähemärki"
+
+#: admin/report/expense.php:3 admin/report/payment.php:3
+#: template/report/expense.php:3 template/report/payment.php:3
+msgid "May"
+msgstr "Mai"
+
+#: admin/accounts/add-charges-all-member.php:483
+#: admin/accounts/recuring_charg_list.php:78
+msgid "Measurement Charge"
+msgstr "Mõõtmise tasu"
+
+#: admin/accounts/recuring_charg_list.php:104
+msgid "Measurement Charges"
+msgstr "Mõõtmistasud"
+
+#: amgt-function.php:35 amgt-function.php:69 amgt-function.php:103
+#: translation_string.php:49 admin/access_right/Accountant.php:279
+#: admin/access_right/Gatekeeper.php:279 admin/access_right/index.php:41
+#: admin/access_right/Member.php:279 admin/access_right/Staff_Member.php:279
+#: admin/accounts/add-charges-all-member.php:272
+#: admin/complaint/add_complaint.php:173 admin/ducuments/add-document.php:222
+#: admin/parking/add-sloat.php:69 admin/parking/assign-sloat.php:323
+#: admin/parking/assigned-sloat-list.php:69 admin/parking/index.php:259
+#: template/complaint/add_complain.php:191
+#: template/documents/add_documents.php:167
+#: template/documents/add_documents.php:180
+#: template/parking-manager/add_sloat.php:67
+#: template/parking-manager/assigned-sloat-list.php:162
+#: template/parking-manager/assign_sloat.php:292
+#: template/parking-manager/parking-manager.php:344
+msgid "Member"
+msgstr "Liige"
+
+#: admin/access_right/Member.php:216
+msgid "Member Access Right"
+msgstr "Liikme juurdepääsuõigus"
+
+#: admin/member/index.php:277 admin/member/member_list.php:52
+msgid "Member Active Successfully"
+msgstr "Liige on edukalt aktiivne"
+
+#: admin/notification-templates/index.php:198
+msgid "Member Approved by Admin Template"
+msgstr "Liikme kinnitas administraatori mall"
+
+#: admin/notification-templates/index.php:180
+msgid "Member Approved by Admin Template "
+msgstr "Liikme kinnitas administraatori mall"
+
+#: admin/notification-templates/index.php:245
+msgid "Member Become committee Template"
+msgstr "Liige saab komitee malliks"
+
+#: admin/notification-templates/index.php:227
+msgid "Member Become from committee member"
+msgstr "Liige Hakka komisjoni liikmeks"
+
+#: admin/member/index.php:269
+msgid "Member Deleted Successfully"
+msgstr "Liikme kustutamine õnnestus"
+
+#: template/member/member.php:281
+msgid "Member deleted successfully"
+msgstr "Liikme kustutamine õnnestus"
+
+#: admin/ducuments/add-document.php:797 admin/ducuments/add-document.php:804
+#: admin/ducuments/add-document.php:816 admin/member/add_member.php:606
+#: admin/member/add_member.php:613 admin/member/add_member.php:625
+#: admin/member/view_user.php:471 admin/parking/assign-sloat.php:874
+#: admin/parking/assign-sloat.php:881 admin/parking/assign-sloat.php:893
+#: admin/residential-unit/index.php:810 admin/residential-unit/index.php:817
+#: admin/residential-unit/index.php:829 template/member/add_member.php:596
+#: template/member/add_member.php:603 template/member/add_member.php:615
+#: template/member/view_member.php:527
+#: template/parking-manager/parking-manager.php:900
+#: template/parking-manager/parking-manager.php:907
+#: template/parking-manager/parking-manager.php:919
+msgid "Member ID Proof-1"
+msgstr "Liikme ID tõend-1"
+
+#: admin/ducuments/add-document.php:757 admin/member/add_member.php:559
+#: admin/parking/assign-sloat.php:832 admin/residential-unit/index.php:768
+#: template/member/add_member.php:551
+#: template/parking-manager/parking-manager.php:859
+msgid "Member Image"
+msgstr "Liikme pilt"
+
+#: admin/report/member_by_building.php:33
+#: template/report/member_by_building.php:12
+#| msgid "Member By Building"
+msgid "Member in Building"
+msgstr "Liige ehitades"
+
+#: admin/member/member_list.php:35 template/member/member.php:260
+msgid "Member inserted successfully"
+msgstr "Liikme sisestamine õnnestus"
+
+#: admin/member/index.php:365
+msgid "Member inserted successfully."
+msgstr "Liikme sisestamine õnnestus."
+
+#: admin/member/index.php:569 template/member/member.php:295
+msgid "Member List"
+msgstr "Liikmete nimekiri"
+
+#: fronted_template.php:1164 admin/dasboard.php:508
+#: admin/accounts/index.php:971 admin/accounts/index.php:988
+#: admin/facility/facility-booking-list.php:31
+#: admin/facility/facility-booking-list.php:46
+#: admin/parking/assigned-sloat-list.php:37
+#: admin/parking/assigned-sloat-list.php:50
+#: admin/report/download_income_expense_report.php:75
+#: admin/report/download_income_expense_report.php:83
+#: template/facility/facility-booking-list.php:31
+#: template/facility/facility-booking-list.php:47
+#: template/parking-manager/assigned-sloat-list.php:73
+#: template/parking-manager/assigned-sloat-list.php:88
+msgid "Member Name"
+msgstr "Liikme nimi"
+
+#: translation_string.php:81
+msgid "Member Registration"
+msgstr "Liikme registreerimine"
+
+#: admin/notification-templates/index.php:274
+msgid "Member Removed from committee member"
+msgstr "Liige eemaldati komisjoni liikmest"
+
+#: admin/notification-templates/index.php:292
+msgid "Member Removed from committee Template"
+msgstr "Liige eemaldati komisjoni mallist"
+
+#: admin/ducuments/add-document.php:513 admin/member/add_member.php:262
+#: admin/member/member_list.php:92 admin/member/member_list.php:104
+#: admin/member/view_user.php:174 admin/parking/assign-sloat.php:588
+#: admin/residential-unit/index.php:524 template/member/add_member.php:280
+#: template/member/view_member.php:196
+#: template/parking-manager/parking-manager.php:613
+msgid "Member Type"
+msgstr "Liikme tüüp"
+
+#: admin/member/index.php:357 admin/member/member_list.php:42
+#: template/member/member.php:270
+msgid "Member updated successfully."
+msgstr "Liikme värskendamine õnnestus."
+
+#: fronted_template.php:463 fronted_template.php:489 admin/dasboard.php:170
+#: admin/dasboard.php:191
+msgid "Members"
+msgstr "Liikmed"
+
+#: admin/access_right/Accountant.php:221 admin/access_right/Gatekeeper.php:221
+#: admin/access_right/Member.php:221 admin/access_right/Staff_Member.php:221
+msgid "Menu"
+msgstr "Menüü"
+
+#: amgt-function.php:47 fronted_template.php:552 admin/admin.php:52
+#: admin/admin.php:52 admin/dasboard.php:229
+#: admin/access_right/Accountant.php:910 admin/access_right/Gatekeeper.php:909
+#: admin/access_right/Member.php:910 admin/access_right/Staff_Member.php:910
+msgid "Message"
+msgstr "Sõnum"
+
+#: admin/message/composemail.php:72 admin/message/view_message.php:251
+#: template/message/composemail.php:82 template/message/view_message.php:291
+msgid "Message Comment"
+msgstr "Sõnumi kommentaar"
+
+#: admin/notification-templates/index.php:919
+msgid "Message Content"
+msgstr "Sõnumi sisu"
+
+#: admin/message/index.php:39 template/message/message.php:68
+msgid "Message deleted successfully"
+msgstr "Sõnumi kustutamine õnnestus"
+
+#: admin/message/inbox.php:33 admin/message/sendbox.php:32
+#: template/message/inbox.php:33 template/message/sendbox.php:35
+msgid "Message For"
+msgstr "Sõnum"
+
+#: admin/notification-templates/index.php:921
+msgid "Message Link"
+msgstr "Sõnumi link"
+
+#: admin/notification-templates/index.php:889
+#: admin/notification-templates/index.php:907
+msgid "Message Received Template"
+msgstr "Sõnumi vastuvõetud mall"
+
+#: admin/message/index.php:32 template/message/message.php:57
+msgid "Message sent successfully"
+msgstr "Sõnumi saatmine õnnestus"
+
+#: template/message/composemail.php:15
+msgid "Message Sent Successfully!"
+msgstr "Sõnum saadeti edukalt!"
+
+#: admin/message/composemail.php:47 template/message/composemail.php:63
+msgid "Message To"
+msgstr "Sõnum aadressile"
+
+#: admin/general-settings.php:364
+msgid "Mexican Peso"
+msgstr "Mehhiko peeso"
+
+#: admin/accountant/add_accountant.php:73 admin/ducuments/add-document.php:470
+#: admin/gatekeeper/add_gatekeeper.php:51 admin/member/add_accountant.php:86
+#: admin/member/add_gatekeeper.php:78 admin/member/add_member.php:226
+#: admin/member/add_staff_member.php:87 admin/member/view_user.php:114
+#: admin/parking/assign-sloat.php:547 admin/residential-unit/index.php:483
+#: admin/staff-member/add_staff_member.php:57
+#: template/accountant/add_accountant.php:73
+#: template/gatekeeper/gatekeeper.php:465 template/member/add_member.php:239
+#: template/member/view_member.php:124
+#: template/parking-manager/parking-manager.php:571
+msgid "Middle Name"
+msgstr "Keskmine nimi"
+
+#: admin/accountant/index.php:177 admin/accountant/index.php:187
+#: admin/committee-member/index.php:60 admin/committee-member/index.php:72
+#: admin/gatekeeper/index.php:171 admin/gatekeeper/index.php:181
+#: admin/member/accountant_list.php:46 admin/member/accountant_list.php:56
+#: admin/member/gatekeeper_list.php:46 admin/member/gatekeeper_list.php:56
+#: admin/member/member_list.php:96 admin/member/member_list.php:108
+#: admin/member/staff_list.php:46 admin/member/staff_list.php:56
+#: admin/member/view_user.php:184 admin/staff-member/index.php:172
+#: admin/staff-member/index.php:183 template/accountant/accountant.php:238
+#: template/accountant/accountant.php:254
+#: template/committee-member/committee-member.php:89
+#: template/committee-member/committee-member.php:105
+#: template/gatekeeper/gatekeeper.php:233
+#: template/gatekeeper/gatekeeper.php:249 template/member/member.php:359
+#: template/member/member.php:371 template/member/view_member.php:208
+#: template/staff-members/staff-members.php:83
+#: template/staff-members/staff-members.php:93
+msgid "Mobile"
+msgstr "Mobiilne"
+
+#: admin/accountant/add_accountant.php:145 admin/ducuments/add-document.php:727
+#: admin/gatekeeper/add_gatekeeper.php:136 admin/member/add_accountant.php:156
+#: admin/member/add_gatekeeper.php:181 admin/member/add_member.php:525
+#: admin/member/add_staff_member.php:197 admin/parking/assign-sloat.php:801
+#: admin/residential-unit/index.php:737 admin/service/add_service.php:84
+#: admin/service/index.php:129 admin/service/index.php:140
+#: admin/staff-member/add_staff_member.php:147
+#: template/accountant/add_accountant.php:145
+#: template/gatekeeper/gatekeeper.php:561 template/member/add_member.php:519
+#: template/parking-manager/parking-manager.php:827
+#: template/profile/profile.php:339 template/services/add_services.php:71
+#: template/services/services.php:191 template/services/services.php:208
+msgid "Mobile Number"
+msgstr "Mobiili number"
+
+#. Author of the plugin
+msgid "Mojoomla"
+msgstr "Mojoomla"
+
+#: admin/report/expense.php:12 admin/report/expense.php:24
+#: admin/report/payment.php:34 admin/report/payment.php:47
+#: template/report/expense.php:12 template/report/expense.php:24
+#: template/report/payment.php:11 template/report/payment.php:24
+msgid "Month"
+msgstr "Kuu"
+
+#: amgt-function.php:129 admin/accounts/add-charges-all-member.php:108
+#: admin/accounts/recuring_charg_list.php:87
+msgid "Monthly"
+msgstr "Igakuine"
+
+#: admin/tax/add_tax.php:40
+msgid "Must be enter percentage value like 5"
+msgstr "Peab olema sisestatud protsentväärtus nagu 5"
+
+#: fronted_template.php:274
+msgid "My Profile"
+msgstr "Minu profiil"
+
+#: admin/accountant/index.php:174 admin/accountant/index.php:184
+#: admin/assets-inventory/inventory-list.php:26
+#: admin/assets-inventory/inventory-list.php:34
+#: admin/committee-member/index.php:55 admin/committee-member/index.php:67
+#: admin/gatekeeper/index.php:168 admin/gatekeeper/index.php:178
+#: admin/member/accountant_list.php:44 admin/member/accountant_list.php:54
+#: admin/member/gatekeeper_list.php:44 admin/member/gatekeeper_list.php:54
+#: admin/member/member_list.php:91 admin/member/member_list.php:103
+#: admin/member/staff_list.php:44 admin/member/staff_list.php:54
+#: admin/member/view_user.php:104 admin/staff-member/index.php:168
+#: admin/staff-member/index.php:179
+#: admin/visitor-manage/staff-checkin-list.php:30
+#: admin/visitor-manage/staff-checkin-list.php:40
+#: template/accountant/accountant.php:235
+#: template/accountant/accountant.php:251
+#: template/assets-inventory-tracker/inventory_list.php:26
+#: template/assets-inventory-tracker/inventory_list.php:36
+#: template/committee-member/committee-member.php:85
+#: template/committee-member/committee-member.php:101
+#: template/gatekeeper/gatekeeper.php:230
+#: template/gatekeeper/gatekeeper.php:246 template/member/member.php:354
+#: template/member/member.php:366 template/member/view_member.php:111
+#: template/profile/profile.php:271 template/staff-members/staff-members.php:79
+#: template/staff-members/staff-members.php:89
+#: template/visitor-manage/staff_checkinlist.php:27
+#: template/visitor-manage/staff_checkinlist.php:39
+msgid "Name"
+msgstr "Nimi"
+
+#: admin/notification-templates/index.php:556
+#: admin/notification-templates/index.php:777
+#: admin/notification-templates/index.php:1012
+msgid "Name of admin"
+msgstr "Administraatori nimi"
+
+#: admin/notification-templates/index.php:161
+#: admin/notification-templates/index.php:209
+#: admin/notification-templates/index.php:257
+#: admin/notification-templates/index.php:303
+#: admin/notification-templates/index.php:348
+#: admin/notification-templates/index.php:398
+#: admin/notification-templates/index.php:449
+#: admin/notification-templates/index.php:502
+#: admin/notification-templates/index.php:558
+#: admin/notification-templates/index.php:613
+#: admin/notification-templates/index.php:667
+#: admin/notification-templates/index.php:723
+#: admin/notification-templates/index.php:779
+#: admin/notification-templates/index.php:824
+#: admin/notification-templates/index.php:872
+#: admin/notification-templates/index.php:967
+#: admin/notification-templates/index.php:1017
+#: admin/notification-templates/index.php:1065
+msgid "Name Of Apartment"
+msgstr "Korteri nimi"
+
+#: admin/notification-templates/index.php:920
+msgid "Name Of Apartment "
+msgstr "Korteri nimi"
+
+#: admin/notification-templates/index.php:160
+#: admin/notification-templates/index.php:208
+#: admin/notification-templates/index.php:255
+#: admin/notification-templates/index.php:302
+#: admin/notification-templates/index.php:347
+#: admin/notification-templates/index.php:397
+#: admin/notification-templates/index.php:448
+#: admin/notification-templates/index.php:501
+#: admin/notification-templates/index.php:557
+#: admin/notification-templates/index.php:612
+#: admin/notification-templates/index.php:666
+#: admin/notification-templates/index.php:722
+#: admin/notification-templates/index.php:778
+#: admin/notification-templates/index.php:823
+#: admin/notification-templates/index.php:871
+#: admin/notification-templates/index.php:966
+#: admin/notification-templates/index.php:1013
+#: admin/notification-templates/index.php:1064
+msgid "Name of Member"
+msgstr "Liikme nimi"
+
+#: admin/notification-templates/index.php:917
+msgid "Name of Receiver"
+msgstr "Saaja nimi"
+
+#: admin/notification-templates/index.php:918
+msgid "Name Of Sender"
+msgstr "Saatja nimi"
+
+#: admin/complaint/add_complaint.php:126 admin/complaint/index.php:153
+#: admin/complaint/index.php:166 admin/member-corner/index.php:121
+#: admin/member-corner/index.php:130 template/complaint/add_complain.php:127
+#: template/complaint/complaint.php:186 template/complaint/complaint.php:199
+msgid "Nature"
+msgstr "Loodus"
+
+#: translation_string.php:30
+msgid "Nature:"
+msgstr "Loodus:"
+
+#: template/profile/profile.php:295 template/profile/profile.php:299
+msgid "New Password"
+msgstr "uus salasõna"
+
+#: admin/general-settings.php:368
+msgid "New Zealand Dollar"
+msgstr "Uus-Meremaa dollar"
+
+#: amgt-function.php:1467
+msgid "Next"
+msgstr "Järgmine"
+
+#: admin/general-settings.php:370
+msgid "Nigerian Naira"
+msgstr "Nigeeria Naira"
+
+#: admin/facility/index.php:477 template/facility/facility.php:422
+msgid "No"
+msgstr "Ei"
+
+#: admin/member/view_user.php:444 template/member/view_member.php:500
+msgid "No any Documents yet."
+msgstr "Dokumente pole veel."
+
+#: admin/gatekeeper/add_gatekeeper.php:117 admin/member/add_gatekeeper.php:157
+#: admin/visitor-manage/staff-checkin.php:96
+#: admin/visitor-manage/visitor-checkin.php:170
+#: template/gatekeeper/gatekeeper.php:541
+#: template/visitor-manage/staff_checkin.php:77
+#: template/visitor-manage/visitor_checkin.php:111
+msgid "No Any Gates."
+msgstr "Pole ühtegi väravat."
+
+#: template/gallery/gallery.php:110
+msgid "No Any Images In This Gallery Yet."
+msgstr "Selles galeriis pole veel ühtegi pilti."
+
+#: admin/member/view_user.php:542 template/member/view_member.php:598
+msgid "No any Proof Documents yet."
+msgstr "Tõendavaid dokumente pole veel."
+
+#: admin/member/view_user.php:397 template/member/view_member.php:451
+msgid "No any Unit Members yet."
+msgstr "Üksuse liikmeid veel pole."
+
+#: fronted_template.php:923
+msgid "No Building Units Found"
+msgstr "Hooneüksusi ei leitud"
+
+#: fronted_template.php:761 admin/dasboard.php:321
+#| msgid "No Complains Found"
+msgid "No Complaints Found"
+msgstr "Kaebusi ei leitud"
+
+#: admin/dasboard.php:400
+msgid "No Compound Units Found"
+msgstr "Liitühendusi ei leitud"
+
+#: amgt-function.php:1453
+msgid "No data available in table"
+msgstr "Tabelis andmed puuduvad"
+
+#: amgt-function.php:544
+msgid "No FAQ found"
+msgstr "KKK-d ei leitud"
+
+#: amgt-function.php:545
+msgid "No FAQ found in Trash"
+msgstr "Prügikastist ei leitud ühtegi KKK-d"
+
+#: fronted_template.php:1137
+msgid "No Gatekeeper Found"
+msgstr "Väravavahti ei leitud"
+
+#: fronted_template.php:1336 admin/dasboard.php:625
+msgid "No Invoice Found"
+msgstr "Arvet ei leitud"
+
+#: amgt-function.php:1463
+msgid "No matching records found"
+msgstr "Sobivaid kirjeid ei leitud"
+
+#: fronted_template.php:659 admin/dasboard.php:278
+msgid "No Notice Found"
+msgstr "Teadet ei leitud"
+
+#: amgt-function.php:581
+msgid "No Photo Gallery found"
+msgstr "Fotogaleriid ei leitud"
+
+#: amgt-function.php:582
+msgid "No Photo Gallery found in Trash"
+msgstr "Prügikastist ei leitud ühtegi fotogaleriid"
+
+#: translation_string.php:63
+msgid "No Records Found !"
+msgstr "Kirjeid ei leitud!"
+
+#: amgt-function.php:506
+msgid "No rules found"
+msgstr "Reegleid ei leitud"
+
+#: amgt-function.php:507
+msgid "No rules found in Trash"
+msgstr "Prügikastist ei leitud ühtegi reeglit"
+
+#: admin/dasboard.php:488
+msgid "No Security Found"
+msgstr "Turvalisust ei leitud"
+
+#: fronted_template.php:1023 admin/dasboard.php:438
+msgid "No Services Found"
+msgstr "Teenuseid ei leitud"
+
+#: admin/general-settings.php:366
+msgid "Norwegian Krone"
+msgstr "Norra kroon"
+
+#: admin/notice-events/index.php:358 template/notice-event/notice-event.php:451
+msgid "Not Approved"
+msgstr "Pole heaks kiidetud"
+
+#: translation_string.php:14
+msgid "Notes"
+msgstr "Märkused"
+
+#: fronted_template.php:577 admin/dasboard.php:250
+msgid "Notice"
+msgstr "Märkus"
+
+#: amgt-function.php:41 admin/admin.php:32 admin/admin.php:32
+#: admin/access_right/Accountant.php:550 admin/access_right/Gatekeeper.php:550
+#: admin/access_right/Member.php:550 admin/access_right/Staff_Member.php:550
+msgid "Notice And Event"
+msgstr "Teade ja sündmus"
+
+#: admin/general-settings.php:263
+msgid "Notice and Event Approved by admin"
+msgstr "Teate ja sündmus on administraatori poolt heaks kiidetud"
+
+#: admin/notice-events/index.php:210
+msgid "Notice Approved successfully"
+msgstr "Teade kinnitati edukalt"
+
+#: admin/notification-templates/index.php:505
+#: admin/notification-templates/index.php:561
+msgid "Notice Category"
+msgstr "Teate kategooria"
+
+#: admin/notification-templates/index.php:402
+msgid "Notice Content"
+msgstr "Teate sisu"
+
+#: admin/notice-events/index.php:202 template/notice-event/notice-event.php:247
+msgid "Notice deleted successfully"
+msgstr "Teade kustutati edukalt"
+
+#: translation_string.php:56
+msgid "Notice Details"
+msgstr "Teate üksikasjad"
+
+#: admin/notice-events/index.php:185
+msgid "Notice inserted successfully"
+msgstr "Teate sisestamine õnnestus"
+
+#: template/notice-event/notice-event.php:223
+msgid "Notice inserted successfully but display After Admin Approved"
+msgstr ""
+"Teade on edukalt sisestatud, kuid kuvatakse pärast administraatori kinnitust"
+
+#: template/notice-event/notice-event.php:211
+msgid "Notice inserted successfully."
+msgstr "Teade sisestati edukalt."
+
+#: admin/notification-templates/index.php:403
+msgid "Notice Link"
+msgstr "Teate link"
+
+#: admin/notice-events/index.php:258 template/notice-event/notice-event.php:289
+msgid "Notice List"
+msgstr "Teadete loend"
+
+#: fronted_template.php:644 admin/dasboard.php:261
+#: admin/notice-events/add_notice.php:73 admin/notice-events/index.php:314
+#: admin/notice-events/index.php:324 admin/notification-templates/index.php:399
+#: template/notice-event/add_notice.php:72
+#: template/notice-event/notice-event.php:357
+#: template/notice-event/notice-event.php:367
+msgid "Notice Title"
+msgstr "Teate pealkiri"
+
+#: translation_string.php:57
+msgid "Notice Title:"
+msgstr "Teate pealkiri:"
+
+#: admin/notice-events/add_notice.php:82 admin/notice-events/index.php:316
+#: admin/notice-events/index.php:326 admin/notification-templates/index.php:400
+#: admin/notification-templates/index.php:504
+#: admin/notification-templates/index.php:560
+#: template/notice-event/add_notice.php:80
+#: template/notice-event/notice-event.php:359
+#: template/notice-event/notice-event.php:369
+msgid "Notice Type"
+msgstr "Teate tüüp"
+
+#: translation_string.php:59
+msgid "Notice Type:"
+msgstr "Teate tüüp:"
+
+#: admin/notice-events/index.php:192 template/notice-event/notice-event.php:236
+msgid "Notice updated successfully."
+msgstr "Teate värskendamine õnnestus."
+
+#: admin/notification-templates/index.php:401
+msgid "Notice Valid Date"
+msgstr "Teade kehtiv kuupäev"
+
+#: admin/notice-events/add_notice.php:121
+#: template/notice-event/add_notice.php:115
+msgid "Notice Valid Until"
+msgstr "Teade kehtib kuni"
+
+#: admin/report/expense.php:4 admin/report/payment.php:4
+#: template/report/expense.php:4 template/report/payment.php:4
+msgid "November"
+msgstr "Novembrini"
+
+#: admin/report/member_by_building.php:26
+#: admin/report/member_by_building.php:45
+#: template/report/member_by_building.php:5
+#: template/report/member_by_building.php:24
+msgid "Number Of Member"
+msgstr "Liikme arv"
+
+#: admin/report/index.php:24
+msgid "Number Of Members By Building"
+msgstr "Liikmete arv hoone järgi"
+
+#: template/report/report.php:22
+msgid "Number Of Members IN Building"
+msgstr "Liikmete arv hoones"
+
+#: admin/report/unit_by_building.php:26 admin/report/unit_by_building.php:47
+#: template/report/unit_by_building.php:5
+#: template/report/unit_by_building.php:26
+msgid "Number Of Unit"
+msgstr "Ühiku arv"
+
+#: admin/ducuments/add-document.php:542 admin/ducuments/add-document.php:578
+#: admin/ducuments/add-document.php:608 admin/member/add_member.php:299
+#: admin/member/add_member.php:345 admin/member/add_member.php:384
+#: admin/parking/assign-sloat.php:618 admin/parking/assign-sloat.php:653
+#: admin/parking/assign-sloat.php:683 admin/residential-unit/index.php:553
+#: admin/residential-unit/index.php:588 admin/residential-unit/index.php:618
+#: template/member/add_member.php:312 template/member/add_member.php:353
+#: template/member/add_member.php:391
+#: template/parking-manager/parking-manager.php:642
+#: template/parking-manager/parking-manager.php:677
+#: template/parking-manager/parking-manager.php:707
+msgid "Occupied By"
+msgstr "Okupeeritud"
+
+#: admin/ducuments/add-document.php:561 admin/ducuments/add-document.php:591
+#: admin/ducuments/add-document.php:627 admin/member/add_member.php:329
+#: admin/member/add_member.php:367 admin/member/add_member.php:413
+#: admin/parking/assign-sloat.php:637 admin/parking/assign-sloat.php:666
+#: admin/parking/assign-sloat.php:702 admin/residential-unit/index.php:572
+#: admin/residential-unit/index.php:601 admin/residential-unit/index.php:637
+#: template/member/add_member.php:337 template/member/add_member.php:374
+#: template/member/add_member.php:419
+#: template/parking-manager/parking-manager.php:661
+#: template/parking-manager/parking-manager.php:690
+#: template/parking-manager/parking-manager.php:726
+msgid "Occupied Date"
+msgstr "Okupeeritud kuupäev"
+
+#: translation_string.php:2
+msgid "Occupied From Date"
+msgstr "Okupeeritud alates kuupäevast"
+
+#: translation_string.php:3
+msgid "Occupied To Date"
+msgstr "Okupeeritud tänaseni"
+
+#: admin/report/expense.php:4 admin/report/payment.php:4
+#: template/report/payment.php:4
+msgid "Octomber"
+msgstr "Octomber"
+
+#: admin/general-settings.php:187
+msgid "Official Phone Number"
+msgstr "Ametlik telefoninumber"
+
+#: admin/complaint/add_complaint.php:257 admin/complaint/add_complaint.php:305
+#: admin/complaint/index.php:244 template/complaint/add_complain.php:280
+#: template/complaint/add_complain.php:322 template/complaint/complaint.php:324
+msgid "On Hold"
+msgstr "Ootel"
+
+#: admin/accounts/add-charges-all-member.php:175
+msgid "One Member"
+msgstr "Üks liige"
+
+#: admin/accounts/add-charges-all-member.php:105
+#: admin/accounts/recuring_charg_list.php:83
+msgid "One Time"
+msgstr "Üks kord"
+
+#: admin/complaint/add_complaint.php:255 admin/complaint/add_complaint.php:303
+#: admin/complaint/index.php:236 template/complaint/add_complain.php:278
+#: template/complaint/add_complain.php:320 template/complaint/complaint.php:316
+#: template/notice-event/notice-event.php:451
+msgid "Open"
+msgstr "Avatud"
+
+#: template/profile/profile.php:328
+msgid "Other Information"
+msgstr "Muu info"
+
+#: admin/access_right/Accountant.php:222 admin/access_right/Gatekeeper.php:222
+#: admin/access_right/Member.php:222 admin/access_right/Staff_Member.php:222
+msgid "OwnData"
+msgstr "OwnData"
+
+#: amgt-function.php:114 admin/ducuments/add-document.php:524
+#: admin/ducuments/add-document.php:553 admin/ducuments/add-document.php:583
+#: admin/ducuments/add-document.php:619 admin/member/add_member.php:279
+#: admin/parking/assign-sloat.php:599 admin/parking/assign-sloat.php:629
+#: admin/parking/assign-sloat.php:658 admin/parking/assign-sloat.php:694
+#: admin/residential-unit/index.php:535 admin/residential-unit/index.php:564
+#: admin/residential-unit/index.php:593 admin/residential-unit/index.php:629
+#: template/member/add_member.php:292
+#: template/parking-manager/parking-manager.php:624
+#: template/parking-manager/parking-manager.php:653
+#: template/parking-manager/parking-manager.php:682
+#: template/parking-manager/parking-manager.php:718
+msgid "Owner"
+msgstr "Omanik"
+
+#: amgt-function.php:118 admin/ducuments/add-document.php:526
+#: admin/member/add_member.php:281 admin/parking/assign-sloat.php:601
+#: admin/residential-unit/index.php:537 template/member/add_member.php:294
+#: template/parking-manager/parking-manager.php:626
+msgid "Owner Family"
+msgstr "Omaniku perekond"
+
+#: translation_string.php:62
+msgid "owner family"
+msgstr "omaniku perekond"
+
+#: admin/accounts/index.php:978 admin/accounts/index.php:996
+msgid "Paid Amount"
+msgstr "Tasutud summa"
+
+#: translation_string.php:22
+msgid "Paid Amount :"
+msgstr "Tasutud summa:"
+
+#: admin/notification-templates/index.php:861
+msgid "Paid Invoice Email Template"
+msgstr "Tasulise arve e-posti mall"
+
+#: admin/notification-templates/index.php:843
+msgid "Paid Invoice Template"
+msgstr "Tasulise arve mall"
+
+#: amgt-function.php:498 amgt-function.php:536 amgt-function.php:573
+msgid "Parent Item:"
+msgstr "Vanemüksus:"
+
+#: amgt-function.php:43 admin/admin.php:36 admin/admin.php:36
+#: admin/access_right/Accountant.php:640 admin/access_right/Gatekeeper.php:639
+#: admin/access_right/Member.php:640 admin/access_right/Staff_Member.php:640
+msgid "Parking Manager"
+msgstr "Parkimiskorraldaja"
+
+#: fronted_template.php:1301 fronted_template.php:1318 admin/dasboard.php:592
+#: admin/dasboard.php:609 admin/accounts/index.php:1110
+#: admin/accounts/index.php:1127
+msgid "Partially Paid"
+msgstr "Osaliselt tasuline"
+
+#: amgt-function.php:362 admin/accountant/add_accountant.php:204
+#: admin/ducuments/add-document.php:749 admin/gatekeeper/add_gatekeeper.php:185
+#: admin/member/add_accountant.php:217 admin/member/add_gatekeeper.php:241
+#: admin/member/add_member.php:549 admin/member/add_staff_member.php:260
+#: admin/notification-templates/index.php:351
+#: admin/parking/assign-sloat.php:823 admin/residential-unit/index.php:759
+#: admin/staff-member/add_staff_member.php:197
+#: template/accountant/add_accountant.php:204
+#: template/gatekeeper/gatekeeper.php:620 template/member/add_member.php:542
+#: template/parking-manager/parking-manager.php:850
+msgid "Password"
+msgstr "Parool"
+
+#: admin/report/index.php:27 admin/report/payment.php:34
+#: admin/report/payment.php:53 template/report/payment.php:11
+#: template/report/payment.php:30 template/report/report.php:27
+msgid "Payment"
+msgstr "Maksmine"
+
+#: translation_string.php:69
+msgid "Payment By"
+msgstr "Makse poolt"
+
+#: admin/accounts/add-expense.php:149 admin/accounts/expense-list.php:28
+#: admin/accounts/expense-list.php:37
+#: admin/report/download_expense_report.php:79
+#: admin/report/download_expense_report.php:88
+msgid "Payment Date"
+msgstr "Maksekuupäev"
+
+#: admin/notification-templates/index.php:825
+msgid "Payment Link"
+msgstr "Makselink"
+
+#: translation_string.php:12
+msgid "Payment Method"
+msgstr "Makseviis"
+
+#: admin/report/payment.php:41 template/report/payment.php:18
+msgid "Payment Report By Month"
+msgstr "Maksearuanne kuude kaupa"
+
+#: fronted_template.php:1166 admin/dasboard.php:510
+#: admin/accounts/index.php:979 admin/accounts/index.php:997
+msgid "Payment Status"
+msgstr "Makse staatus"
+
+#: admin/accounts/index.php:856
+msgid "Payment Successfully"
+msgstr "Maksmine õnnestus"
+
+#: admin/general-settings.php:323
+msgid "Paypal Email Id"
+msgstr "Paypali e-posti ID"
+
+#: admin/general-settings.php:306
+msgid "Paypal Setting"
+msgstr "Paypali seade"
+
+#: translation_string.php:25
+msgid "PDF"
+msgstr "PDF"
+
+#: admin/member/view_user.php:266 template/member/view_member.php:309
+msgid "Permanent Contact Information"
+msgstr "Alaline kontaktandmed"
+
+#: admin/general-settings.php:372
+msgid "Philippine Peso"
+msgstr "Filipiinide peeso"
+
+#: admin/accountant/index.php:173 admin/accountant/index.php:183
+#: admin/committee-member/index.php:54 admin/committee-member/index.php:66
+#: admin/gatekeeper/index.php:167 admin/gatekeeper/index.php:177
+#: admin/member/accountant_list.php:43 admin/member/accountant_list.php:53
+#: admin/member/gatekeeper_list.php:43 admin/member/gatekeeper_list.php:53
+#: admin/member/member_list.php:90 admin/member/member_list.php:102
+#: admin/member/staff_list.php:43 admin/member/staff_list.php:53
+#: admin/staff-member/index.php:167 admin/staff-member/index.php:178
+#: template/accountant/accountant.php:234
+#: template/accountant/accountant.php:250
+#: template/committee-member/committee-member.php:84
+#: template/committee-member/committee-member.php:100
+#: template/gatekeeper/gatekeeper.php:229
+#: template/gatekeeper/gatekeeper.php:245 template/member/member.php:353
+#: template/member/member.php:365 template/staff-members/staff-members.php:78
+#: template/staff-members/staff-members.php:88
+msgid "Photo"
+msgstr "Foto"
+
+#: amgt-function.php:572 amgt-function.php:574
+msgid "Photo Gallery"
+msgstr "Pildigalerii"
+
+#: admin/message/view_message.php:176 template/message/view_message.php:214
+msgid "Please select atleast one users to reply"
+msgstr "Valige vastamiseks vähemalt üks kasutaja"
+
+#: admin/visitor-manage/index.php:70 admin/visitor-manage/index.php:101
+msgid "Please Select Gate."
+msgstr "Palun valige värav."
+
+#: admin/general-settings.php:374
+msgid "Polish Zloty"
+msgstr "Poola zlott"
+
+#: amgt-function.php:532
+msgctxt "Post Type General Name"
+msgid "FAQ"
+msgstr "KKK"
+
+#: amgt-function.php:570
+msgctxt "Post Type General Name"
+msgid "Photo Gallery"
+msgstr "Pildigalerii"
+
+#: amgt-function.php:495
+msgctxt "Post Type General Name"
+msgid "Society Rules"
+msgstr "Ühiskonna reeglid"
+
+#: amgt-function.php:533
+msgctxt "Post Type Singular Name"
+msgid "FAQ"
+msgstr "KKK"
+
+#: amgt-function.php:571
+msgctxt "Post Type Singular Name"
+msgid "Photo Gallery"
+msgstr "Pildigalerii"
+
+#: amgt-function.php:496
+msgctxt "Post Type Singular Name"
+msgid "Society Rules"
+msgstr "Ühiskonna reeglid"
+
+#: admin/general-settings.php:376
+msgid "Pound Sterling"
+msgstr "Naelsterling"
+
+#: amgt-function.php:1468
+msgid "Previous"
+msgstr "Eelmine"
+
+#: translation_string.php:24
+msgid "Print"
+msgstr "Prindi"
+
+#: admin/visitor-manage/visitor-checkin-list.php:215
+#: template/visitor-manage/visitor-manage.php:558
+msgid "Print Details"
+msgstr "Prindi üksikasjad"
+
+#: admin/accounts/index.php:1184
+msgid "Print Payment Receipt"
+msgstr "Prindi maksekviitung"
+
+#: admin/facility/facility-booking-list.php:109
+#: admin/visitor-manage/visitor-checkin-list.php:100
+#: admin/visitor-manage/visitor-checkin-list.php:162
+#: template/facility/facility-booking-list.php:153
+#: template/visitor-manage/visitor-manage.php:494
+msgid "Processing"
+msgstr "Töötlemine"
+
+#: amgt-function.php:1461
+msgid "Processing..."
+msgstr "Töötlemine ..."
+
+#: amgt-function.php:51 admin/access_right/Accountant.php:955
+#: admin/access_right/Gatekeeper.php:954 admin/access_right/Member.php:955
+#: admin/access_right/Staff_Member.php:955
+msgid "Profile"
+msgstr "Profiil"
+
+#: admin/general-settings.php:220
+msgid "Profile Cover Image"
+msgstr "Profiili kaanepilt"
+
+#: template/profile/profile.php:227
+msgid "Profile Successfully updated."
+msgstr "Profiili värskendamine õnnestus."
+
+#: admin/member/view_user.php:455 template/member/view_member.php:511
+msgid "Proof Document List"
+msgstr "Tõendavate dokumentide loend"
+
+#: admin/member/add_member.php:596 template/member/add_member.php:587
+msgid "Proof Documents"
+msgstr "Tõendavad dokumendid"
+
+#: admin/notice-events/add_notice.php:89 admin/notice-events/index.php:353
+#: template/notice-event/add_notice.php:87
+#: template/notice-event/notice-event.php:447
+msgid "Proposal"
+msgstr "Ettepanek"
+
+#: admin/notice-events/add_event.php:170
+#: template/notice-event/add_event.php:138
+msgid "Publish To Notice Board"
+msgstr "Avaldamine teadetetahvlile"
+
+#: admin/assets-inventory/add-assets.php:156
+#: template/assets-inventory-tracker/add_asset.php:154
+msgid "Purchase Date"
+msgstr "Ostu kuupäev"
+
+#: admin/accountant/add_accountant.php:128 admin/member/add_accountant.php:139
+#: admin/member/add_staff_member.php:170 admin/member/view_user.php:214
+#: admin/staff-member/add_staff_member.php:128
+#: template/accountant/add_accountant.php:128
+#: template/member/view_member.php:245
+msgid "Qualification"
+msgstr "Kvalifikatsioon"
+
+#: admin/assets-inventory/inventory-list.php:28
+#: admin/assets-inventory/inventory-list.php:36
+#: template/assets-inventory-tracker/inventory_list.php:27
+#: template/assets-inventory-tracker/inventory_list.php:37
+msgid "Quantity"
+msgstr "Kogus"
+
+#: admin/assets-inventory/add-inventory.php:61
+#: template/assets-inventory-tracker/add_inventory.php:62
+msgid "Quantity  "
+msgstr "Kogus"
+
+#: amgt-function.php:423
+msgid "Quarter I"
+msgstr "I kvartal"
+
+#: amgt-function.php:425
+msgid "Quarter II"
+msgstr "II kvartal"
+
+#: amgt-function.php:427
+msgid "Quarter III"
+msgstr "III kvartal"
+
+#: amgt-function.php:429
+msgid "Quarter IV"
+msgstr "IV kvartal"
+
+#: amgt-function.php:131 admin/accounts/add-charges-all-member.php:111
+#: admin/accounts/recuring_charg_list.php:91
+msgid "Quarterly"
+msgstr "Kord kvartalis"
+
+#: admin/visitor-manage/visitor-checkin.php:180
+#: template/visitor-manage/visitor_checkin.php:121
+msgid "Reason For Visit"
+msgstr "Külastuse põhjus"
+
+#: translation_string.php:39
+msgid "REASON FOR VISIT: "
+msgstr "KÜLASTAMISE PÕHJUS:"
+
+#: translation_string.php:61
+msgid "Reason Name"
+msgstr "Põhjuse nimi"
+
+#: admin/accountant/index.php:117 admin/accounts/index.php:848
+#: admin/assets-inventory/index.php:110 admin/gatekeeper/index.php:111
+#: admin/member-corner/index.php:67 admin/staff-member/index.php:111
+#: template/assets-inventory-tracker/assets-inventory-tracker.php:141
+#: template/parking-manager/parking-manager.php:173
+msgid "Record deleted successfully"
+msgstr "Kirje kustutamine õnnestus"
+
+#: admin/accountant/index.php:97 admin/gatekeeper/index.php:94
+#: admin/member/index.php:252 admin/member-corner/index.php:50
+#: admin/staff-member/index.php:94
+#: template/parking-manager/parking-manager.php:151
+msgid "Record inserted successfully"
+msgstr "Kirje sisestamine õnnestus"
+
+#: admin/general-settings.php:68
+msgid "Record updated successfully"
+msgstr "Kirje värskendamine õnnestus"
+
+#: admin/access_right/index.php:26
+msgid "Record Updated Successfully."
+msgstr "Kirje värskendamine õnnestus."
+
+#: admin/accountant/index.php:106 admin/gatekeeper/index.php:101
+#: admin/member/index.php:259 admin/member-corner/index.php:57
+#: admin/staff-member/index.php:101
+#: template/parking-manager/parking-manager.php:162
+#: template/profile/profile.php:184
+msgid "Record updated successfully."
+msgstr "Kirje värskendamine õnnestus."
+
+#: admin/report/complaint.php:41 admin/report/expense.php:46
+#: admin/report/member_by_building.php:65 admin/report/payment.php:70
+#: admin/report/unit_by_building.php:66 template/report/complaint.php:25
+#: template/report/expense.php:46 template/report/member_by_building.php:44
+#: template/report/payment.php:47 template/report/unit_by_building.php:45
+msgid "Records Not Found"
+msgstr "Kirjeid ei leitud"
+
+#: admin/notification-templates/index.php:150
+msgid "Registration Email Template"
+msgstr "Registreerimise e-posti mall"
+
+#: admin/notification-templates/index.php:132
+msgid "Registration Email Template "
+msgstr "Registreerimise e-posti mall"
+
+#: amgt-function.php:363
+msgid "Remember Me"
+msgstr "Mäleta mind"
+
+#: amgt-function.php:664 amgt-function.php:688
+msgid "Remove"
+msgstr "Eemalda"
+
+#: admin/message/view_message.php:218 template/message/view_message.php:258
+msgid "Reply"
+msgstr "Vasta"
+
+#: admin/message/view_message.php:117
+msgid "Reply By :"
+msgstr "Vastus:"
+
+#: template/message/view_message.php:144
+msgid "Reply By : "
+msgstr "Vastus:"
+
+#: admin/message/view_message.php:120
+msgid "Reply To :"
+msgstr "Vastama :"
+
+#: template/message/view_message.php:147
+msgid "Reply To : "
+msgstr "Vastama :"
+
+#: amgt-function.php:50 admin/admin.php:54 admin/admin.php:54
+#: admin/access_right/Accountant.php:1135
+#: admin/access_right/Gatekeeper.php:1134 admin/access_right/Member.php:1135
+#: admin/access_right/Staff_Member.php:1135
+msgid "Report"
+msgstr "Aruanne"
+
+#: admin/complaint/add_complaint.php:136 admin/complaint/index.php:198
+#: template/complaint/add_complain.php:137 template/complaint/complaint.php:288
+msgid "Request"
+msgstr "Taotlus"
+
+#: admin/visitor-manage/index.php:247
+#: template/visitor-manage/visitor-manage.php:257
+msgid "Request deleted successfully"
+msgstr "Taotlus on edukalt kustutatud"
+
+#: translation_string.php:88
+msgid "Required form field is missing"
+msgstr "Nõutav vormiväli puudub"
+
+#: admin/access_right/Accountant.php:233 admin/access_right/Gatekeeper.php:233
+#: admin/access_right/Member.php:233 admin/access_right/Staff_Member.php:233
+msgid "Resident Unit"
+msgstr "Elamisüksus"
+
+#: admin/general-settings.php:123
+msgid "Residential"
+msgstr "Elamu"
+
+#: admin/admin.php:18 admin/admin.php:23
+msgid "Residential Unit "
+msgstr "Elamuüksus"
+
+#: admin/residential-unit/index.php:157
+#: template/resident_unit/resident_unit.php:108
+msgid "Residential Unit deleted successfully"
+msgstr "Elamu kustutamine õnnestus"
+
+#: admin/residential-unit/index.php:139
+#: template/resident_unit/resident_unit.php:86
+msgid "Residential Unit inserted successfully"
+msgstr "Elamu on edukalt sisestatud"
+
+#: admin/residential-unit/index.php:176
+msgid "Residential Unit List"
+msgstr "Eluruumide loetelu"
+
+#: admin/residential-unit/index.php:148
+msgid "Residential Unit Updated successfully"
+msgstr "Elamu uuendus edukalt"
+
+#: template/resident_unit/resident_unit.php:97
+msgid "Residential Unit updated successfully."
+msgstr "Elamu uuendamine õnnestus."
+
+#: admin/complaint/add_complaint.php:381 admin/complaint/index.php:160
+#: admin/complaint/index.php:173 template/complaint/add_complain.php:398
+#: template/complaint/complaint.php:193 template/complaint/complaint.php:206
+msgid "Resolution"
+msgstr "Resolutsioon"
+
+#: admin/notification-templates/index.php:1014
+msgid "Reson For Visit"
+msgstr "Reson külastamiseks"
+
+#: admin/notification-templates/index.php:620
+#: admin/parking/assign-sloat.php:213
+#: template/parking-manager/assign_sloat.php:184
+msgid "RFID"
+msgstr "RFID"
+
+#: admin/access_right/Accountant.php:1045
+#: admin/access_right/Gatekeeper.php:1044 admin/access_right/Member.php:1045
+#: admin/access_right/Staff_Member.php:1045
+msgid "Rules"
+msgstr "Reeglid"
+
+#: admin/general-settings.php:520 admin/access_right/Accountant.php:1179
+#: admin/access_right/Gatekeeper.php:1178 admin/access_right/Member.php:1179
+#: admin/access_right/Staff_Member.php:1179
+#: admin/accountant/add_accountant.php:254 admin/ducuments/add-document.php:858
+#: admin/facility/booking-facility.php:248
+#: admin/facility/booking-facility.php:248
+#: admin/gatekeeper/add_gatekeeper.php:228 admin/member/add_accountant.php:267
+#: admin/member/add_gatekeeper.php:288 admin/member/add_member.php:811
+#: admin/member/add_staff_member.php:305
+#: admin/notification-templates/index.php:169
+#: admin/notification-templates/index.php:215
+#: admin/notification-templates/index.php:263
+#: admin/notification-templates/index.php:308
+#: admin/notification-templates/index.php:357
+#: admin/notification-templates/index.php:408
+#: admin/notification-templates/index.php:461
+#: admin/notification-templates/index.php:515
+#: admin/notification-templates/index.php:572
+#: admin/notification-templates/index.php:626
+#: admin/notification-templates/index.php:681
+#: admin/notification-templates/index.php:737
+#: admin/notification-templates/index.php:784
+#: admin/notification-templates/index.php:830
+#: admin/notification-templates/index.php:878
+#: admin/notification-templates/index.php:926
+#: admin/notification-templates/index.php:972
+#: admin/notification-templates/index.php:1023
+#: admin/notification-templates/index.php:1070
+#: admin/parking/assign-sloat.php:395 admin/parking/assign-sloat.php:935
+#: admin/residential-unit/add_unit.php:247 admin/residential-unit/index.php:871
+#: admin/staff-member/add_staff_member.php:239
+#: template/accountant/add_accountant.php:250
+#: template/facility/booking-facility.php:253
+#: template/facility/booking-facility.php:253
+#: template/gatekeeper/gatekeeper.php:666 template/member/add_member.php:801
+#: template/parking-manager/parking-manager.php:961
+#: template/profile/profile.php:317 template/profile/profile.php:367
+#: template/resident_unit/add_unit.php:218
+msgid "Save"
+msgstr "Salvesta"
+
+#: admin/accounts/add-expense.php:167 admin/assets-inventory/add-assets.php:175
+#: admin/assets-inventory/add-inventory.php:97
+#: admin/ducuments/add-document.php:326 admin/parking/add-sloat.php:87
+#: template/assets-inventory-tracker/add_asset.php:172
+#: template/assets-inventory-tracker/add_inventory.php:97
+#: template/documents/add_documents.php:272
+#: template/parking-manager/add_sloat.php:85
+#: template/parking-manager/assign_sloat.php:357
+msgid "save"
+msgstr "salvesta"
+
+#: admin/accounts/add-charges-all-member.php:861
+msgid "Save Charges"
+msgstr "Salvesta tasud"
+
+#: admin/accounts/add-charges-all-member.php:865
+msgid "Save Charges & Create Invoice"
+msgstr "Salvestage tasud ja looge arve"
+
+#: admin/accounts/add-charges-all-member.php:865
+msgid "Save Charges & Update Invoice"
+msgstr "Salvestage tasud ja värskendage arvet"
+
+#: admin/facility/add_facility.php:108 template/facility/add_facility.php:108
+msgid "Save Facility"
+msgstr "Salvesta rajatis"
+
+#: admin/service/add_service.php:112 template/services/add_services.php:103
+msgid "Save Service"
+msgstr "Salvesta teenus"
+
+#: admin/tax/add_tax.php:49
+msgid "Save Tax"
+msgstr "Säästke maks"
+
+#: admin/complaint/add_complaint.php:258 admin/complaint/add_complaint.php:306
+#: admin/complaint/index.php:248 template/complaint/add_complain.php:281
+#: template/complaint/add_complain.php:323 template/complaint/complaint.php:329
+msgid "Scheduled"
+msgstr "Plaaniline"
+
+#: admin/visitor-manage/visitor-checkin.php:415
+#: template/visitor-manage/visitor_checkin.php:372
+msgid "Search"
+msgstr "Otsing"
+
+#: amgt-function.php:543
+msgid "Search FAQ"
+msgstr "Otsi KKK-st"
+
+#: admin/message/view_message.php:163 template/message/view_message.php:201
+msgid "Search for Users..."
+msgstr "Otsi kasutajaid..."
+
+#: amgt-function.php:580
+msgid "Search Photo Gallery"
+msgstr "Otsige fotogaleriist"
+
+#: amgt-function.php:505
+msgid "Search Rules"
+msgstr "Otsimisreeglid"
+
+#: amgt-function.php:1462
+msgid "Search:"
+msgstr "Otsing:"
+
+#: admin/dasboard.php:450
+msgid "Security"
+msgstr "Turvalisus"
+
+#: admin/dasboard.php:467
+msgid "Security Name"
+msgstr "Väärtpaberi nimi"
+
+#: admin/assets-inventory/add-assets.php:125
+#: template/assets-inventory-tracker/add_asset.php:128
+#: template/facility/booking-facility.php:70
+msgid "Select A Facility To Book"
+msgstr "Valige broneeritav ruum"
+
+#: admin/facility/booking-facility.php:116
+#: template/facility/booking-facility.php:116
+msgid "Select Activity"
+msgstr "Valige Aktiivsus"
+
+#: translation_string.php:83 admin/message/view_message.php:161
+#: template/message/view_message.php:200
+msgid "Select all"
+msgstr "Vali kõik"
+
+#: admin/general-settings.php:122
+msgid "Select Apartment Type"
+msgstr "Valige Korteri tüüp"
+
+#: admin/assets-inventory/add-assets.php:98
+#: template/assets-inventory-tracker/add_asset.php:103
+msgid "Select Asset Category"
+msgstr "Valige varakategooria"
+
+#: admin/accounts/add-charges-all-member.php:193
+#: admin/accounts/add-charges-all-member.php:343
+#: admin/accounts/add-charges-all-member.php:400
+#: admin/ducuments/add-document.php:140 admin/ducuments/add-document.php:405
+#: admin/ducuments/add-document.php:902 admin/member/add_member.php:124
+#: admin/member/add_member.php:850 admin/parking/assign-sloat.php:238
+#: admin/parking/assign-sloat.php:448 admin/parking/assign-sloat.php:982
+#: admin/residential-unit/add_unit.php:74 admin/residential-unit/index.php:383
+#: admin/residential-unit/index.php:917 template/documents/add_documents.php:73
+#: template/member/add_member.php:139 template/member/member.php:569
+#: template/parking-manager/assign_sloat.php:209
+#: template/parking-manager/parking-manager.php:470
+#: template/parking-manager/parking-manager.php:1008
+#: template/resident_unit/add_unit.php:57
+msgid "Select Building"
+msgstr "Valige Hoone"
+
+#: admin/complaint/add_complaint.php:212
+#: template/complaint/add_complain.php:230
+msgid "Select Category"
+msgstr "Vali kategooria"
+
+#: admin/visitor-manage/visitor-checkin.php:211
+#: admin/visitor-manage/visitor-checkin.php:492
+#: template/visitor-manage/visitor_checkin.php:166
+msgid "Select Compound"
+msgstr "Valige Compound"
+
+#: admin/general-settings.php:174
+msgid "Select Country"
+msgstr "Vali riik"
+
+#: admin/general-settings.php:331 admin/general-settings.php:334
+msgid "Select Currency"
+msgstr "Valige Valuuta"
+
+#: admin/ducuments/add-document.php:650 admin/member/add_member.php:437
+#: admin/parking/assign-sloat.php:725 admin/residential-unit/index.php:660
+#: template/member/add_member.php:441
+#: template/parking-manager/parking-manager.php:749
+msgid "Select Designation"
+msgstr "Valige Nimetus"
+
+#: admin/notice-events/add_event.php:124
+#: template/notice-event/add_event.php:113
+msgid "Select End Time"
+msgstr "Valige Lõppaeg"
+
+#: admin/accounts/add-expense.php:91
+msgid "Select Expense Type"
+msgstr "Valige Kulu tüüp"
+
+#: admin/assets-inventory/add-assets.php:128
+#: admin/facility/booking-facility.php:86
+#: template/assets-inventory-tracker/add_asset.php:131
+#: template/facility/booking-facility.php:86
+msgid "Select Facility"
+msgstr "Valige Facility"
+
+#: admin/facility/booking-facility.php:70
+msgid "Select Facility To Book"
+msgstr "Valige Broneeritav rajatis"
+
+#: amgt-function.php:663 amgt-function.php:686
+msgid "Select Image"
+msgstr "Valige Pilt"
+
+#: admin/accounts/add-charges-all-member.php:150
+msgid "Select Invoice Option"
+msgstr "Valige Arve valik"
+
+#: admin/accounts/add-charges-all-member.php:275
+#: admin/complaint/add_complaint.php:176 admin/ducuments/add-document.php:225
+#: admin/facility/booking-facility.php:217 admin/parking/assign-sloat.php:326
+#: template/complaint/add_complain.php:194
+#: template/documents/add_documents.php:183
+#: template/facility/booking-facility.php:226
+#: template/parking-manager/assign_sloat.php:295
+msgid "Select Member"
+msgstr "Valige liige"
+
+#: admin/ducuments/add-document.php:516 admin/member/add_member.php:265
+#: admin/parking/assign-sloat.php:591 admin/residential-unit/index.php:527
+#: template/member/add_member.php:284
+#: template/parking-manager/parking-manager.php:616
+msgid "Select Member Type"
+msgstr "Valige Liikme tüüp"
+
+#: admin/ducuments/add-document.php:545 admin/ducuments/add-document.php:581
+#: admin/ducuments/add-document.php:611 admin/member/add_member.php:302
+#: admin/member/add_member.php:348 admin/member/add_member.php:387
+#: admin/parking/assign-sloat.php:621 admin/parking/assign-sloat.php:656
+#: admin/parking/assign-sloat.php:686 admin/residential-unit/index.php:556
+#: admin/residential-unit/index.php:591 admin/residential-unit/index.php:621
+#: template/member/add_member.php:315 template/member/add_member.php:356
+#: template/member/add_member.php:394
+#: template/parking-manager/parking-manager.php:645
+#: template/parking-manager/parking-manager.php:680
+#: template/parking-manager/parking-manager.php:710
+msgid "Select Occupied By"
+msgstr "Valige Okupeeritud"
+
+#: translation_string.php:48
+msgid "Select Profile Picture"
+msgstr "Valige Profiilipilt"
+
+#: admin/visitor-manage/visitor-checkin.php:183
+#: template/visitor-manage/visitor_checkin.php:124
+msgid "Select Reason"
+msgstr "Valige Põhjus"
+
+#: admin/parking/assign-sloat.php:172
+#: template/parking-manager/assign_sloat.php:143
+msgid "Select Slot"
+msgstr "Valige pesa"
+
+#: admin/member/add_staff_member.php:136
+#: admin/staff-member/add_staff_member.php:98
+msgid "Select Staff Category"
+msgstr "Valige personali kategooria"
+
+#: admin/visitor-manage/staff-checkin.php:108
+#: template/visitor-manage/staff_checkin.php:90
+msgid "Select Staff Member"
+msgstr "Valige Töötaja"
+
+#: admin/notice-events/add_event.php:111
+#: template/notice-event/add_event.php:100
+msgid "Select Start Time"
+msgstr "Valige Algusaeg"
+
+#: admin/visitor-manage/visitor-checkin-list.php:99
+msgid "Select status"
+msgstr "Valige olek"
+
+#: admin/accounts/add-charges-all-member.php:677
+#: admin/accounts/add-charges-all-member.php:713
+#: admin/accounts/add-charges-all-member.php:755
+#: admin/accounts/add-charges-all-member.php:896
+#: admin/accounts/add-charges-all-member.php:928
+msgid "Select Tax"
+msgstr "Valige Maks"
+
+#: admin/assets-inventory/add-inventory.php:72
+#: template/assets-inventory-tracker/add_inventory.php:73
+msgid "Select Unit"
+msgstr "Valige Ühik"
+
+#: admin/accounts/add-charges-all-member.php:220
+#: admin/accounts/add-charges-all-member.php:369
+#: admin/ducuments/add-document.php:170 admin/ducuments/add-document.php:432
+#: admin/ducuments/add-document.php:923 admin/member/add_member.php:159
+#: admin/member/add_member.php:870 admin/parking/assign-sloat.php:269
+#: admin/parking/assign-sloat.php:478 admin/parking/assign-sloat.php:1002
+#: admin/residential-unit/add_unit.php:120 admin/residential-unit/index.php:415
+#: admin/residential-unit/index.php:937
+#: admin/visitor-manage/visitor-checkin.php:241
+#: admin/visitor-manage/visitor-checkin.php:513
+#: template/documents/add_documents.php:106 template/member/add_member.php:170
+#: template/member/member.php:589 template/parking-manager/assign_sloat.php:238
+#: template/parking-manager/parking-manager.php:502
+#: template/parking-manager/parking-manager.php:1028
+#: template/resident_unit/add_unit.php:101
+#: template/visitor-manage/visitor_checkin.php:194
+msgid "Select Unit Category"
+msgstr "Valige üksuse kategooria"
+
+#: admin/general-settings.php:402
+msgid "Select Unit Measurement"
+msgstr "Valige Ühiku mõõtmine"
+
+#: admin/accounts/add-charges-all-member.php:248
+#: admin/ducuments/add-document.php:197 admin/ducuments/add-document.php:453
+#: admin/member/add_member.php:186 admin/parking/assign-sloat.php:297
+#: admin/parking/assign-sloat.php:506 admin/residential-unit/index.php:443
+#: admin/visitor-manage/visitor-checkin.php:268
+#: template/documents/add_documents.php:134 template/member/add_member.php:198
+#: template/parking-manager/assign_sloat.php:266
+#: template/parking-manager/parking-manager.php:530
+#: template/visitor-manage/visitor_checkin.php:221
+msgid "Select Unit Name"
+msgstr "Valige üksuse nimi"
+
+#: admin/message/view_message.php:225 template/message/view_message.php:265
+msgid "Select user to reply"
+msgstr "Valige kasutaja, kellele soovite vastata"
+
+#: admin/message/view_message.php:158 template/message/view_message.php:196
+msgid "Select users to reply"
+msgstr "Valige kasutajad, kellele vastata"
+
+#: admin/message/view_message.php:259 template/message/view_message.php:299
+msgid "Send"
+msgstr "Saada"
+
+#: admin/message/composemail.php:83 template/message/composemail.php:93
+msgid "Send Message"
+msgstr "Saada sõnum"
+
+#: admin/notice-events/add_event.php:145 admin/notice-events/add_notice.php:130
+#: template/notice-event/add_event.php:147
+#: template/notice-event/add_notice.php:124
+msgid "Send SMS"
+msgstr "Saada SMS"
+
+#: admin/message/index.php:75 template/message/message.php:110
+msgid "Sent"
+msgstr "Saadetud"
+
+#: admin/message/index.php:58 template/message/message.php:91
+msgid "Sent Item"
+msgstr "Saadetud üksus"
+
+#: admin/report/expense.php:4 admin/report/payment.php:4
+#: template/report/expense.php:4 template/report/payment.php:4
+msgid "September"
+msgstr "Septembrini"
+
+#: fronted_template.php:941 admin/dasboard.php:412
+msgid "Service"
+msgstr "Teenus"
+
+#: admin/service/index.php:69 template/services/services.php:111
+msgid "Service deleted successfully"
+msgstr "Teenuse kustutamine õnnestus"
+
+#: admin/service/index.php:58 template/services/services.php:89
+msgid "Service inserted successfully"
+msgstr "Teenuse sisestamine õnnestus"
+
+#: admin/service/index.php:83 template/services/services.php:132
+msgid "Service List"
+msgstr "Teenuste loend"
+
+#: fronted_template.php:1007 admin/dasboard.php:423
+#: admin/service/add_service.php:52 admin/service/index.php:126
+#: admin/service/index.php:137 template/services/add_services.php:38
+#: template/services/services.php:188 template/services/services.php:205
+msgid "Service Name"
+msgstr "Teenuse nimi"
+
+#: fronted_template.php:1013 admin/dasboard.php:429 admin/service/index.php:127
+#: admin/service/index.php:138 template/services/services.php:189
+#: template/services/services.php:206
+msgid "Service Provider"
+msgstr "Teenusepakkuja"
+
+#: admin/service/add_service.php:63 template/services/add_services.php:49
+msgid "Service Provider Name"
+msgstr "Teenusepakkuja nimi"
+
+#: admin/service/index.php:64 template/services/services.php:100
+msgid "Service updated successfully."
+msgstr "Teenuse värskendamine õnnestus."
+
+#: amgt-function.php:44 admin/admin.php:38 admin/admin.php:38
+#: admin/access_right/Accountant.php:685 admin/access_right/Gatekeeper.php:684
+#: admin/access_right/Member.php:685 admin/access_right/Staff_Member.php:685
+msgid "Services"
+msgstr "Teenused"
+
+#: amgt-function.php:1459
+msgid "Show _MENU_ entries"
+msgstr "Kuva _MENU_ kirjed"
+
+#: amgt-function.php:1455
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Kuvatakse 0 kuni 0 0 kirjest"
+
+#: amgt-function.php:1454
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Kuvatakse _START_ kuni _END_ / _TOTAL_ kirjest"
+
+#: admin/general-settings.php:378
+msgid "Singapore Dollar"
+msgstr "Singapuri dollar"
+
+#: admin/member/add_staff_member.php:178 admin/member/view_user.php:235
+#: admin/staff-member/add_staff_member.php:134
+#: template/member/view_member.php:269
+msgid "Skills"
+msgstr "Oskused"
+
+#: admin/parking/assign-sloat.php:169
+#: template/parking-manager/assign_sloat.php:140
+msgid "Slot"
+msgstr "Pesa"
+
+#: admin/parking/index.php:171
+msgid "Slot Assign inserted successfully"
+msgstr "Pesa määramine on edukalt sisestatud"
+
+#: admin/parking/index.php:178
+msgid "Slot Assign updated successfully."
+msgstr "Pesa määramise värskendamine õnnestus."
+
+#: admin/parking/index.php:152
+msgid "Slot deleted successfully"
+msgstr "Pesa kustutamine õnnestus"
+
+#: admin/parking/add-sloat.php:65 template/parking-manager/add_sloat.php:63
+msgid "Slot For"
+msgstr "Pesa jaoks"
+
+#: admin/parking/index.php:135
+msgid "Slot inserted successfully"
+msgstr "Pesa sisestamine õnnestus"
+
+#: admin/parking/index.php:193 template/parking-manager/parking-manager.php:204
+msgid "Slot List"
+msgstr "Pesade loend"
+
+#: admin/notification-templates/index.php:614 admin/parking/add-sloat.php:56
+#: template/parking-manager/add_sloat.php:54
+msgid "Slot Name"
+msgstr "Pesa nimi"
+
+#: admin/parking/assigned-sloat-list.php:34
+#: admin/parking/assigned-sloat-list.php:47 admin/parking/index.php:234
+#: admin/parking/index.php:242
+#: template/parking-manager/assigned-sloat-list.php:70
+#: template/parking-manager/assigned-sloat-list.php:85
+#: template/parking-manager/parking-manager.php:268
+#: template/parking-manager/parking-manager.php:278
+msgid "Slot No"
+msgstr "Pesa nr"
+
+#: admin/parking/assigned-sloat-list.php:35
+#: admin/parking/assigned-sloat-list.php:48 admin/parking/index.php:235
+#: admin/parking/index.php:243
+#: template/parking-manager/assigned-sloat-list.php:71
+#: template/parking-manager/assigned-sloat-list.php:86
+#: template/parking-manager/parking-manager.php:269
+#: template/parking-manager/parking-manager.php:279
+msgid "Slot Type"
+msgstr "Pesa tüüp"
+
+#: admin/parking/index.php:142
+msgid "Slot updated successfully."
+msgstr "Pesa värskendamine õnnestus."
+
+#: admin/notice-events/add_event.php:160 admin/notice-events/add_notice.php:145
+#: template/notice-event/add_event.php:162
+#: template/notice-event/add_notice.php:139
+msgid "SMS Text"
+msgstr "SMS-tekst"
+
+#: template/complaint/add_complain.php:166
+msgid "Society"
+msgstr "Selts"
+
+#: amgt-function.php:53 amgt-function.php:497 amgt-function.php:499
+msgid "Society Rules"
+msgstr "Ühiskonna reeglid"
+
+#: admin/member-corner/index.php:81 template/society_rules/society_rules.php:48
+msgid "Society Rules List"
+msgstr "Ühiskonna reeglite loend"
+
+#: admin/accountant/index.php:43
+msgid "Sorry, only JPG, JPEG, PNG & GIF files are allowed!"
+msgstr "Kahjuks on lubatud ainult JPG, JPEG, PNG ja GIF failid!"
+
+#: admin/accountant/index.php:66 admin/gatekeeper/index.php:42
+#: admin/gatekeeper/index.php:62 admin/staff-member/index.php:42
+#: admin/staff-member/index.php:62 template/accountant/accountant.php:79
+#: template/accountant/accountant.php:106 template/gatekeeper/gatekeeper.php:80
+#: template/gatekeeper/gatekeeper.php:104 template/member/member.php:155
+#: template/member/member.php:225
+msgid "Sorry, only JPG, JPEG, PNG & GIF files are allowed!."
+msgstr "Kahjuks on lubatud ainult JPG-, JPEG-, PNG- ja GIF-failid !."
+
+#: admin/complaint/add_complaint.php:67 admin/ducuments/add-document.php:9
+#: admin/member/add_member.php:15 admin/member/index.php:119
+#: admin/member/index.php:181 admin/member/index.php:393
+#: admin/member/index.php:415 admin/member/index.php:461
+#: admin/member/index.php:481 admin/member/index.php:527
+#: admin/member/index.php:547 admin/notice-events/add_event.php:58
+#: admin/notice-events/add_notice.php:46 admin/parking/assign-sloat.php:9
+#: template/complaint/add_complain.php:73
+#: template/gatekeeper/gatekeeper.php:428 template/member/add_member.php:23
+#: template/notice-event/notice-event.php:8
+#: template/parking-manager/parking-manager.php:408
+msgid "Sorry, only JPG, JPEG, PNG & GIF files are allowed."
+msgstr "Kahjuks on lubatud ainult JPG-, JPEG-, PNG- ja GIF-failid."
+
+#: template/documents/documents.php:8
+msgid "Sorry, only JPG, JPEG, PNG, GIF and PDF files are allowed."
+msgstr "Kahjuks on lubatud ainult JPG-, JPEG-, PNG-, GIF- ja PDF-failid."
+
+#: translation_string.php:90
+msgid "Sorry, that username already exists!"
+msgstr "Vabandust, see kasutajanimi on juba olemas!"
+
+#: translation_string.php:91
+msgid "Sorry, the username you entered is not valid"
+msgstr "Kahjuks teie sisestatud kasutajanimi ei kehti"
+
+#: admin/report/complaint.php:29 template/report/complaint.php:9
+msgid "Source"
+msgstr "Allikas"
+
+#: amgt-function.php:949 admin/general-settings.php:406
+#: admin/accounts/add-charges-all-member.php:541
+msgid "Square Feet"
+msgstr "Ruudukujulised jalad"
+
+#: amgt-function.php:950 admin/general-settings.php:409
+#: admin/accounts/add-charges-all-member.php:537
+msgid "Square Meter"
+msgstr "Ruutmeeter"
+
+#: admin/ducuments/add-document.php:954 admin/member/add_member.php:903
+#: admin/parking/assign-sloat.php:1034 admin/residential-unit/add_unit.php:181
+#: admin/residential-unit/add_unit.php:213 admin/residential-unit/index.php:971
+#: admin/visitor-manage/visitor-checkin.php:543 template/member/member.php:620
+#: template/parking-manager/parking-manager.php:1059
+#: template/resident_unit/add_unit.php:158
+#: template/resident_unit/add_unit.php:186
+msgid "square meter"
+msgstr "ruutmeeter"
+
+#: amgt-function.php:951 admin/general-settings.php:412
+#: admin/accounts/add-charges-all-member.php:545
+msgid "Square Yards"
+msgstr "Ruutuardad"
+
+#: admin/member/add_staff_member.php:133 admin/member/view_user.php:224
+#: admin/staff-member/add_staff_member.php:95
+#: template/member/view_member.php:257
+msgid "Staff Category"
+msgstr "Personali kategooria"
+
+#: translation_string.php:11
+msgid "Staff Category Name"
+msgstr "Personali kategooria nimi"
+
+#: admin/visitor-manage/index.php:326
+#: template/visitor-manage/visitor-manage.php:367
+msgid "Staff Checkin"
+msgstr "Töötajate kontroll"
+
+#: admin/visitor-manage/index.php:316
+#: template/visitor-manage/visitor-manage.php:349
+msgid "Staff Checkin List"
+msgstr "Töötajate kontrollnimekiri"
+
+#: admin/access_right/Accountant.php:415 admin/access_right/Gatekeeper.php:415
+#: admin/access_right/Member.php:415 admin/access_right/Staff_Member.php:415
+msgid "Staff Management"
+msgstr "Personali juhtimine"
+
+#: amgt-function.php:38 amgt-function.php:79 amgt-function.php:99
+#: admin/access_right/index.php:44 admin/visitor-manage/staff-checkin.php:105
+#: template/visitor-manage/staff_checkin.php:87
+msgid "Staff Member"
+msgstr "Töötaja"
+
+#: translation_string.php:51
+msgid "Staff member"
+msgstr "Töötaja"
+
+#: admin/access_right/Staff_Member.php:216
+msgid "Staff Member Access Right"
+msgstr "Töötajate juurdepääsuõigus"
+
+#: admin/member/index.php:285
+msgid "Staff Member deleted successfully"
+msgstr "Töötaja kustutamine õnnestus"
+
+#: admin/member/index.php:333
+msgid "Staff Member inserted successfully."
+msgstr "Töötaja sisestamine õnnestus."
+
+#: admin/member/index.php:573 admin/staff-member/index.php:125
+#: template/staff-members/staff-members.php:47
+msgid "Staff Member List"
+msgstr "Töötajate nimekiri"
+
+#: admin/member/index.php:325
+msgid "Staff Member updated successfully."
+msgstr "Töötaja uuendus edukalt."
+
+#: admin/visitor-manage/index.php:268
+#: template/visitor-manage/visitor-manage.php:292
+msgid "Staff Request inserted successfully"
+msgstr "Töötaotlus on edukalt sisestatud"
+
+#: admin/visitor-manage/index.php:275
+#: template/visitor-manage/visitor-manage.php:304
+msgid "Staff Request Updated successfully"
+msgstr "Töötaotlust värskendati edukalt"
+
+#: admin/staff-member/index.php:170 admin/staff-member/index.php:181
+#: template/staff-members/staff-members.php:81
+#: template/staff-members/staff-members.php:91
+msgid "Staff Role"
+msgstr "Personali roll"
+
+#: fronted_template.php:59 admin/accounts/add-charges-all-member.php:122
+#: admin/facility/booking-facility.php:145
+#: admin/facility/facility-booking-list.php:34
+#: admin/facility/facility-booking-list.php:49
+#: admin/notice-events/add_event.php:104 admin/notice-events/event_list.php:27
+#: admin/notice-events/event_list.php:37
+#: admin/notification-templates/index.php:615
+#: admin/report/download_expense_report.php:29
+#: admin/report/download_income_expense_report.php:29
+#: admin/visitor-manage/visitor-checkin-list.php:84
+#: template/facility/booking-facility.php:144
+#: template/facility/facility-booking-list.php:34
+#: template/facility/facility-booking-list.php:50
+#: template/notice-event/add_event.php:93
+#: template/notice-event/event_list.php:66
+#: template/notice-event/event_list.php:76
+msgid "Start Date"
+msgstr "Algus kuupäev"
+
+#: admin/dasboard.php:27
+msgid "Start Date:"
+msgstr "Algus kuupäev:"
+
+#: fronted_template.php:61 admin/facility/booking-facility.php:181
+#: admin/facility/facility-booking-list.php:36
+#: admin/facility/facility-booking-list.php:51
+#: admin/notice-events/add_event.php:109 admin/notice-events/event_list.php:29
+#: admin/notice-events/event_list.php:39
+#: template/facility/booking-facility.php:179
+#: template/facility/facility-booking-list.php:36
+#: template/facility/facility-booking-list.php:52
+#: template/notice-event/add_event.php:98
+#: template/notice-event/event_list.php:67
+#: template/notice-event/event_list.php:77
+msgid "Start Time"
+msgstr "Algusaeg"
+
+#: admin/dasboard.php:29
+msgid "Start Time:"
+msgstr "Algusaeg:"
+
+#: admin/general-settings.php:131
+msgid "Starting Year"
+msgstr "Algav aasta"
+
+#: admin/general-settings.php:157 admin/accountant/add_accountant.php:171
+#: admin/ducuments/add-document.php:694 admin/gatekeeper/add_gatekeeper.php:159
+#: admin/member/add_accountant.php:183 admin/member/add_gatekeeper.php:208
+#: admin/member/add_member.php:491 admin/member/add_staff_member.php:226
+#: admin/member/view_user.php:297 admin/parking/assign-sloat.php:768
+#: admin/residential-unit/index.php:704
+#: admin/staff-member/add_staff_member.php:171
+#: template/accountant/add_accountant.php:171
+#: template/gatekeeper/gatekeeper.php:588 template/member/add_member.php:485
+#: template/member/view_member.php:344
+#: template/parking-manager/parking-manager.php:793
+msgid "State"
+msgstr "Osariik"
+
+#: admin/complaint/add_complaint.php:239 admin/complaint/add_complaint.php:287
+#: admin/complaint/index.php:158 admin/complaint/index.php:171
+#: admin/facility/facility-booking-list.php:40
+#: admin/facility/facility-booking-list.php:55 admin/facility/index.php:435
+#: admin/facility/index.php:445 admin/member-corner/index.php:123
+#: admin/member-corner/index.php:132 admin/notice-events/index.php:317
+#: admin/notice-events/index.php:327 admin/parking/assigned-sloat-list.php:41
+#: admin/parking/assigned-sloat-list.php:54
+#: admin/visitor-manage/visitor-checkin-list.php:96
+#: admin/visitor-manage/visitor-checkin-list.php:136
+#: admin/visitor-manage/visitor-checkin-list.php:148
+#: template/complaint/add_complain.php:263
+#: template/complaint/add_complain.php:305 template/complaint/complaint.php:191
+#: template/complaint/complaint.php:204
+#: template/facility/facility-booking-list.php:40
+#: template/facility/facility-booking-list.php:56
+#: template/facility/facility.php:379 template/facility/facility.php:393
+#: template/member/member.php:355 template/member/member.php:367
+#: template/notice-event/notice-event.php:360
+#: template/notice-event/notice-event.php:370
+#: template/parking-manager/assigned-sloat-list.php:77
+#: template/parking-manager/assigned-sloat-list.php:92
+#: template/visitor-manage/visitor-manage.php:408
+#: template/visitor-manage/visitor-manage.php:421
+msgid "Status"
+msgstr "Staatus"
+
+#: translation_string.php:34
+msgid "Status:"
+msgstr "Staatus:"
+
+#: admin/message/composemail.php:64 admin/message/inbox.php:35
+#: admin/message/sendbox.php:34 admin/message/view_message.php:67
+#: template/message/composemail.php:74 template/message/inbox.php:35
+#: template/message/sendbox.php:38 template/message/view_message.php:74
+msgid "Subject"
+msgstr "Teema"
+
+#: admin/complaint/add_complaint.php:390 admin/member-corner/add_rule.php:40
+#: admin/notice-events/add_event.php:178 admin/notice-events/add_event.php:178
+#: admin/notice-events/add_notice.php:155
+#: admin/notice-events/add_notice.php:155 admin/setupform/index.php:75
+#: admin/visitor-manage/index.php:444 template/complaint/add_complain.php:408
+#: template/complaint/add_complain.php:408
+#: template/notice-event/add_event.php:174
+#: template/notice-event/add_event.php:174
+#: template/notice-event/add_notice.php:149
+#: template/notice-event/add_notice.php:149
+msgid "Submit"
+msgstr "Esita"
+
+#: admin/ducuments/index.php:175 admin/ducuments/index.php:186
+#: template/documents/documents.php:227 template/documents/documents.php:237
+msgid "Submitted By"
+msgstr "Esitatud"
+
+#: admin/ducuments/index.php:176 admin/ducuments/index.php:187
+#: template/documents/documents.php:228 template/documents/documents.php:238
+msgid "Submitted Date"
+msgstr "Esitamise kuupäev"
+
+#: translation_string.php:17
+msgid "Subtotal :"
+msgstr "Vahesumma:"
+
+#: admin/complaint/add_complaint.php:133 admin/complaint/index.php:194
+#: template/complaint/add_complain.php:134 template/complaint/complaint.php:284
+msgid "Suggestion"
+msgstr "Ettepanek"
+
+#: admin/general-settings.php:380
+msgid "Swedish Krona"
+msgstr "Rootsi kroon"
+
+#: admin/general-settings.php:513
+msgid "Swift Code"
+msgstr "Kiirkood"
+
+#: admin/general-settings.php:382
+msgid "Swiss Franc"
+msgstr "Šveitsi frank"
+
+#: admin/general-settings.php:384
+msgid "Taiwan New Dollar"
+msgstr "Taiwani uus dollar"
+
+#: admin/admin.php:42 admin/accounts/add-charges-all-member.php:674
+#: admin/accounts/add-charges-all-member.php:693
+#: admin/accounts/add-charges-all-member.php:710
+#: admin/accounts/add-charges-all-member.php:729
+#: admin/accounts/add-charges-all-member.php:752
+#: admin/accounts/add-charges-all-member.php:771
+#: admin/accounts/add-charges-all-member.php:893
+#: admin/accounts/add-charges-all-member.php:908
+#: admin/accounts/add-charges-all-member.php:925
+#: admin/accounts/add-charges-all-member.php:940 admin/tax/add_tax.php:38
+msgid "Tax"
+msgstr "Maks"
+
+#: admin/accounts/add-charges-all-member.php:802
+#: admin/accounts/add-charges-all-member.php:829
+#: admin/accounts/recuring_charg_list.php:43
+#: admin/accounts/recuring_charg_list.php:56
+msgid "Tax Amount"
+msgstr "Maksusumma"
+
+#: translation_string.php:20
+msgid "Tax Amount :"
+msgstr "Maksusumma:"
+
+#: admin/tax/index.php:65
+msgid "Tax deleted successfully"
+msgstr "Maks kustutati edukalt"
+
+#: admin/general-settings.php:452
+msgid "TAX ID"
+msgstr "MAKSU ID"
+
+#: admin/tax/index.php:52
+msgid "Tax inserted successfully"
+msgstr "Maksu sisestamine õnnestus"
+
+#: admin/tax/index.php:80
+msgid "Tax List"
+msgstr "Maksude nimekiri"
+
+#: admin/tax/add_tax.php:27
+msgid "Tax Name"
+msgstr "Maksunimi"
+
+#: class/tax.php:84 admin/tax/index.php:120 admin/tax/index.php:127
+msgid "Tax Title"
+msgstr "Maksupealkiri"
+
+#: admin/tax/index.php:59
+msgid "Tax updated successfully."
+msgstr "Maks uuendatud edukalt."
+
+#: admin/tax/index.php:121 admin/tax/index.php:128
+msgid "Tax(%)"
+msgstr "Maks (%)"
+
+#: amgt-function.php:116 admin/ducuments/add-document.php:525
+#: admin/ducuments/add-document.php:554 admin/ducuments/add-document.php:584
+#: admin/ducuments/add-document.php:620 admin/member/add_member.php:280
+#: admin/parking/assign-sloat.php:600 admin/parking/assign-sloat.php:630
+#: admin/parking/assign-sloat.php:659 admin/parking/assign-sloat.php:695
+#: admin/residential-unit/index.php:536 admin/residential-unit/index.php:565
+#: admin/residential-unit/index.php:594 admin/residential-unit/index.php:630
+#: template/member/add_member.php:293
+#: template/parking-manager/parking-manager.php:625
+#: template/parking-manager/parking-manager.php:654
+#: template/parking-manager/parking-manager.php:683
+#: template/parking-manager/parking-manager.php:719
+msgid "Tenant"
+msgstr "Üürnik"
+
+#: amgt-function.php:120 admin/ducuments/add-document.php:527
+#: admin/member/add_member.php:282 admin/parking/assign-sloat.php:602
+#: admin/residential-unit/index.php:538 template/member/add_member.php:295
+#: template/parking-manager/parking-manager.php:627
+msgid "Tenant Family"
+msgstr "Üürnike perekond"
+
+#: admin/general-settings.php:386
+msgid "Thai Baht"
+msgstr "Tai baht"
+
+#: admin/accounts/add-charges-all-member.php:142
+msgid ""
+"The recurring invoices generated every one month until the end date of the "
+"charge."
+msgstr "Korduvad arved genereeritakse iga kuu kuni makse lõppkuupäevani."
+
+#: admin/setupform/index.php:33
+msgid ""
+"There seems to be some problem please try after sometime or contact us on "
+"sales@dasinfomeida.com"
+msgstr ""
+"Tundub, et on mõni probleem. Proovige millalgi pärast seda või võtke meiega "
+"ühendust aadressil sales@dasinfomeida.com"
+
+#: template/parking-manager/parking-manager.php:184
+msgid "This Parking Slot Allready Assigned"
+msgstr "See parkimispesa on juba määratud"
+
+#: admin/parking/index.php:161
+msgid "This Parking Slot Already Assigned"
+msgstr "See parkimispesa on juba määratud"
+
+#: admin/complaint/add_complaint.php:328 admin/complaint/index.php:157
+#: admin/complaint/index.php:170 template/complaint/add_complain.php:345
+#: template/complaint/complaint.php:190 template/complaint/complaint.php:203
+msgid "Time"
+msgstr "Aeg"
+
+#: admin/complaint/add_complaint.php:148 admin/complaint/index.php:154
+#: admin/complaint/index.php:167 admin/ducuments/add-document.php:265
+#: admin/ducuments/add-document.php:288 admin/ducuments/index.php:173
+#: admin/ducuments/index.php:184 admin/member/add_member.php:685
+#: admin/member/add_member.php:717 admin/member/add_member.php:767
+#: admin/member-corner/add_rule.php:27 template/complaint/add_complain.php:150
+#: template/complaint/complaint.php:187 template/complaint/complaint.php:200
+#: template/documents/add_documents.php:233
+#: template/documents/documents.php:225 template/documents/documents.php:235
+#: template/member/add_member.php:675 template/member/add_member.php:707
+#: template/member/add_member.php:757
+msgid "Title"
+msgstr "Pealkiri"
+
+#: translation_string.php:85
+msgid "To"
+msgstr "To"
+
+#: translation_string.php:28
+msgid "To ("
+msgstr "Kellele ("
+
+#: admin/message/view_message.php:81
+msgid "To :"
+msgstr "Saaja:"
+
+#: admin/accounts/index.php:981 admin/accounts/index.php:999
+#: admin/parking/assign-sloat.php:377 admin/parking/assigned-sloat-list.php:40
+#: admin/parking/assigned-sloat-list.php:53
+#: template/parking-manager/assigned-sloat-list.php:76
+#: template/parking-manager/assigned-sloat-list.php:91
+#: template/parking-manager/assign_sloat.php:339
+msgid "To Date"
+msgstr "Kuupäevani"
+
+#: translation_string.php:55 admin/message/view_message.php:75
+#: admin/message/view_message.php:77 template/message/view_message.php:87
+#: template/message/view_message.php:91 template/message/view_message.php:96
+#: template/message/view_message.php:102
+msgid "To: "
+msgstr "Saaja:"
+
+#: fronted_template.php:1165 admin/dasboard.php:509
+#: admin/accounts/add-charges-all-member.php:812
+#: admin/accounts/add-charges-all-member.php:839 admin/accounts/index.php:976
+#: admin/accounts/index.php:994
+msgid "Total Amount"
+msgstr "Kogu summa"
+
+#: admin/accounts/recuring_charg_list.php:44
+#: admin/accounts/recuring_charg_list.php:57
+msgid "Total Amount "
+msgstr "Kogu summa"
+
+#: admin/facility/facility-booking-list.php:39
+#: admin/facility/facility-booking-list.php:54
+#: template/facility/facility-booking-list.php:39
+#: template/facility/facility-booking-list.php:55
+msgid "Total Charge"
+msgstr "Kogu tasu"
+
+#: admin/facility/booking-facility.php:203
+#: template/facility/booking-facility.php:200
+msgid "Total Cost"
+msgstr "Kogumaksumus"
+
+#: translation_string.php:15
+msgid "Total Paid Amount :"
+msgstr "Tasutud summa kokku:"
+
+#: admin/general-settings.php:388
+msgid "Turkish Lira"
+msgstr "Türgi liir"
+
+#: admin/parking/assign-sloat.php:225
+#: template/parking-manager/assign_sloat.php:196
+msgid "Two Wheeler"
+msgstr "Kaherattaline"
+
+#: admin/complaint/add_complaint.php:157
+#: template/complaint/add_complain.php:159
+msgid "Type"
+msgstr "Tüüp"
+
+#: translation_string.php:31
+msgid "Type:"
+msgstr "Tüüp:"
+
+#: translation_string.php:77
+msgid "Types Name"
+msgstr "Tüüpide nimi"
+
+#: admin/general-settings.php:390
+msgid "U.S. Dollar"
+msgstr "USA dollar"
+
+#: admin/parking/assigned-sloat-list.php:85
+#: template/parking-manager/assigned-sloat-list.php:168
+msgid "Unallocated"
+msgstr "Määramata"
+
+#: admin/accounts/add-charges-all-member.php:245
+#: admin/assets-inventory/add-inventory.php:69
+#: admin/assets-inventory/inventory-list.php:27
+#: admin/assets-inventory/inventory-list.php:35
+#: admin/ducuments/add-document.php:194 admin/ducuments/add-document.php:450
+#: admin/member/add_member.php:183 admin/parking/assign-sloat.php:294
+#: admin/parking/assign-sloat.php:503 admin/residential-unit/index.php:440
+#: admin/visitor-manage/visitor-checkin.php:265
+#: template/assets-inventory-tracker/add_inventory.php:70
+#: template/assets-inventory-tracker/inventory_list.php:28
+#: template/assets-inventory-tracker/inventory_list.php:38
+#: template/documents/add_documents.php:131 template/member/add_member.php:195
+#: template/parking-manager/assign_sloat.php:263
+#: template/parking-manager/parking-manager.php:527
+#: template/visitor-manage/visitor_checkin.php:218
+msgid "Unit"
+msgstr "Ühik"
+
+#: admin/report/index.php:21 template/report/report.php:17
+msgid "Unit By Building"
+msgstr "Ühik hoone järgi"
+
+#: fronted_template.php:862 admin/dasboard.php:362
+#: admin/accounts/add-charges-all-member.php:217
+#: admin/accounts/add-charges-all-member.php:366
+#: admin/ducuments/add-document.php:167 admin/ducuments/add-document.php:429
+#: admin/ducuments/add-document.php:920 admin/member/add_member.php:156
+#: admin/member/add_member.php:867 admin/parking/assign-sloat.php:266
+#: admin/parking/assign-sloat.php:475 admin/parking/assign-sloat.php:999
+#: admin/residential-unit/add_unit.php:103 admin/residential-unit/index.php:246
+#: admin/residential-unit/index.php:254 admin/residential-unit/index.php:412
+#: admin/residential-unit/index.php:934
+#: admin/visitor-manage/visitor-checkin.php:238
+#: admin/visitor-manage/visitor-checkin.php:510
+#: template/documents/add_documents.php:103 template/member/add_member.php:167
+#: template/member/member.php:586 template/parking-manager/assign_sloat.php:235
+#: template/parking-manager/parking-manager.php:499
+#: template/parking-manager/parking-manager.php:1025
+#: template/resident_unit/add_unit.php:84
+#: template/resident_unit/resident_unit.php:189
+#: template/resident_unit/resident_unit.php:197
+#: template/visitor-manage/visitor_checkin.php:191
+msgid "Unit Category"
+msgstr "Osakategooria"
+
+#: admin/accounts/add-charges-all-member.php:171
+msgid "Unit Category Member"
+msgstr "Osakategooria liige"
+
+#: translation_string.php:7
+msgid "Unit Category Name"
+msgstr "Üksuse kategooria nimi"
+
+#: translation_string.php:37
+msgid "UNIT CATEGORY: "
+msgstr "ÜHIKU KATEGOORIA:"
+
+#: translation_string.php:45
+msgid "Unit Documents"
+msgstr "Üksuse dokumendid"
+
+#: admin/member/view_user.php:347 template/member/view_member.php:401
+msgid "Unit Member List"
+msgstr "Üksuse liikmete nimekiri"
+
+#: translation_string.php:1
+msgid "Unit Members"
+msgstr "Üksuse liikmed"
+
+#: fronted_template.php:861 admin/dasboard.php:361 admin/accounts/index.php:973
+#: admin/accounts/index.php:991 admin/committee-member/index.php:58
+#: admin/committee-member/index.php:70 admin/ducuments/add-document.php:948
+#: admin/ducuments/add-document.php:950 admin/member/add_member.php:895
+#: admin/member/add_member.php:897 admin/member/member_list.php:94
+#: admin/member/member_list.php:106 admin/member/view_user.php:204
+#: admin/notification-templates/index.php:162
+#: admin/parking/assign-sloat.php:1028 admin/parking/assign-sloat.php:1030
+#: admin/residential-unit/add_unit.php:171
+#: admin/residential-unit/add_unit.php:174
+#: admin/residential-unit/add_unit.php:206
+#: admin/residential-unit/add_unit.php:209 admin/residential-unit/index.php:244
+#: admin/residential-unit/index.php:252 admin/residential-unit/index.php:962
+#: admin/residential-unit/index.php:964
+#: admin/visitor-manage/visitor-checkin.php:537
+#: admin/visitor-manage/visitor-checkin.php:539
+#: template/committee-member/committee-member.php:87
+#: template/committee-member/committee-member.php:103
+#: template/member/member.php:357 template/member/member.php:369
+#: template/member/member.php:614 template/member/member.php:616
+#: template/member/view_member.php:232
+#: template/parking-manager/parking-manager.php:1052
+#: template/parking-manager/parking-manager.php:1055
+#: template/resident_unit/add_unit.php:151
+#: template/resident_unit/add_unit.php:154
+#: template/resident_unit/add_unit.php:179
+#: template/resident_unit/add_unit.php:182
+#: template/resident_unit/resident_unit.php:187
+#: template/resident_unit/resident_unit.php:195
+msgid "Unit Name"
+msgstr "Üksuse nimi"
+
+#: admin/ducuments/index.php:174 admin/ducuments/index.php:185
+#: template/documents/documents.php:226 template/documents/documents.php:236
+msgid "Unit name"
+msgstr "Üksuse nimi"
+
+#: translation_string.php:38
+msgid "UNIT NUMBER: "
+msgstr "ÜHIKU NUMBER:"
+
+#: admin/ducuments/add-document.php:953 admin/ducuments/add-document.php:962
+#: admin/member/add_member.php:900 admin/member/add_member.php:912
+#: admin/parking/assign-sloat.php:1033 admin/parking/assign-sloat.php:1042
+#: admin/residential-unit/add_unit.php:178
+#: admin/residential-unit/add_unit.php:190
+#: admin/residential-unit/add_unit.php:212
+#: admin/residential-unit/add_unit.php:221 admin/residential-unit/index.php:967
+#: admin/residential-unit/index.php:979
+#: admin/visitor-manage/visitor-checkin.php:542
+#: admin/visitor-manage/visitor-checkin.php:551 template/member/member.php:619
+#: template/member/member.php:628
+#: template/parking-manager/parking-manager.php:1058
+#: template/parking-manager/parking-manager.php:1067
+#: template/resident_unit/add_unit.php:157
+#: template/resident_unit/add_unit.php:165
+#: template/resident_unit/add_unit.php:185
+#: template/resident_unit/add_unit.php:193
+msgid "Unit Size"
+msgstr "Ühiku suurus"
+
+#: admin/general-settings.php:338
+msgid "United Arab Emirates dirham"
+msgstr "Araabia Ühendemiraatide dirham"
+
+#: fronted_template.php:1293 fronted_template.php:1310 admin/dasboard.php:584
+#: admin/dasboard.php:601 admin/accounts/index.php:1102
+#: admin/accounts/index.php:1119
+msgid "Unpaid"
+msgstr "Maksmata"
+
+#: amgt-function.php:542
+msgid "Update FAQ"
+msgstr "Uuenda KKK-d"
+
+#: amgt-function.php:579
+msgid "Update Photo Gallery"
+msgstr "Värskendage fotogaleriid"
+
+#: template/profile/profile.php:149
+msgid "Update Profile"
+msgstr "Uuenda profiili"
+
+#: amgt-function.php:504
+msgid "Update Rules"
+msgstr "Reeglite värskendamine"
+
+#: admin/general-settings.php:223 admin/general-settings.php:224
+msgid "Upload Cover Image"
+msgstr "Laadige üles kaanepilt"
+
+#: admin/ducuments/add-document.php:263 admin/ducuments/add-document.php:286
+#: admin/member/add_member.php:680 admin/member/add_member.php:713
+#: admin/member/add_member.php:763 template/documents/add_documents.php:211
+#: template/documents/add_documents.php:231 template/member/add_member.php:670
+#: template/member/add_member.php:703 template/member/add_member.php:753
+msgid "Upload Document"
+msgstr "Laadi dokument üles"
+
+#: admin/general-settings.php:209 admin/accountant/add_accountant.php:220
+#: admin/accountant/add_accountant.php:221 admin/ducuments/add-document.php:763
+#: admin/ducuments/add-document.php:764 admin/gatekeeper/add_gatekeeper.php:198
+#: admin/gatekeeper/add_gatekeeper.php:199 admin/member/add_accountant.php:233
+#: admin/member/add_accountant.php:234 admin/member/add_gatekeeper.php:257
+#: admin/member/add_gatekeeper.php:258 admin/member/add_member.php:565
+#: admin/member/add_member.php:566 admin/member/add_staff_member.php:275
+#: admin/member/add_staff_member.php:276 admin/parking/assign-sloat.php:838
+#: admin/parking/assign-sloat.php:839 admin/residential-unit/index.php:774
+#: admin/residential-unit/index.php:775
+#: admin/staff-member/add_staff_member.php:210
+#: admin/staff-member/add_staff_member.php:211
+msgid "Upload image"
+msgstr "Lae pilt üles"
+
+#: admin/general-settings.php:210
+msgid "Upload image."
+msgstr "Lae pilt üles."
+
+#: admin/general-settings.php:295
+msgid "Use Paymaster Payment Gateways"
+msgstr "Kasutage Paymasteri makselüüse"
+
+#: admin/accountant/add_accountant.php:195 admin/ducuments/add-document.php:740
+#: admin/gatekeeper/add_gatekeeper.php:178 admin/member/add_accountant.php:208
+#: admin/member/add_gatekeeper.php:232 admin/member/add_member.php:539
+#: admin/member/add_staff_member.php:251 admin/member/view_user.php:161
+#: admin/parking/assign-sloat.php:814 admin/residential-unit/index.php:750
+#: admin/staff-member/add_staff_member.php:190
+#: template/accountant/add_accountant.php:195
+#: template/gatekeeper/gatekeeper.php:611 template/member/add_member.php:533
+#: template/member/view_member.php:181
+#: template/parking-manager/parking-manager.php:841
+msgid "User Name"
+msgstr "Kasutajanimi"
+
+#: admin/notification-templates/index.php:349
+msgid "User Role"
+msgstr "Kasutaja roll"
+
+#: amgt-function.php:361 admin/notification-templates/index.php:350
+#: template/profile/profile.php:279
+msgid "Username"
+msgstr "Kasutajanimi"
+
+#: admin/accountant/index.php:73 admin/gatekeeper/index.php:69
+#: admin/member/index.php:187 admin/member/index.php:422
+#: admin/member/index.php:488 admin/member/index.php:554
+#: admin/staff-member/index.php:69 template/accountant/accountant.php:117
+#: template/gatekeeper/gatekeeper.php:115 template/member/member.php:234
+msgid "Username Or Emailid Already Exist."
+msgstr "Kasutajanimi või e-posti aadress on juba olemas."
+
+#: translation_string.php:89
+msgid "Username too short. At least 4 characters is required"
+msgstr "Kasutajanimi liiga lühike. Nõutav on vähemalt 4 tähemärki"
+
+#: admin/notice-events/index.php:315 admin/notice-events/index.php:325
+#: template/notice-event/notice-event.php:358
+#: template/notice-event/notice-event.php:368
+msgid "Valid Date"
+msgstr "Kehtiv kuupäev"
+
+#: translation_string.php:58
+msgid "Valid Date:"
+msgstr "Kehtiv kuupäev:"
+
+#: admin/notification-templates/index.php:618
+#: admin/parking/assign-sloat.php:205
+#: template/parking-manager/assign_sloat.php:176
+msgid "Vehicle Model"
+msgstr "Sõiduki mudel"
+
+#: admin/notification-templates/index.php:617
+#: admin/parking/assign-sloat.php:197 admin/parking/assigned-sloat-list.php:38
+#: admin/parking/assigned-sloat-list.php:51
+#: admin/visitor-manage/visitor-checkin.php:84
+#: admin/visitor-manage/visitor-checkin.php:342
+#: admin/visitor-manage/visitor-checkin.php:390
+#: admin/visitor-manage/visitor-checkin.php:427
+#: template/parking-manager/assigned-sloat-list.php:74
+#: template/parking-manager/assigned-sloat-list.php:89
+#: template/parking-manager/assign_sloat.php:168
+#: template/visitor-manage/visitor_checkin.php:46
+#: template/visitor-manage/visitor_checkin.php:299
+#: template/visitor-manage/visitor_checkin.php:347
+#: template/visitor-manage/visitor_checkin.php:384
+msgid "Vehicle Number"
+msgstr "Sõiduki number"
+
+#: admin/notification-templates/index.php:619
+#: admin/parking/assign-sloat.php:221
+#: template/parking-manager/assign_sloat.php:192
+msgid "Vehicle Type"
+msgstr "Sõiduki tüüp"
+
+#: admin/accounts/add-expense.php:116 admin/accounts/expense-list.php:26
+#: admin/accounts/expense-list.php:35 admin/assets-inventory/add-assets.php:86
+#: admin/report/download_expense_report.php:77
+#: admin/report/download_expense_report.php:86
+#: template/assets-inventory-tracker/add_asset.php:92
+msgid "Vendor Name"
+msgstr "Pakkuja nimi"
+
+#: admin/access_right/Accountant.php:223 admin/access_right/Gatekeeper.php:223
+#: admin/access_right/Member.php:223 admin/access_right/Staff_Member.php:223
+#: admin/complaint/index.php:263 admin/member/accountant_list.php:113
+#: admin/member/gatekeeper_list.php:123 admin/member/member_list.php:153
+#: admin/member/staff_list.php:113 admin/notice-events/event_list.php:65
+#: admin/notice-events/index.php:364 template/complaint/complaint.php:348
+#: template/member/member.php:493 template/notice-event/event_list.php:150
+#: template/notice-event/notice-event.php:454
+msgid "View"
+msgstr "Vaade"
+
+#: admin/committee-member/index.php:106
+#: template/committee-member/committee-member.php:142
+msgid "View Details"
+msgstr "Vaata detaile"
+
+#: admin/complaint/add_complaint.php:357 admin/complaint/index.php:269
+#: admin/ducuments/add-document.php:269 admin/ducuments/index.php:218
+#: admin/member/view_user.php:433 admin/member/view_user.php:477
+#: admin/member/view_user.php:495 admin/member/view_user.php:524
+#: admin/notice-events/event_list.php:72 admin/notice-events/index.php:370
+#: template/complaint/add_complain.php:374 template/complaint/complaint.php:364
+#: template/documents/add_documents.php:217
+#: template/documents/documents.php:328 template/member/view_member.php:489
+#: template/member/view_member.php:533 template/member/view_member.php:551
+#: template/member/view_member.php:580 template/notice-event/event_list.php:166
+#: template/notice-event/notice-event.php:472
+#: template/resident_unit/resident_unit.php:299
+#: template/resident_unit/resident_unit.php:307
+#: template/resident_unit/resident_unit.php:348
+#: template/resident_unit/resident_unit.php:356
+#: template/resident_unit/resident_unit.php:397
+#: template/resident_unit/resident_unit.php:405
+msgid "View Document"
+msgstr "Kuva dokument"
+
+#: amgt-function.php:538
+msgid "View FAQ"
+msgstr "Kuva KKK"
+
+#: admin/accounts/expense-list.php:54 admin/accounts/index.php:1177
+msgid "View Invoice"
+msgstr "Kuva arve"
+
+#: admin/residential-unit/index.php:293 template/member/member.php:320
+#: template/resident_unit/resident_unit.php:290
+#: template/resident_unit/resident_unit.php:338
+#: template/resident_unit/resident_unit.php:387
+msgid "View Member"
+msgstr "Kuva liige"
+
+#: admin/residential-unit/index.php:301
+#: template/resident_unit/resident_unit.php:292
+#: template/resident_unit/resident_unit.php:340
+#: template/resident_unit/resident_unit.php:389
+msgid "View Member History"
+msgstr "Kuva liikmete ajalugu"
+
+#: template/message/message.php:95
+msgid "View Message"
+msgstr "Kuva sõnum"
+
+#: amgt-function.php:575
+msgid "View Photo Gallery"
+msgstr "Kuva fotogalerii"
+
+#: amgt-function.php:500
+msgid "View Rules"
+msgstr "Kuva reeglid"
+
+#: admin/member/index.php:580
+msgid "View User"
+msgstr "Kuva kasutaja"
+
+#: admin/ducuments/index.php:177 admin/ducuments/index.php:188
+msgid "Visible For"
+msgstr "Nähtav"
+
+#: admin/notification-templates/index.php:1016
+#: admin/visitor-manage/visitor-checkin.php:292
+msgid "Visit Date"
+msgstr "Külastuse kuupäev"
+
+#: translation_string.php:40
+msgid "VISIT DATE: "
+msgstr "KÜLASTAMISE KUUPÄEV:"
+
+#: admin/notification-templates/index.php:1015
+#: admin/visitor-manage/visitor-checkin.php:297
+msgid "Visit Time"
+msgstr "Külasta aega"
+
+#: translation_string.php:41
+msgid "VISIT TIME: "
+msgstr "KÜLASTUSAEG:"
+
+#: amgt-function.php:40 admin/admin.php:30 admin/admin.php:30
+#: admin/access_right/Accountant.php:505 admin/access_right/Gatekeeper.php:505
+#: admin/access_right/Member.php:505 admin/access_right/Staff_Member.php:505
+msgid "Visitor Management"
+msgstr "Külastajate haldamine"
+
+#: admin/visitor-manage/visitor-checkin.php:84
+#: admin/visitor-manage/visitor-checkin.php:328
+#: admin/visitor-manage/visitor-checkin.php:376
+#: admin/visitor-manage/visitor-checkin.php:410
+#: template/visitor-manage/visitor_checkin.php:46
+#: template/visitor-manage/visitor_checkin.php:285
+#: template/visitor-manage/visitor_checkin.php:333
+#: template/visitor-manage/visitor_checkin.php:367
+msgid "Visitor Name"
+msgstr "Külastaja nimi"
+
+#: admin/visitor-manage/visitor-checkin-list.php:131
+#: admin/visitor-manage/visitor-checkin-list.php:143
+#: template/visitor-manage/visitor-manage.php:403
+#: template/visitor-manage/visitor-manage.php:416
+msgid "Visitor Name-ID Number-Vehicle Number"
+msgstr "Külastaja nimi-ID number-sõidukinumber"
+
+#: admin/visitor-manage/index.php:312
+#: template/visitor-manage/visitor-manage.php:339
+msgid "Visitor Request"
+msgstr "Külastaja taotlus"
+
+#: admin/visitor-manage/index.php:261
+msgid "Visitor Request Approved Successfully"
+msgstr "Külastaja taotlus on edukalt kinnitatud"
+
+#: template/visitor-manage/visitor-manage.php:280
+msgid "Visitor request Approved successfully"
+msgstr "Külastaja taotlus Heaks kiidetud"
+
+#: admin/notification-templates/index.php:1002
+msgid "Visitor Request Email Template"
+msgstr "Külastaja taotleb e-posti malli"
+
+#: admin/visitor-manage/index.php:236
+#: template/visitor-manage/visitor-manage.php:238
+msgid "Visitor Request inserted successfully"
+msgstr "Külastajataotlus on edukalt sisestatud"
+
+#: admin/visitor-manage/index.php:302
+#: template/visitor-manage/visitor-manage.php:326
+msgid "Visitor Request List"
+msgstr "Külastajate taotluste loend"
+
+#: admin/notification-templates/index.php:984
+msgid "Visitor Request Template"
+msgstr "Külastajate taotluste mall"
+
+#: admin/visitor-manage/index.php:241
+#: template/visitor-manage/visitor-manage.php:247
+msgid "Visitor Request updated successfully."
+msgstr "Külastajataotluse värskendamine õnnestus."
+
+#: amgt-function.php:135 amgt-function.php:442
+#: admin/accounts/add-charges-all-member.php:114
+#: admin/accounts/recuring_charg_list.php:95
+msgid "Yearly"
+msgstr "Iga-aastane"
+
+#: admin/facility/index.php:473 template/facility/facility.php:420
+msgid "Yes"
+msgstr "Jah"
+
+#: admin/notification-templates/index.php:159
+#: admin/notification-templates/index.php:207
+#: admin/notification-templates/index.php:254
+#: admin/notification-templates/index.php:301
+#: admin/notification-templates/index.php:346
+#: admin/notification-templates/index.php:396
+#: admin/notification-templates/index.php:447
+#: admin/notification-templates/index.php:500
+#: admin/notification-templates/index.php:555
+#: admin/notification-templates/index.php:611
+#: admin/notification-templates/index.php:665
+#: admin/notification-templates/index.php:721
+#: admin/notification-templates/index.php:776
+#: admin/notification-templates/index.php:822
+#: admin/notification-templates/index.php:870
+#: admin/notification-templates/index.php:916
+#: admin/notification-templates/index.php:965
+#: admin/notification-templates/index.php:1011
+#: admin/notification-templates/index.php:1063
+msgid "You can use following variables in the email template:"
+msgstr "E-posti mallis saate kasutada järgmisi muutujaid:"
+
+#: amgt-function.php:1537
+msgid "You do not have permission to perform this operation."
+msgstr "Teil pole selle toimingu tegemiseks luba."
+
+#: translation_string.php:82
+msgid ""
+"Your registration is complete. Your account will active after admin will "
+"approve."
+msgstr ""
+"Teie registreerimine on lõppenud. Teie konto aktiveerub pärast seda, kui "
+"administraator on selle heaks kiitnud."
+
+#: admin/accountant/add_accountant.php:185 admin/ducuments/add-document.php:708
+#: admin/gatekeeper/add_gatekeeper.php:171 admin/member/add_accountant.php:197
+#: admin/member/add_gatekeeper.php:222 admin/member/add_member.php:505
+#: admin/member/add_staff_member.php:240 admin/member/view_user.php:321
+#: admin/parking/assign-sloat.php:782 admin/residential-unit/index.php:718
+#: admin/staff-member/add_staff_member.php:183
+#: template/accountant/add_accountant.php:185
+#: template/gatekeeper/gatekeeper.php:602 template/member/add_member.php:499
+#: template/member/view_member.php:372
+#: template/parking-manager/parking-manager.php:807
+msgid "Zip Code"
+msgstr "Postiindeks"
+
+#: translation_string.php:13
+msgid "| Bill To."
+msgstr "| Arve."
+
+msgid "Export CSV"
+msgstr "Ekspordi CSV"
+
+msgid "Import CSV"
+msgstr "Impordi CSV"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Staff"
+msgstr "Personal"
+
+msgid "Expense entries"
+msgstr "Kulu kanded"
+
+msgid "Please select at least one record"
+msgstr "Valige vähemalt üks kirje"
+
+msgid "Forgot your password"
+msgstr "Unustasid salasõna"
+
+msgid "Pay"
+msgstr "Maksma"
+
+msgid "Service Details"
+msgstr "Teenuse üksikasjad"
+
+msgid "Please select at least one record."
+msgstr "Valige vähemalt üks kirje."
+
+msgid "You must fill out the field"
+msgstr "Peate täitma välja"
+
+msgid "Phonenumber"
+msgstr "Telefoninumber"
+
+msgid "Expense Entries"
+msgstr "Kulu kanded"
+
+msgid "ERROR"
+msgstr "VIGA"
+
+msgid "Forgot your password?"
+msgstr "Unustasid salasõna?"
+
+msgid "Only '.jpg','.jpeg','.png'  formats are allowed."
+msgstr "Lubatud on ainult vormingud \".jpg\", \".jpeg\", \".png\"."
+
+msgid "jpg,jpeg,png File allowed ,csv file not allowed"
+msgstr "jpg, jpeg, png Fail lubatud, csv-fail pole lubatud"
+
+msgid "Delete Selected"
+msgstr "Kustuta valitud"
+
+msgid "administrator"
+msgstr "administraator"
+
+msgid "gatekeeper"
+msgstr "väravavaht"
+
+msgid "committee_member"
+msgstr "komisjoni_liige"
+
+msgid "staffmember"
+msgstr "töötaja"
+
+msgid "accountant"
+msgstr "raamatupidaja"
+
+msgid "member"
+msgstr "liige"
+
+msgid "Building/Group"
+msgstr "Hoone/grupp"
+
+msgid "Select CSV File"
+msgstr "Valige CSV-fail"
+
+msgid "Select User Type"
+msgstr "Valige Kasutaja tüüp"
+
+msgid "Paid"
+msgstr "Tasuline"
+
+msgid "Sorry, only JPG, pdf, docs., JPEG, PNG And GIF files are allowed"
+msgstr "Kahjuks on lubatud ainult JPG, pdf, docs., JPEG, PNG ja GIF failid"
+
+msgid "Only jpg,jpeg,png File allowed"
+msgstr "Lubatud on ainult jpg, jpeg, png fail"
+
+msgid "No history Available"
+msgstr "Ajalugu pole saadaval"
+
+msgid "Member Detail"
+msgstr "Liikme üksikasjad"
+
+msgid "Member history"
+msgstr "Liikmete ajalugu"
